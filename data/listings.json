@@ -120,8 +120,8 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2025-12-18T21:20:36.852681Z",
-    "is_new": true
+    "last_seen": "2025-12-18T21:39:27.536713Z",
+    "is_new": false
   },
   "d6a468cd59a1": {
     "id": "d6a468cd59a1",
@@ -137,6 +137,70 @@
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
     "last_seen": "2025-12-18T21:20:36.852681Z",
+    "is_new": true
+  },
+  "10e9dbc46363": {
+    "id": "10e9dbc46363",
+    "source": "Viabilis",
+    "source_url": "https://www.viabilis.be/fr/detail/7303088/vente/appartement/saint-gilles",
+    "title": "Spacieux appartement 2 chambres avec extérieur",
+    "price": 325000,
+    "surface": 126,
+    "bedrooms": 2,
+    "address": "Square de l'Aviation 19 - 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T21:39:27.536713Z",
+    "last_seen": "2025-12-18T21:39:27.536713Z",
+    "is_new": true
+  },
+  "0a4bd9dcca93": {
+    "id": "0a4bd9dcca93",
+    "source": "Viabilis",
+    "source_url": "https://www.viabilis.be/fr/detail/7254420/vente/appartement/saint-gilles",
+    "title": "Appartement 3e étage + combles !",
+    "price": 235000,
+    "surface": 95,
+    "bedrooms": 3,
+    "address": "Rue Gustave Defnet  4 - 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T21:39:27.536713Z",
+    "last_seen": "2025-12-18T21:39:27.536713Z",
+    "is_new": true
+  },
+  "6d517c019741": {
+    "id": "6d517c019741",
+    "source": "Viabilis",
+    "source_url": "https://www.viabilis.be/fr/detail/7221300/vente/appartement/saint-gilles",
+    "title": "Appartement 1 chambre",
+    "price": 190000,
+    "surface": 80,
+    "bedrooms": 1,
+    "address": "Avenue Fonsny 126 - 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T21:39:27.536713Z",
+    "last_seen": "2025-12-18T21:39:27.536713Z",
+    "is_new": true
+  },
+  "d8240e2bbfbc": {
+    "id": "d8240e2bbfbc",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21228885",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 350000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 FOREST",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T21:39:27.536713Z",
+    "last_seen": "2025-12-18T21:39:27.536713Z",
     "is_new": true
   }
 }
