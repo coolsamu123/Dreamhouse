@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2025-12-18T21:39:27.536713Z",
+    "last_seen": "2025-12-18T22:13:05.194926Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,8 +152,8 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-18T21:39:27.536713Z",
-    "is_new": true
+    "last_seen": "2025-12-18T22:13:05.194926Z",
+    "is_new": false
   },
   "0a4bd9dcca93": {
     "id": "0a4bd9dcca93",
@@ -168,8 +168,8 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-18T21:39:27.536713Z",
-    "is_new": true
+    "last_seen": "2025-12-18T22:13:05.194926Z",
+    "is_new": false
   },
   "6d517c019741": {
     "id": "6d517c019741",
@@ -184,8 +184,8 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-18T21:39:27.536713Z",
-    "is_new": true
+    "last_seen": "2025-12-18T22:13:05.194926Z",
+    "is_new": false
   },
   "d8240e2bbfbc": {
     "id": "d8240e2bbfbc",
@@ -201,6 +201,70 @@
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
     "last_seen": "2025-12-18T21:39:27.536713Z",
+    "is_new": true
+  },
+  "64385c7fca9f": {
+    "id": "64385c7fca9f",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21219115",
+    "title": "SPLENDIDE APP. 2CH A DEUX PAS DE LA PL. STEPHANIE",
+    "price": 470000,
+    "surface": 117,
+    "bedrooms": 2,
+    "address": "Rue Bosquet 57, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T22:13:05.194926Z",
+    "last_seen": "2025-12-18T22:13:05.194926Z",
+    "is_new": true
+  },
+  "150908d8d403": {
+    "id": "150908d8d403",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21178266",
+    "title": "Appartement 3e étage + combles !",
+    "price": 235000,
+    "surface": 95,
+    "bedrooms": 3,
+    "address": "Rue Gustave Defnet 4, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T22:13:05.194926Z",
+    "last_seen": "2025-12-18T22:13:05.194926Z",
+    "is_new": true
+  },
+  "de2c06e09091": {
+    "id": "de2c06e09091",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/20969773",
+    "title": "Bel appartement art déco",
+    "price": 430000,
+    "surface": 120,
+    "bedrooms": 2,
+    "address": "avenue de la toison d'or 66, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T22:13:05.194926Z",
+    "last_seen": "2025-12-18T22:13:05.194926Z",
+    "is_new": true
+  },
+  "430607d59ed5": {
+    "id": "430607d59ed5",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21206433",
+    "title": "Duplex à rénover avec cour",
+    "price": null,
+    "surface": 125,
+    "bedrooms": 2,
+    "address": "Rue du Monténégro 48, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-18T22:13:05.194926Z",
+    "last_seen": "2025-12-18T22:13:05.194926Z",
     "is_new": true
   }
 }
