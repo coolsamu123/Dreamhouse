@@ -1,0 +1,144 @@
+/* Dreamhouse - Custom Styles */
+
+/* Filter selects */
+.filter-select {
+    @apply w-full px-3 py-2 rounded-lg border border-gray-300 dark:border-gray-600
+           bg-white dark:bg-gray-700 text-gray-800 dark:text-white
+           focus:ring-2 focus:ring-blue-500 focus:border-transparent
+           transition cursor-pointer;
+}
+
+/* View toggle buttons */
+.view-btn {
+    @apply p-2 px-4 rounded-lg bg-gray-200 dark:bg-gray-700
+           hover:bg-gray-300 dark:hover:bg-gray-600 transition;
+}
+
+.view-btn.active {
+    @apply bg-blue-500 text-white hover:bg-blue-600;
+}
+
+/* Listing Card */
+.listing-card {
+    @apply bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden
+           transform transition-all duration-300 hover:scale-[1.02] hover:shadow-xl;
+}
+
+.listing-card:hover {
+    @apply ring-2 ring-blue-500;
+}
+
+/* NEW Badge */
+.badge-new {
+    @apply absolute top-3 left-3 bg-green-500 text-white text-xs font-bold
+           px-2 py-1 rounded-full uppercase tracking-wider shadow-lg
+           animate-pulse;
+}
+
+/* Image container */
+.listing-image-container {
+    @apply relative h-48 bg-gray-200 dark:bg-gray-700 overflow-hidden;
+}
+
+.listing-image {
+    @apply w-full h-full object-cover transition-transform duration-300;
+}
+
+.listing-card:hover .listing-image {
+    @apply scale-110;
+}
+
+/* Placeholder image */
+.placeholder-image {
+    @apply w-full h-full flex items-center justify-center text-4xl bg-gradient-to-br from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-600;
+}
+
+/* Price */
+.listing-price {
+    @apply text-2xl font-bold text-blue-600 dark:text-blue-400;
+}
+
+/* Property details */
+.listing-details {
+    @apply flex items-center gap-4 text-sm text-gray-600 dark:text-gray-400;
+}
+
+.listing-detail {
+    @apply flex items-center gap-1;
+}
+
+/* Address */
+.listing-address {
+    @apply text-gray-600 dark:text-gray-400 text-sm truncate;
+}
+
+/* Source badge */
+.source-badge {
+    @apply inline-block px-2 py-1 text-xs rounded-full
+           bg-gray-100 dark:bg-gray-700 text-gray-600 dark:text-gray-400;
+}
+
+/* View button */
+.btn-view {
+    @apply block w-full text-center bg-blue-500 text-white py-2 rounded-lg
+           hover:bg-blue-600 transition font-medium;
+}
+
+/* Map markers */
+.leaflet-popup-content-wrapper {
+    @apply rounded-lg shadow-lg;
+}
+
+.leaflet-popup-content {
+    @apply p-0 m-0;
+}
+
+/* Dark mode adjustments for map */
+.dark .leaflet-tile {
+    filter: brightness(0.8) contrast(1.1);
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.listing-card {
+    animation: fadeIn 0.3s ease-out;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .listing-price {
+        @apply text-xl;
+    }
+
+    .listing-details {
+        @apply flex-wrap gap-2;
+    }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    @apply bg-gray-100 dark:bg-gray-800;
+}
+
+::-webkit-scrollbar-thumb {
+    @apply bg-gray-400 dark:bg-gray-600 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-500 dark:bg-gray-500;
+}
