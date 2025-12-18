@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dreamhouse - Appartements Bruxelles</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🏠</text></svg>">
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 min-h-screen transition-colors duration-300">
+    <!-- Header -->
+    <header class="bg-white dark:bg-gray-800 shadow-md sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+                <div class="flex items-center justify-between">
+                    <h1 class="text-2xl font-bold text-gray-800 dark:text-white">
+                        🏠 Dreamhouse
+                    </h1>
+                    <button id="theme-toggle" class="md:hidden p-2 rounded-lg bg-gray-200 dark:bg-gray-700">
+                        <span class="dark:hidden">🌙</span>
+                        <span class="hidden dark:inline">☀️</span>
+                    </button>
+                </div>
+                <div class="flex items-center gap-4">
+                    <span id="last-updated" class="text-sm text-gray-500 dark:text-gray-400"></span>
+                    <span id="listing-count" class="text-sm font-semibold text-blue-600 dark:text-blue-400"></span>
+                    <button id="theme-toggle-desktop" class="hidden md:block p-2 rounded-lg bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition">
+                        <span class="dark:hidden">🌙</span>
+                        <span class="hidden dark:inline">☀️</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Filters -->
+            <div class="mt-4 grid grid-cols-2 md:grid-cols-5 gap-3">
+                <select id="filter-commune" class="filter-select">
+                    <option value="">Toutes les communes</option>
+                    <option value="saint-gilles">Saint-Gilles</option>
+                    <option value="forest">Forest</option>
+                    <option value="ixelles">Ixelles</option>
+                </select>
+
+                <select id="filter-price" class="filter-select">
+                    <option value="">Tous les prix</option>
+                    <option value="0-1000">< 1.000 €</option>
+                    <option value="1000-1200">1.000 - 1.200 €</option>
+                    <option value="1200-1500">1.200 - 1.500 €</option>
+                    <option value="1500-9999">> 1.500 €</option>
+                </select>
+
+                <select id="filter-bedrooms" class="filter-select">
+                    <option value="">Toutes chambres</option>
+                    <option value="1">1 chambre</option>
+                    <option value="2">2 chambres</option>
+                    <option value="3">3+ chambres</option>
+                </select>
+
+                <select id="filter-surface" class="filter-select">
+                    <option value="">Toutes surfaces</option>
+                    <option value="0-50">< 50 m²</option>
+                    <option value="50-75">50 - 75 m²</option>
+                    <option value="75-100">75 - 100 m²</option>
+                    <option value="100-9999">> 100 m²</option>
+                </select>
+
+                <button id="btn-reset-filters" class="bg-gray-500 text-white px-4 py-2 rounded-lg hover:bg-gray-600 transition col-span-2 md:col-span-1">
+                    Réinitialiser
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-6">
+        <!-- View Toggle -->
+        <div class="flex justify-end mb-4 gap-2">
+            <button id="view-list" class="view-btn active" title="Vue liste">
+                📋
+            </button>
+            <button id="view-map" class="view-btn" title="Vue carte">
+                🗺️
+            </button>
+        </div>
+
+        <!-- Map View (hidden by default) -->
+        <div id="map-container" class="hidden mb-6">
+            <div id="map" class="w-full h-96 rounded-lg shadow-lg"></div>
+        </div>
+
+        <!-- Listings Grid -->
+        <div id="listings-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Listings will be inserted here by JavaScript -->
+        </div>
+
+        <!-- Loading State -->
+        <div id="loading" class="text-center py-12">
+            <div class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-blue-500 border-t-transparent"></div>
+            <p class="mt-4 text-gray-600 dark:text-gray-400">Chargement des annonces...</p>
+        </div>
+
+        <!-- No Results -->
+        <div id="no-results" class="hidden text-center py-12">
+            <p class="text-4xl mb-4">🔍</p>
+            <p class="text-xl text-gray-600 dark:text-gray-400">Aucune annonce ne correspond à vos critères</p>
+            <button id="btn-reset-filters-2" class="mt-4 bg-blue-500 text-white px-6 py-2 rounded-lg hover:bg-blue-600 transition">
+                Réinitialiser les filtres
+            </button>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white dark:bg-gray-800 border-t dark:border-gray-700 mt-12 py-6">
+        <div class="container mx-auto px-4 text-center text-gray-600 dark:text-gray-400">
+            <p>🏠 Dreamhouse - Veille immobilière automatisée</p>
+            <p class="text-sm mt-2">Saint-Gilles • Forest • Ixelles</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
