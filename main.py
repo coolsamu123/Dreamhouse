@@ -15,6 +15,7 @@ from pathlib import Path
 from scrapers.saint_gilles import scrape_all_saint_gilles, SAINT_GILLES_SCRAPERS
 from scrapers.forest import scrape_all_forest, FOREST_SCRAPERS
 from scrapers.ixelles import scrape_all_ixelles, IXELLES_SCRAPERS
+from scrapers.portals import scrape_all_portals, PORTAL_SCRAPERS
 from scrapers.utils import (
     load_listings,
     save_listings,
@@ -64,6 +65,12 @@ def run_all_scrapers() -> list[dict]:
     ixelles_listings = scrape_all_ixelles()
     all_listings.extend(ixelles_listings)
     logger.info(f"Found {len(ixelles_listings)} listings in Ixelles")
+
+    # Major Portals (Immoweb, Zimmo)
+    logger.info("\n🌐 Scraping Major Portals...")
+    portal_listings = scrape_all_portals()
+    all_listings.extend(portal_listings)
+    logger.info(f"Found {len(portal_listings)} listings from portals")
 
     logger.info("\n" + "=" * 60)
     logger.info(f"Total listings found: {len(all_listings)}")
@@ -132,6 +139,7 @@ def run_single_scraper(scraper_name: str) -> list[dict]:
         **{s.name: s for s in SAINT_GILLES_SCRAPERS},
         **{s.name: s for s in FOREST_SCRAPERS},
         **{s.name: s for s in IXELLES_SCRAPERS},
+        **{s.name: s for s in PORTAL_SCRAPERS},
     }
 
     if scraper_name not in all_scrapers:
@@ -160,7 +168,11 @@ def list_scrapers():
     for s in IXELLES_SCRAPERS:
         print(f"   - {s.name}")
 
-    total = len(SAINT_GILLES_SCRAPERS) + len(FOREST_SCRAPERS) + len(IXELLES_SCRAPERS)
+    print("\n🌐 Major Portals:")
+    for s in PORTAL_SCRAPERS:
+        print(f"   - {s.name}")
+
+    total = len(SAINT_GILLES_SCRAPERS) + len(FOREST_SCRAPERS) + len(IXELLES_SCRAPERS) + len(PORTAL_SCRAPERS)
     print(f"\nTotal: {total} scrapers")
 
 

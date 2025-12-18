@@ -121,37 +121,66 @@ class TribelImmoScraper(BaseScraper):
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
-        cards = soup.select('.property, .bien, article, .listing, .property-card')
+        import re
+
+        # Try multiple selectors for Tribel Immo's structure
+        cards = soup.select('.property-item, .bien-item, .listing-item, .properties-list-item, tr[class*="property"], div[class*="property"], article')
+
+        if not cards:
+            # Fallback: find all links to property details
+            cards = soup.select('a[href*="view=detail"], a[href*="id="]')
+            if cards:
+                # Wrap links in their parent containers
+                cards = [link.parent for link in cards if link.parent]
 
         for card in cards:
             try:
                 listing = {}
 
-                link = card.select_one('a[href]')
+                # URL - look for detail links
+                link = card.select_one('a[href*="view=detail"], a[href*="id="], a[href]')
                 if link:
-                    listing['url'] = link.get('href', '')
+                    href = link.get('href', '')
+                    if href and 'id=' in href:
+                        listing['url'] = href if href.startswith('http') else f"{self.base_url}{href}"
 
-                title_elem = card.select_one('h2, h3, .title')
+                # Title
+                title_elem = card.select_one('h2, h3, h4, .title, .property-title, strong, b')
                 if title_elem:
                     listing['title'] = title_elem.get_text(strip=True)
 
-                price_elem = card.select_one('.price, .prix')
-                if price_elem:
-                    listing['price'] = self._extract_price(price_elem.get_text())
-
+                # Price - look for € symbol in text
                 text = card.get_text()
+                price_match = re.search(r'(\d[\d\s.,]*)\s*€', text)
+                if price_match:
+                    price_str = price_match.group(1).replace(' ', '').replace('.', '').replace(',', '.')
+                    try:
+                        listing['price'] = float(price_str)
+                    except:
+                        pass
+
+                # Also try specific price elements
+                if not listing.get('price'):
+                    price_elem = card.select_one('.price, .prix, [class*="price"], [class*="prix"], span.amount')
+                    if price_elem:
+                        listing['price'] = self._extract_price(price_elem.get_text())
+
+                # Surface and bedrooms
                 listing['surface'] = self._extract_surface(text)
                 listing['bedrooms'] = self._extract_bedrooms(text)
 
-                img = card.select_one('img')
+                # Image
+                img = card.select_one('img[src]:not([src*="pix.gif"]):not([src*="blank"])')
                 if img:
-                    listing['images'] = [img.get('src') or img.get('data-src', '')]
+                    src = img.get('src') or img.get('data-src', '')
+                    if src and not src.endswith('pix.gif'):
+                        listing['images'] = [src if src.startswith('http') else f"{self.base_url}/{src.lstrip('/')}"]
 
                 if listing.get('url'):
                     listings.append(listing)
 
             except Exception as e:
-                logger.warning(f"Failed to parse card: {e}")
+                logger.warning(f"Failed to parse Tribel card: {e}")
 
         return listings
 
