@@ -35,10 +35,6 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
 
-      - name: Copy data to docs folder
-        run: |
-          cp data/listings.json docs/listings.json 2>/dev/null || echo "No listings.json to copy"
-
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
