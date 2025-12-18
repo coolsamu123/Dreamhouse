@@ -372,30 +372,43 @@ async function testApiConnection() {
     btn.disabled = true;
     btn.textContent = '⏳ Test...';
     apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500 animate-pulse';
-    apiText.textContent = 'Test de connexion en cours...';
+    apiText.textContent = 'Test en cours...';
 
-    // Simulate API check by reloading data
     try {
+        // Test 1: Check if listings.json exists and loads
         const response = await fetch('listings.json?t=' + Date.now());
-        if (response.ok) {
-            const data = await response.json();
-            if (data.listings && data.listings.length > 0) {
-                apiIndicator.className = 'w-3 h-3 rounded-full bg-green-500';
-                apiText.textContent = `✓ Données OK - ${data.listings.length} annonces`;
-            } else {
-                apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500';
-                apiText.textContent = '⚠ JSON OK mais pas d\'annonces';
-            }
-        } else {
-            throw new Error('HTTP ' + response.status);
+        if (!response.ok) throw new Error('listings.json introuvable');
+
+        const data = await response.json();
+
+        // Test 2: Check if data has listings
+        if (!data.listings || data.listings.length === 0) {
+            apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500';
+            apiText.textContent = '⚠ Pas d\'annonces - Lancez le scraping';
+            btn.disabled = false;
+            btn.textContent = '🔄 Test';
+            return;
         }
+
+        // Test 3: Check data freshness
+        const lastUpdate = new Date(data.last_updated || 0);
+        const hoursSince = (Date.now() - lastUpdate) / (1000 * 60 * 60);
+
+        if (hoursSince < 4) {
+            apiIndicator.className = 'w-3 h-3 rounded-full bg-green-500';
+            apiText.textContent = `✓ OK - ${data.listings.length} annonces (MAJ ${Math.floor(hoursSince)}h)`;
+        } else {
+            apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500';
+            apiText.textContent = `⚠ ${data.listings.length} annonces - MAJ ${Math.floor(hoursSince)}h`;
+        }
+
     } catch (error) {
         apiIndicator.className = 'w-3 h-3 rounded-full bg-red-500';
-        apiText.textContent = '✗ Erreur: ' + error.message;
+        apiText.textContent = '✗ ERREUR: ' + error.message;
     }
 
     btn.disabled = false;
-    btn.textContent = '🔄 Test API';
+    btn.textContent = '🔄 Test';
 }
 
 // Event listeners
