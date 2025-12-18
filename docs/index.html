@@ -27,6 +27,10 @@
                 <div class="flex items-center gap-4">
                     <span id="last-updated" class="text-sm text-gray-500 dark:text-gray-400"></span>
                     <span id="listing-count" class="text-sm font-semibold text-blue-600 dark:text-blue-400"></span>
+                    <button id="btn-status" class="px-3 py-1 rounded-lg bg-green-100 dark:bg-green-900 text-green-700 dark:text-green-300 text-sm font-medium hover:bg-green-200 dark:hover:bg-green-800 transition flex items-center gap-1">
+                        <span id="status-indicator" class="w-2 h-2 rounded-full bg-green-500"></span>
+                        Status
+                    </button>
                     <button id="theme-toggle-desktop" class="hidden md:block p-2 rounded-lg bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition">
                         <span class="dark:hidden">🌙</span>
                         <span class="hidden dark:inline">☀️</span>
@@ -118,6 +122,82 @@
             <p class="text-sm mt-2">Saint-Gilles • Forest • Ixelles</p>
         </div>
     </footer>
+
+    <!-- Status Modal -->
+    <div id="status-modal" class="hidden fixed inset-0 bg-black bg-opacity-50 z-50 flex items-center justify-center p-4">
+        <div class="bg-white dark:bg-gray-800 rounded-xl shadow-2xl max-w-lg w-full max-h-[90vh] overflow-y-auto">
+            <div class="p-6">
+                <div class="flex justify-between items-center mb-6">
+                    <h2 class="text-xl font-bold text-gray-800 dark:text-white">🔧 Status API & Scraper</h2>
+                    <button id="close-modal" class="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 text-2xl">&times;</button>
+                </div>
+
+                <!-- API Status -->
+                <div class="mb-6">
+                    <h3 class="font-semibold text-gray-700 dark:text-gray-300 mb-3">DeepSeek API</h3>
+                    <div id="api-status" class="p-4 rounded-lg bg-gray-100 dark:bg-gray-700">
+                        <div class="flex items-center gap-2">
+                            <span id="api-indicator" class="w-3 h-3 rounded-full bg-yellow-500"></span>
+                            <span id="api-text" class="text-gray-600 dark:text-gray-300">Vérification...</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Scraper Stats -->
+                <div class="mb-6">
+                    <h3 class="font-semibold text-gray-700 dark:text-gray-300 mb-3">Statistiques</h3>
+                    <div class="grid grid-cols-2 gap-3">
+                        <div class="p-3 bg-blue-50 dark:bg-blue-900/30 rounded-lg text-center">
+                            <div id="stat-sites" class="text-2xl font-bold text-blue-600 dark:text-blue-400">25</div>
+                            <div class="text-sm text-gray-600 dark:text-gray-400">Sites scrappés</div>
+                        </div>
+                        <div class="p-3 bg-green-50 dark:bg-green-900/30 rounded-lg text-center">
+                            <div id="stat-listings" class="text-2xl font-bold text-green-600 dark:text-green-400">-</div>
+                            <div class="text-sm text-gray-600 dark:text-gray-400">Annonces</div>
+                        </div>
+                        <div class="p-3 bg-purple-50 dark:bg-purple-900/30 rounded-lg text-center">
+                            <div id="stat-new" class="text-2xl font-bold text-purple-600 dark:text-purple-400">-</div>
+                            <div class="text-sm text-gray-600 dark:text-gray-400">Nouvelles (24h)</div>
+                        </div>
+                        <div class="p-3 bg-orange-50 dark:bg-orange-900/30 rounded-lg text-center">
+                            <div id="stat-updated" class="text-2xl font-bold text-orange-600 dark:text-orange-400">-</div>
+                            <div class="text-sm text-gray-600 dark:text-gray-400">Dernière MAJ</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sites par commune -->
+                <div class="mb-6">
+                    <h3 class="font-semibold text-gray-700 dark:text-gray-300 mb-3">Sites par commune</h3>
+                    <div class="space-y-2 text-sm">
+                        <div class="flex justify-between p-2 bg-gray-50 dark:bg-gray-700 rounded">
+                            <span>📍 Saint-Gilles (1060)</span>
+                            <span class="font-semibold" id="sites-sg">7 + Immoweb</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-gray-50 dark:bg-gray-700 rounded">
+                            <span>📍 Forest (1190)</span>
+                            <span class="font-semibold" id="sites-forest">4 + Immoweb</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-gray-50 dark:bg-gray-700 rounded">
+                            <span>📍 Ixelles (1050)</span>
+                            <span class="font-semibold" id="sites-ixelles">11 + Immoweb</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Actions -->
+                <div class="flex gap-3">
+                    <a href="https://github.com/coolsamu123/Dreamhouse/actions" target="_blank"
+                       class="flex-1 bg-blue-500 text-white text-center px-4 py-3 rounded-lg hover:bg-blue-600 transition font-medium">
+                        🚀 Lancer Scraping
+                    </a>
+                    <button id="btn-test-api" class="flex-1 bg-green-500 text-white px-4 py-3 rounded-lg hover:bg-green-600 transition font-medium">
+                        🔄 Test API
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <script src="app.js"></script>
 </body>

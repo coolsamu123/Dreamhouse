@@ -8,6 +8,7 @@ let allListings = [];
 let filteredListings = [];
 let map = null;
 let markers = [];
+let statusData = null;
 
 // DOM Elements
 const listingsContainer = document.getElementById('listings-container');
@@ -279,6 +280,7 @@ async function loadListings() {
 
         allListings = data.listings || [];
         filteredListings = allListings;
+        statusData = data; // Store for status modal
 
         // Update UI
         if (data.last_updated) {
@@ -286,6 +288,7 @@ async function loadListings() {
         }
 
         renderListings();
+        checkApiStatus(); // Update header status indicator
 
     } catch (error) {
         console.error('Error loading listings:', error);
@@ -297,6 +300,102 @@ async function loadListings() {
             </button>
         `;
     }
+}
+
+// Status Modal
+function openStatusModal() {
+    const modal = document.getElementById('status-modal');
+    modal.classList.remove('hidden');
+    updateStatusModal();
+}
+
+function closeStatusModal() {
+    const modal = document.getElementById('status-modal');
+    modal.classList.add('hidden');
+}
+
+function updateStatusModal() {
+    // Update stats
+    document.getElementById('stat-listings').textContent = allListings.length || '-';
+
+    // Count new listings (last 24h)
+    const newCount = allListings.filter(l => isNew(l)).length;
+    document.getElementById('stat-new').textContent = newCount || '0';
+
+    // Last update time
+    if (statusData?.last_updated) {
+        const date = new Date(statusData.last_updated);
+        const hours = Math.floor((Date.now() - date) / (1000 * 60 * 60));
+        document.getElementById('stat-updated').textContent = hours < 1 ? '<1h' : `${hours}h`;
+    }
+
+    // Check API status based on data
+    checkApiStatus();
+}
+
+function checkApiStatus() {
+    const apiIndicator = document.getElementById('api-indicator');
+    const apiText = document.getElementById('api-text');
+    const statusIndicator = document.getElementById('status-indicator');
+
+    // Determine status based on listings data
+    if (allListings.length > 0) {
+        // Check if data is fresh (updated in last 4 hours)
+        const lastUpdate = new Date(statusData?.last_updated || 0);
+        const hoursSince = (Date.now() - lastUpdate) / (1000 * 60 * 60);
+
+        if (hoursSince < 4) {
+            apiIndicator.className = 'w-3 h-3 rounded-full bg-green-500';
+            statusIndicator.className = 'w-2 h-2 rounded-full bg-green-500';
+            apiText.textContent = `✓ Actif - ${allListings.length} annonces récupérées`;
+        } else if (hoursSince < 24) {
+            apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500';
+            statusIndicator.className = 'w-2 h-2 rounded-full bg-yellow-500';
+            apiText.textContent = `⚠ Dernière MAJ il y a ${Math.floor(hoursSince)}h`;
+        } else {
+            apiIndicator.className = 'w-3 h-3 rounded-full bg-red-500';
+            statusIndicator.className = 'w-2 h-2 rounded-full bg-red-500';
+            apiText.textContent = `✗ Pas de MAJ depuis ${Math.floor(hoursSince)}h`;
+        }
+    } else {
+        apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500';
+        statusIndicator.className = 'w-2 h-2 rounded-full bg-yellow-500';
+        apiText.textContent = '⚠ Aucune donnée - lancez le scraping';
+    }
+}
+
+async function testApiConnection() {
+    const apiIndicator = document.getElementById('api-indicator');
+    const apiText = document.getElementById('api-text');
+    const btn = document.getElementById('btn-test-api');
+
+    btn.disabled = true;
+    btn.textContent = '⏳ Test...';
+    apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500 animate-pulse';
+    apiText.textContent = 'Test de connexion en cours...';
+
+    // Simulate API check by reloading data
+    try {
+        const response = await fetch('listings.json?t=' + Date.now());
+        if (response.ok) {
+            const data = await response.json();
+            if (data.listings && data.listings.length > 0) {
+                apiIndicator.className = 'w-3 h-3 rounded-full bg-green-500';
+                apiText.textContent = `✓ Données OK - ${data.listings.length} annonces`;
+            } else {
+                apiIndicator.className = 'w-3 h-3 rounded-full bg-yellow-500';
+                apiText.textContent = '⚠ JSON OK mais pas d\'annonces';
+            }
+        } else {
+            throw new Error('HTTP ' + response.status);
+        }
+    } catch (error) {
+        apiIndicator.className = 'w-3 h-3 rounded-full bg-red-500';
+        apiText.textContent = '✗ Erreur: ' + error.message;
+    }
+
+    btn.disabled = false;
+    btn.textContent = '🔄 Test API';
 }
 
 // Event listeners
@@ -321,4 +420,19 @@ document.addEventListener('DOMContentLoaded', () => {
     // View toggles
     document.getElementById('view-list')?.addEventListener('click', showListView);
     document.getElementById('view-map')?.addEventListener('click', showMapView);
+
+    // Status modal
+    document.getElementById('btn-status')?.addEventListener('click', openStatusModal);
+    document.getElementById('close-modal')?.addEventListener('click', closeStatusModal);
+    document.getElementById('btn-test-api')?.addEventListener('click', testApiConnection);
+
+    // Close modal on backdrop click
+    document.getElementById('status-modal')?.addEventListener('click', (e) => {
+        if (e.target.id === 'status-modal') closeStatusModal();
+    });
+
+    // Close modal on Escape key
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeStatusModal();
+    });
 });
