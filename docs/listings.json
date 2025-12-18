@@ -1,110 +1,147 @@
 {
-  "8ddfa5624147": {
-    "id": "8ddfa5624147",
-    "source": "Tribel Immo",
-    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12074",
-    "title": "",
-    "price": null,
-    "surface": 122.0,
-    "bedrooms": 1,
-    "address": "",
-    "commune": "Ixelles",
-    "description": "",
-    "images": [
-      "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
-    ],
-    "first_seen": "2025-12-18T20:50:45.806302Z",
-    "last_seen": "2025-12-18T20:50:45.806302Z",
-    "is_new": true
-  },
-  "fb7faa6dab8b": {
-    "id": "fb7faa6dab8b",
-    "source": "Tribel Immo",
-    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12064",
-    "title": "",
-    "price": null,
-    "surface": 160.0,
-    "bedrooms": 2,
-    "address": "",
-    "commune": "Ixelles",
-    "description": "",
-    "images": [
-      "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
-    ],
-    "first_seen": "2025-12-18T20:50:45.806302Z",
-    "last_seen": "2025-12-18T20:50:45.806302Z",
-    "is_new": true
-  },
-  "9cfcfff028ee": {
-    "id": "9cfcfff028ee",
-    "source": "Tribel Immo",
-    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12012",
-    "title": "",
-    "price": null,
-    "surface": 170.0,
-    "bedrooms": 4,
-    "address": "",
-    "commune": "Ixelles",
-    "description": "",
-    "images": [
-      "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
-    ],
-    "first_seen": "2025-12-18T20:50:45.806302Z",
-    "last_seen": "2025-12-18T20:50:45.806302Z",
-    "is_new": true
-  },
-  "14852833b3fb": {
-    "id": "14852833b3fb",
-    "source": "Tribel Immo",
-    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=11950",
-    "title": "",
-    "price": null,
-    "surface": 90.0,
-    "bedrooms": 2,
-    "address": "",
-    "commune": "Ixelles",
-    "description": "",
-    "images": [
-      "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
-    ],
-    "first_seen": "2025-12-18T20:50:45.806302Z",
-    "last_seen": "2025-12-18T20:50:45.806302Z",
-    "is_new": true
-  },
-  "e390321615ec": {
-    "id": "e390321615ec",
-    "source": "Tribel Immo",
-    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=11933",
-    "title": "",
-    "price": null,
-    "surface": 243.0,
-    "bedrooms": 1,
-    "address": "",
-    "commune": "Ixelles",
-    "description": "",
-    "images": [
-      "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
-    ],
-    "first_seen": "2025-12-18T20:50:45.806302Z",
-    "last_seen": "2025-12-18T20:50:45.806302Z",
-    "is_new": true
-  },
-  "ee3599c84e73": {
-    "id": "ee3599c84e73",
-    "source": "Tribel Immo",
-    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=11892",
-    "title": "",
-    "price": null,
-    "surface": 320.0,
-    "bedrooms": 1,
-    "address": "",
-    "commune": "Ixelles",
-    "description": "",
-    "images": [
-      "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
-    ],
-    "first_seen": "2025-12-18T20:50:45.806302Z",
-    "last_seen": "2025-12-18T20:50:45.806302Z",
-    "is_new": true
-  }
+  "listings": [
+    {
+      "id": "87cbf6f5af62",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12074",
+      "title": "",
+      "price": 465000.0,
+      "surface": 122.0,
+      "bedrooms": 1,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-18T21:20:36.852681Z",
+      "last_seen": "2025-12-18T21:20:36.852681Z",
+      "is_new": true
+    },
+    {
+      "id": "d6a468cd59a1",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=11950",
+      "title": "",
+      "price": 395000.0,
+      "surface": 90.0,
+      "bedrooms": 2,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-18T21:20:36.852681Z",
+      "last_seen": "2025-12-18T21:20:36.852681Z",
+      "is_new": true
+    },
+    {
+      "id": "8ddfa5624147",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12074",
+      "title": "",
+      "price": null,
+      "surface": 122.0,
+      "bedrooms": 1,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [
+        "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
+      ],
+      "first_seen": "2025-12-18T20:50:45.806302Z",
+      "last_seen": "2025-12-18T20:50:45.806302Z",
+      "is_new": true
+    },
+    {
+      "id": "fb7faa6dab8b",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12064",
+      "title": "",
+      "price": null,
+      "surface": 160.0,
+      "bedrooms": 2,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [
+        "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
+      ],
+      "first_seen": "2025-12-18T20:50:45.806302Z",
+      "last_seen": "2025-12-18T20:50:45.806302Z",
+      "is_new": true
+    },
+    {
+      "id": "9cfcfff028ee",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12012",
+      "title": "",
+      "price": null,
+      "surface": 170.0,
+      "bedrooms": 4,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [
+        "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
+      ],
+      "first_seen": "2025-12-18T20:50:45.806302Z",
+      "last_seen": "2025-12-18T20:50:45.806302Z",
+      "is_new": true
+    },
+    {
+      "id": "14852833b3fb",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=11950",
+      "title": "",
+      "price": null,
+      "surface": 90.0,
+      "bedrooms": 2,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [
+        "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
+      ],
+      "first_seen": "2025-12-18T20:50:45.806302Z",
+      "last_seen": "2025-12-18T20:50:45.806302Z",
+      "is_new": true
+    },
+    {
+      "id": "e390321615ec",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=11933",
+      "title": "",
+      "price": null,
+      "surface": 243.0,
+      "bedrooms": 1,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [
+        "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
+      ],
+      "first_seen": "2025-12-18T20:50:45.806302Z",
+      "last_seen": "2025-12-18T20:50:45.806302Z",
+      "is_new": true
+    },
+    {
+      "id": "ee3599c84e73",
+      "source": "Tribel Immo",
+      "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=11892",
+      "title": "",
+      "price": null,
+      "surface": 320.0,
+      "bedrooms": 1,
+      "address": "",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [
+        "https://www.tribel-immo.be/components/com_properties/media/images/pix.gif"
+      ],
+      "first_seen": "2025-12-18T20:50:45.806302Z",
+      "last_seen": "2025-12-18T20:50:45.806302Z",
+      "is_new": true
+    }
+  ],
+  "last_updated": "2025-12-18T21:20:36.853218Z",
+  "total_count": 8,
+  "new_count": 2
 }
