@@ -43,7 +43,7 @@ function formatPrice(price) {
     if (!price) return 'Prix non disponible';
     const num = typeof price === 'string' ? parseFloat(price.replace(/[^\d]/g, '')) : price;
     return new Intl.NumberFormat('fr-BE', { style: 'currency', currency: 'EUR', maximumFractionDigits: 0 })
-        .format(num) + '/mois';
+        .format(num);
 }
 
 // Format date

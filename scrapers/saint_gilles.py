@@ -21,7 +21,7 @@ class JamPropertiesScraper(BaseScraper):
     commune = "Saint-Gilles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -87,7 +87,7 @@ class EverestPropertiesScraper(BaseScraper):
     commune = "Saint-Gilles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/locations"
+        return f"{self.base_url}/fr/ventes"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -141,7 +141,7 @@ class ViabilisScraper(BaseScraper):
     commune = "Saint-Gilles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -188,7 +188,7 @@ class NestingRealtyScraper(BaseScraper):
     commune = "Saint-Gilles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/biens-a-louer"
+        return f"{self.base_url}/fr/biens-a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -286,7 +286,7 @@ class FredimmoScraper(BaseScraper):
     commune = "Saint-Gilles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -333,7 +333,7 @@ class ModifaScraper(BaseScraper):
     commune = "Saint-Gilles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/biens?type=location"
+        return f"{self.base_url}/biens?type=vente"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []

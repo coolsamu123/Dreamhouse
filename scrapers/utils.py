@@ -117,7 +117,7 @@ def format_telegram_message(listing: dict) -> str:
     message = f"""🏠 *Nouvelle annonce !*
 
 📍 *{commune}* - {address}
-💰 {price_str} €/mois
+💰 {price_str} €
 🛏️ {bedrooms} chambre(s) | 📐 {surface} m²
 
 🏢 Source: {source}
@@ -182,12 +182,12 @@ def merge_listings(existing: dict, new_listings: list[dict]) -> tuple[dict, list
 # Search criteria configuration
 SEARCH_CRITERIA = {
     "type": "appartement",
-    "transaction": "location",
+    "transaction": "vente",  # achat
     "communes": ["Saint-Gilles", "Forest", "Ixelles"],
-    "prix_max": 1500,
-    "prix_min": 800,
+    "prix_max": 500000,
+    "prix_min": 0,
     "chambres_min": 1,
-    "surface_min": 50,
+    "surface_min": 80,
 }
 
 

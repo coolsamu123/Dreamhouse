@@ -19,7 +19,7 @@ class LecobelVaneauScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/biens-a-louer"
+        return f"{self.base_url}/fr/biens-a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -70,7 +70,7 @@ class OralisScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -117,7 +117,7 @@ class TribelImmoScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -215,7 +215,7 @@ class ByTheWayScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/locations"
+        return f"{self.base_url}/fr/ventes"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -262,7 +262,7 @@ class FierceImmoScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/locations"
+        return f"{self.base_url}/fr/ventes"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -309,7 +309,7 @@ class MyImmoIxellesScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/biens-a-louer.php"
+        return f"{self.base_url}/fr/biens-a-vendre.php"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -356,7 +356,7 @@ class AddressRealEstateScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -403,7 +403,7 @@ class ImmoClairiereScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -450,7 +450,7 @@ class DeMaurissensScraper(BaseScraper):
     commune = "Ixelles"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/locations"
+        return f"{self.base_url}/fr/ventes"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []

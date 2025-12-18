@@ -19,7 +19,7 @@ class MyImmoAltitudeScraper(BaseScraper):
     commune = "Forest"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/biens-a-louer.php"
+        return f"{self.base_url}/fr/biens-a-vendre.php"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -70,7 +70,7 @@ class ImmobiliereGeorgesScraper(BaseScraper):
     commune = "Forest"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/locations"
+        return f"{self.base_url}/fr/ventes"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
@@ -121,7 +121,7 @@ class AbriEuropeScraper(BaseScraper):
     commune = "Forest"
 
     def get_listings_url(self) -> str:
-        return f"{self.base_url}/fr/a-louer"
+        return f"{self.base_url}/fr/a-vendre"
 
     def parse_listing_cards(self, soup: BeautifulSoup) -> list[dict]:
         listings = []
