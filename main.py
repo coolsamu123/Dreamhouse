@@ -2,21 +2,15 @@
 """
 Dreamhouse - Real Estate Scraping System for Brussels
 
-Main entry point for running all scrapers and processing listings.
+Main entry point - AI-powered scraping only.
 """
 
 import argparse
-import json
 import logging
 import sys
 from datetime import datetime
-from pathlib import Path
 
-from scrapers.saint_gilles import scrape_all_saint_gilles, SAINT_GILLES_SCRAPERS
-from scrapers.forest import scrape_all_forest, FOREST_SCRAPERS
-from scrapers.ixelles import scrape_all_ixelles, IXELLES_SCRAPERS
-from scrapers.portals import scrape_all_portals, PORTAL_SCRAPERS
-from scrapers.ai_scraper import scrape_with_ai
+from scrapers.ai_scraper import scrape_with_ai, AI_SCRAPER_CONFIGS
 from scrapers.utils import (
     load_listings,
     save_listings,
@@ -41,49 +35,21 @@ logging.basicConfig(
 
 
 def run_all_scrapers() -> list[dict]:
-    """Run all scrapers and return combined listings."""
-    all_listings = []
-
+    """Run AI scrapers for all sites."""
     logger.info("=" * 60)
-    logger.info("Starting Dreamhouse scraping run")
+    logger.info("🏠 Dreamhouse - AI Scraping")
     logger.info(f"Time: {datetime.utcnow().isoformat()}Z")
+    logger.info(f"Sites to scrape: {len(AI_SCRAPER_CONFIGS)}")
     logger.info("=" * 60)
-
-    # Saint-Gilles
-    logger.info("\n📍 Scraping Saint-Gilles (1060)...")
-    saint_gilles_listings = scrape_all_saint_gilles()
-    all_listings.extend(saint_gilles_listings)
-    logger.info(f"Found {len(saint_gilles_listings)} listings in Saint-Gilles")
-
-    # Forest
-    logger.info("\n📍 Scraping Forest (1190)...")
-    forest_listings = scrape_all_forest()
-    all_listings.extend(forest_listings)
-    logger.info(f"Found {len(forest_listings)} listings in Forest")
-
-    # Ixelles
-    logger.info("\n📍 Scraping Ixelles (1050)...")
-    ixelles_listings = scrape_all_ixelles()
-    all_listings.extend(ixelles_listings)
-    logger.info(f"Found {len(ixelles_listings)} listings in Ixelles")
-
-    # Major Portals (Immoweb, Zimmo)
-    logger.info("\n🌐 Scraping Major Portals...")
-    portal_listings = scrape_all_portals()
-    all_listings.extend(portal_listings)
-    logger.info(f"Found {len(portal_listings)} listings from portals")
 
     # AI-powered scrapers (DeepSeek)
-    logger.info("\n🤖 Scraping with AI (DeepSeek)...")
-    ai_listings = scrape_with_ai()
-    all_listings.extend(ai_listings)
-    logger.info(f"Found {len(ai_listings)} listings via AI")
+    listings = scrape_with_ai()
 
     logger.info("\n" + "=" * 60)
-    logger.info(f"Total listings found: {len(all_listings)}")
+    logger.info(f"Total listings found: {len(listings)}")
     logger.info("=" * 60)
 
-    return all_listings
+    return listings
 
 
 def process_listings(new_scraped: list[dict]) -> list[dict]:
@@ -140,63 +106,37 @@ def process_listings(new_scraped: list[dict]) -> list[dict]:
     return truly_new
 
 
-def run_single_scraper(scraper_name: str) -> list[dict]:
-    """Run a single scraper by name."""
-    all_scrapers = {
-        **{s.name: s for s in SAINT_GILLES_SCRAPERS},
-        **{s.name: s for s in FOREST_SCRAPERS},
-        **{s.name: s for s in IXELLES_SCRAPERS},
-        **{s.name: s for s in PORTAL_SCRAPERS},
-    }
-
-    if scraper_name not in all_scrapers:
-        logger.error(f"Unknown scraper: {scraper_name}")
-        logger.info(f"Available scrapers: {', '.join(all_scrapers.keys())}")
-        return []
-
-    scraper_class = all_scrapers[scraper_name]
-    scraper = scraper_class()
-    return scraper.run()
-
-
 def list_scrapers():
-    """List all available scrapers."""
-    print("\n🏠 Dreamhouse - Available Scrapers\n")
+    """List all AI scrapers."""
+    print("\n🏠 Dreamhouse - AI Scrapers\n")
 
     print("📍 Saint-Gilles (1060):")
-    for s in SAINT_GILLES_SCRAPERS:
-        print(f"   - {s.name}")
+    for c in AI_SCRAPER_CONFIGS:
+        if c['commune'] == 'Saint-Gilles':
+            print(f"   - {c['name']}")
 
     print("\n📍 Forest (1190):")
-    for s in FOREST_SCRAPERS:
-        print(f"   - {s.name}")
+    for c in AI_SCRAPER_CONFIGS:
+        if c['commune'] == 'Forest':
+            print(f"   - {c['name']}")
 
     print("\n📍 Ixelles (1050):")
-    for s in IXELLES_SCRAPERS:
-        print(f"   - {s.name}")
+    for c in AI_SCRAPER_CONFIGS:
+        if c['commune'] == 'Ixelles':
+            print(f"   - {c['name']}")
 
-    print("\n🌐 Major Portals:")
-    for s in PORTAL_SCRAPERS:
-        print(f"   - {s.name}")
-
-    total = len(SAINT_GILLES_SCRAPERS) + len(FOREST_SCRAPERS) + len(IXELLES_SCRAPERS) + len(PORTAL_SCRAPERS)
-    print(f"\nTotal: {total} scrapers")
+    print(f"\nTotal: {len(AI_SCRAPER_CONFIGS)} sites")
 
 
 def main():
     """Main entry point."""
     parser = argparse.ArgumentParser(
-        description='Dreamhouse - Real Estate Scraping System for Brussels'
+        description='Dreamhouse - AI-powered Real Estate Scraping for Brussels'
     )
     parser.add_argument(
         '--list',
         action='store_true',
-        help='List all available scrapers'
-    )
-    parser.add_argument(
-        '--scraper',
-        type=str,
-        help='Run a specific scraper by name'
+        help='List all AI scrapers'
     )
     parser.add_argument(
         '--no-notify',
@@ -215,19 +155,15 @@ def main():
         list_scrapers()
         return
 
-    # Run scrapers
-    if args.scraper:
-        logger.info(f"Running single scraper: {args.scraper}")
-        listings = run_single_scraper(args.scraper)
-    else:
-        listings = run_all_scrapers()
+    # Run AI scrapers
+    listings = run_all_scrapers()
 
     if args.dry_run:
         logger.info("\n[DRY RUN] Would have processed the following listings:")
-        for listing in listings[:5]:
-            logger.info(f"  - {listing.get('title', 'No title')} ({listing.get('source')})")
-        if len(listings) > 5:
-            logger.info(f"  ... and {len(listings) - 5} more")
+        for listing in listings[:10]:
+            logger.info(f"  - {listing.get('title', 'No title')} | {listing.get('price')}€ | {listing.get('source')}")
+        if len(listings) > 10:
+            logger.info(f"  ... and {len(listings) - 10} more")
         return
 
     # Process and save listings
