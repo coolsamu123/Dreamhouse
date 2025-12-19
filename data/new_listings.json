@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "cce57f9fb5fa",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21237280",
+    "title": "POSSIBILITE 6% TVA + ABATTEMENT !",
+    "price": 455000,
+    "surface": 114,
+    "bedrooms": 2,
+    "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-19T22:13:43.211040Z",
+    "last_seen": "2025-12-19T22:13:43.211040Z",
+    "is_new": true
+  },
+  {
+    "id": "f9c5ea1e7290",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21224565",
+    "title": "Une nouvelle façon de vivre la ville.",
+    "price": 455000,
+    "surface": 114,
+    "bedrooms": 2,
+    "address": "1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-19T22:13:43.211040Z",
+    "last_seen": "2025-12-19T22:13:43.211040Z",
+    "is_new": true
+  },
+  {
+    "id": "e419fd7a2204",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21216184",
+    "title": "POSSIBILITE TVA 6% + ABATTEMENT !",
+    "price": 455000,
+    "surface": 114,
+    "bedrooms": 2,
+    "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-19T22:13:43.211040Z",
+    "last_seen": "2025-12-19T22:13:43.211040Z",
+    "is_new": true
+  },
+  {
+    "id": "7307b7e09622",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21196977",
+    "title": "Au cœur de Forest, un village dans la ville !",
+    "price": 455000,
+    "surface": 114,
+    "bedrooms": 2,
+    "address": "Rue des Carburants 53, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-19T22:13:43.211040Z",
+    "last_seen": "2025-12-19T22:13:43.211040Z",
+    "is_new": true
+  }
+]
