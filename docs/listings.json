@@ -1,6 +1,54 @@
 {
   "listings": [
     {
+      "id": "445f98f1d4fb",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21226641",
+      "title": "Molière - Immeuble \"Art Déco\"",
+      "price": 495000,
+      "surface": 80,
+      "bedrooms": 2,
+      "address": "Avenue Molière 12, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-19T00:54:22.157257Z",
+      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "is_new": true
+    },
+    {
+      "id": "b0a38332ba1f",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21232313",
+      "title": "BOONDAEL – APPARTEMENT (82 m2) 2 CHAMBRES AVEC TERRASSE",
+      "price": 325000,
+      "surface": 82,
+      "bedrooms": 2,
+      "address": "Avenue Général Dossin de Saint-Georges 9, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-19T00:54:22.157257Z",
+      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "is_new": true
+    },
+    {
+      "id": "4db3d69cf3b2",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21229655",
+      "title": "Seniorie - appartement sud-est avec terrasse et parking",
+      "price": 365000,
+      "surface": 105,
+      "bedrooms": 2,
+      "address": "Chaussée de Boitsfort 15, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-19T00:54:22.157257Z",
+      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "is_new": true
+    },
+    {
       "id": "64385c7fca9f",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21219115",
@@ -13,8 +61,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
-      "is_new": true
+      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "is_new": false
     },
     {
       "id": "150908d8d403",
@@ -29,8 +77,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
-      "is_new": true
+      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "is_new": false
     },
     {
       "id": "de2c06e09091",
@@ -45,8 +93,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
-      "is_new": true
+      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "is_new": false
     },
     {
       "id": "430607d59ed5",
@@ -61,8 +109,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
-      "is_new": true
+      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "is_new": false
     },
     {
       "id": "10e9dbc46363",
@@ -77,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
+      "last_seen": "2025-12-19T00:54:22.157257Z",
       "is_new": false
     },
     {
@@ -93,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
+      "last_seen": "2025-12-19T00:54:22.157257Z",
       "is_new": false
     },
     {
@@ -109,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
+      "last_seen": "2025-12-19T00:54:22.157257Z",
       "is_new": false
     },
     {
@@ -141,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-18T22:13:05.194926Z",
+      "last_seen": "2025-12-19T00:54:22.157257Z",
       "is_new": false
     },
     {
@@ -269,7 +317,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-18T22:13:05.195745Z",
-  "total_count": 16,
-  "new_count": 4
+  "last_updated": "2025-12-19T00:54:22.158105Z",
+  "total_count": 19,
+  "new_count": 3
 }
