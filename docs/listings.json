@@ -13,8 +13,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-19T00:54:22.157257Z",
-      "is_new": true
+      "last_seen": "2025-12-19T03:18:55.417935Z",
+      "is_new": false
     },
     {
       "id": "b0a38332ba1f",
@@ -29,8 +29,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-19T00:54:22.157257Z",
-      "is_new": true
+      "last_seen": "2025-12-19T03:18:55.417935Z",
+      "is_new": false
     },
     {
       "id": "4db3d69cf3b2",
@@ -45,8 +45,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-19T00:54:22.157257Z",
-      "is_new": true
+      "last_seen": "2025-12-19T03:18:55.417935Z",
+      "is_new": false
     },
     {
       "id": "64385c7fca9f",
@@ -125,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "last_seen": "2025-12-19T03:18:55.417935Z",
       "is_new": false
     },
     {
@@ -141,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "last_seen": "2025-12-19T03:18:55.417935Z",
       "is_new": false
     },
     {
@@ -157,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "last_seen": "2025-12-19T03:18:55.417935Z",
       "is_new": false
     },
     {
@@ -173,8 +173,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-18T21:39:27.536713Z",
-      "is_new": true
+      "last_seen": "2025-12-19T03:18:55.417935Z",
+      "is_new": false
     },
     {
       "id": "87cbf6f5af62",
@@ -189,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-19T00:54:22.157257Z",
+      "last_seen": "2025-12-19T03:18:55.417935Z",
       "is_new": false
     },
     {
@@ -317,7 +317,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-19T00:54:22.158105Z",
+  "last_updated": "2025-12-19T03:18:55.418698Z",
   "total_count": 19,
-  "new_count": 3
+  "new_count": 0
 }
