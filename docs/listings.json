@@ -1,6 +1,38 @@
 {
   "listings": [
     {
+      "id": "66c1db822984",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21237764",
+      "title": "Appt 1 ch avec balcon à vendre près de Châtelain & Tenbosch",
+      "price": 379000,
+      "surface": 94,
+      "bedrooms": 1,
+      "address": "Waterloosesteenweg 544, 1050 Elsene",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-22T10:14:44.007896Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
+      "is_new": true
+    },
+    {
+      "id": "6c1d76eff244",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21226381",
+      "title": "Spacieux appartement rénové au cœur de Bruxelles",
+      "price": null,
+      "surface": 117,
+      "bedrooms": 2,
+      "address": "Chaussée d'Ixelles 59, 1050 Bruxelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-22T10:14:44.007896Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
+      "is_new": true
+    },
+    {
       "id": "cce57f9fb5fa",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21237280",
@@ -93,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-22T06:21:42.376872Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -109,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-22T06:21:42.376872Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -125,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -141,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -157,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -173,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -189,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -205,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -221,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -253,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-22T08:19:29.082160Z",
+      "last_seen": "2025-12-22T10:14:44.007896Z",
       "is_new": false
     },
     {
@@ -381,7 +413,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-22T08:19:29.083000Z",
-  "total_count": 23,
-  "new_count": 0
+  "last_updated": "2025-12-22T10:14:44.008794Z",
+  "total_count": 25,
+  "new_count": 2
 }
