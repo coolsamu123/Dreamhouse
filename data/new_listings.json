@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "290f630a973d",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/classified/21232313",
+    "title": "BOONDAEL – APPARTEMENT (82 m2) 2 CHAMBRES AVEC TERRASSE",
+    "price": 325000,
+    "surface": 82,
+    "bedrooms": 2,
+    "address": "Avenue Général Dossin de Saint-Georges 9, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-22T14:14:24.410122Z",
+    "last_seen": "2025-12-22T14:14:24.410122Z",
+    "is_new": true
+  },
+  {
+    "id": "d377f557917d",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/classified/21229655",
+    "title": "Seniorie - appartement sud-est avec terrasse et parking",
+    "price": 365000,
+    "surface": 105,
+    "bedrooms": 2,
+    "address": "Chaussée de Boitsfort 15, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-22T14:14:24.410122Z",
+    "last_seen": "2025-12-22T14:14:24.410122Z",
+    "is_new": true
+  },
+  {
+    "id": "0f9cf805cc4a",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/classified/21235164",
+    "title": "SOLBOSCH - Appartement 1 chambre avec terrasse +/- 88m2",
+    "price": 379000,
+    "surface": 88,
+    "bedrooms": 1,
+    "address": "Avenue Guillaume Gilbert 11 bte 1, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-22T14:14:24.410122Z",
+    "last_seen": "2025-12-22T14:14:24.410122Z",
+    "is_new": true
+  }
+]
