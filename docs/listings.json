@@ -77,8 +77,8 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-22T10:14:44.007896Z",
-      "last_seen": "2025-12-22T10:14:44.007896Z",
-      "is_new": true
+      "last_seen": "2025-12-23T18:18:58.239466Z",
+      "is_new": false
     },
     {
       "id": "6c1d76eff244",
@@ -189,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-23T06:20:45.963781Z",
+      "last_seen": "2025-12-23T18:18:58.239466Z",
       "is_new": false
     },
     {
@@ -205,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-23T06:20:45.963781Z",
+      "last_seen": "2025-12-23T18:18:58.239466Z",
       "is_new": false
     },
     {
@@ -285,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-23T16:15:54.520623Z",
+      "last_seen": "2025-12-23T18:18:58.239466Z",
       "is_new": false
     },
     {
@@ -301,7 +301,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-23T16:15:54.520623Z",
+      "last_seen": "2025-12-23T18:18:58.239466Z",
       "is_new": false
     },
     {
@@ -317,7 +317,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-23T16:15:54.520623Z",
+      "last_seen": "2025-12-23T18:18:58.239466Z",
       "is_new": false
     },
     {
@@ -349,7 +349,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-23T16:15:54.520623Z",
+      "last_seen": "2025-12-23T18:18:58.239466Z",
       "is_new": false
     },
     {
@@ -477,7 +477,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-23T16:15:54.521537Z",
+  "last_updated": "2025-12-23T18:18:58.240385Z",
   "total_count": 29,
   "new_count": 0
 }
