@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "4d81d1b9cf7f",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21121263",
+      "title": "LUMINEUX APPT 2 CH + JARDIN / TERRASSE",
+      "price": null,
+      "surface": 85,
+      "bedrooms": 2,
+      "address": "Square de Boondael 1, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-24T14:13:39.664971Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
+      "is_new": true
+    },
+    {
       "id": "d8f6d25ae0b1",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/classified/21237764",
@@ -77,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-22T10:14:44.007896Z",
-      "last_seen": "2025-12-23T18:18:58.239466Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -189,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-24T10:14:47.307752Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -205,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-24T10:14:47.307752Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -221,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-24T10:14:47.307752Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -237,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-24T10:14:47.307752Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -253,7 +269,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-24T10:14:47.307752Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -269,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-24T10:14:47.307752Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -285,7 +301,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-24T12:22:46.401693Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -301,7 +317,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-24T12:22:46.401693Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -317,7 +333,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-24T12:22:46.401693Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -349,7 +365,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-24T12:22:46.401693Z",
+      "last_seen": "2025-12-24T14:13:39.664971Z",
       "is_new": false
     },
     {
@@ -477,7 +493,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-24T12:22:46.402580Z",
-  "total_count": 29,
-  "new_count": 0
+  "last_updated": "2025-12-24T14:13:39.665925Z",
+  "total_count": 30,
+  "new_count": 1
 }

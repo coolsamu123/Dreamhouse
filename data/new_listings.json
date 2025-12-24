@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "4d81d1b9cf7f",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21121263",
+    "title": "LUMINEUX APPT 2 CH + JARDIN / TERRASSE",
+    "price": null,
+    "surface": 85,
+    "bedrooms": 2,
+    "address": "Square de Boondael 1, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-24T14:13:39.664971Z",
+    "last_seen": "2025-12-24T14:13:39.664971Z",
+    "is_new": true
+  }
+]
