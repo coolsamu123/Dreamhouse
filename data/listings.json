@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2025-12-24T20:13:38.680357Z",
+    "last_seen": "2025-12-24T22:13:36.232230Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-24T20:13:38.680357Z",
+    "last_seen": "2025-12-24T22:13:36.232230Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-24T20:13:38.680357Z",
+    "last_seen": "2025-12-24T22:13:36.232230Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-24T20:13:38.680357Z",
+    "last_seen": "2025-12-24T22:13:36.232230Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -296,7 +296,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-19T00:54:22.157257Z",
-    "last_seen": "2025-12-24T14:13:39.664971Z",
+    "last_seen": "2025-12-24T22:13:36.232230Z",
     "is_new": false
   },
   "4db3d69cf3b2": {
@@ -312,7 +312,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-19T00:54:22.157257Z",
-    "last_seen": "2025-12-24T14:13:39.664971Z",
+    "last_seen": "2025-12-24T22:13:36.232230Z",
     "is_new": false
   },
   "cce57f9fb5fa": {
@@ -488,8 +488,8 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-24T14:13:39.664971Z",
-    "last_seen": "2025-12-24T14:13:39.664971Z",
-    "is_new": true
+    "last_seen": "2025-12-24T22:13:36.232230Z",
+    "is_new": false
   },
   "c85d87bd894c": {
     "id": "c85d87bd894c",
@@ -506,5 +506,21 @@
     "first_seen": "2025-12-24T16:15:29.302332Z",
     "last_seen": "2025-12-24T20:13:38.680357Z",
     "is_new": false
+  },
+  "d86aef74cd03": {
+    "id": "d86aef74cd03",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/20962031",
+    "title": "Quartier EU, près du Park Royal, récent",
+    "price": 500000,
+    "surface": 92,
+    "bedrooms": 2,
+    "address": "Rue de Paris 1, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-24T22:13:36.232230Z",
+    "last_seen": "2025-12-24T22:13:36.232230Z",
+    "is_new": true
   }
 }
