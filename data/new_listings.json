@@ -1,18 +1,18 @@
 [
   {
-    "id": "4d81d1b9cf7f",
-    "source": "Immoweb Ixelles",
-    "source_url": "https://www.immoweb.be/bien/21121263",
-    "title": "LUMINEUX APPT 2 CH + JARDIN / TERRASSE",
-    "price": null,
-    "surface": 85,
+    "id": "c85d87bd894c",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21182985",
+    "title": "Appart coup de coeur ! Proximité Ch. de Charleroi",
+    "price": 395000,
+    "surface": 90,
     "bedrooms": 2,
-    "address": "Square de Boondael 1, 1050 Ixelles",
-    "commune": "Ixelles",
+    "address": "Rue de Lausanne 5, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
     "description": "",
     "images": [],
-    "first_seen": "2025-12-24T14:13:39.664971Z",
-    "last_seen": "2025-12-24T14:13:39.664971Z",
+    "first_seen": "2025-12-24T16:15:29.302332Z",
+    "last_seen": "2025-12-24T16:15:29.302332Z",
     "is_new": true
   }
 ]
