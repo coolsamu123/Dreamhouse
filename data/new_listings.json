@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "0b712a85a90f",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/20973836",
+    "title": "Bel appartement avec jardin",
+    "price": null,
+    "surface": 107,
+    "bedrooms": 2,
+    "address": "rue d'albanie 27, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-25T16:15:26.285394Z",
+    "last_seen": "2025-12-25T16:15:26.285394Z",
+    "is_new": true
+  }
+]
