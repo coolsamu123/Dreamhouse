@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "c723b4dd1185",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21248232",
+      "title": "Appartement de caractère avec terrasse",
+      "price": 395000,
+      "surface": 105,
+      "bedrooms": 2,
+      "address": "Avenue Massenet 6, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-26T16:14:40.800713Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
+      "is_new": true
+    },
+    {
       "id": "0b712a85a90f",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/20973836",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-25T16:15:26.285394Z",
-      "last_seen": "2025-12-26T06:20:07.898275Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -45,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-24T16:15:29.302332Z",
-      "last_seen": "2025-12-26T06:20:07.898275Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -301,7 +317,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-26T06:20:07.898275Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -317,7 +333,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2025-12-26T06:20:07.898275Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -349,7 +365,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-26T14:13:32.793863Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -365,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-26T14:13:32.793863Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -381,7 +397,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-26T14:13:32.793863Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -413,7 +429,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-26T14:13:32.793863Z",
+      "last_seen": "2025-12-26T16:14:40.800713Z",
       "is_new": false
     },
     {
@@ -541,7 +557,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-26T14:13:32.794816Z",
-  "total_count": 33,
-  "new_count": 0
+  "last_updated": "2025-12-26T16:14:40.801620Z",
+  "total_count": 34,
+  "new_count": 1
 }
