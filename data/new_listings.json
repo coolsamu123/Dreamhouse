@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "335965cdef57",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21248278",
+    "title": "Vivre Ixelles, entre Flagey et Bois de la Cambre",
+    "price": 365000,
+    "surface": 102,
+    "bedrooms": 2,
+    "address": "Avenue Armand Huysmans 75, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-27T04:25:21.852378Z",
+    "last_seen": "2025-12-27T04:25:21.852378Z",
+    "is_new": true
+  }
+]

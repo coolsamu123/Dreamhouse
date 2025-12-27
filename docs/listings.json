@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "335965cdef57",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21248278",
+      "title": "Vivre Ixelles, entre Flagey et Bois de la Cambre",
+      "price": 365000,
+      "surface": 102,
+      "bedrooms": 2,
+      "address": "Avenue Armand Huysmans 75, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-27T04:25:21.852378Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
+      "is_new": true
+    },
+    {
       "id": "c723b4dd1185",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21248232",
@@ -45,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-24T22:13:36.232230Z",
-      "last_seen": "2025-12-26T10:14:54.222196Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
       "is_new": false
     },
     {
@@ -77,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-24T14:13:39.664971Z",
-      "last_seen": "2025-12-26T10:14:54.222196Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
       "is_new": false
     },
     {
@@ -269,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-26T10:14:54.222196Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
       "is_new": false
     },
     {
@@ -365,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-27T03:18:06.081027Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
       "is_new": false
     },
     {
@@ -381,7 +397,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-27T03:18:06.081027Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
       "is_new": false
     },
     {
@@ -397,7 +413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-27T03:18:06.081027Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
       "is_new": false
     },
     {
@@ -429,7 +445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-27T03:18:06.081027Z",
+      "last_seen": "2025-12-27T04:25:21.852378Z",
       "is_new": false
     },
     {
@@ -557,7 +573,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-27T03:18:06.082041Z",
-  "total_count": 34,
-  "new_count": 0
+  "last_updated": "2025-12-27T04:25:21.853562Z",
+  "total_count": 35,
+  "new_count": 1
 }
