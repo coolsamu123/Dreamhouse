@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "602a6865defa",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21251998",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 350000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-30T18:18:56.049012Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
+    "is_new": true
+  }
+]

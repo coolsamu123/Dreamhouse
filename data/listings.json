@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2025-12-30T16:16:23.848287Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-30T16:16:23.848287Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-30T16:16:23.848287Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-30T16:16:23.848287Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -232,7 +232,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2025-12-30T12:24:02.625809Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "de2c06e09091": {
@@ -248,7 +248,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2025-12-30T12:24:02.625809Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "430607d59ed5": {
@@ -504,7 +504,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-24T16:15:29.302332Z",
-    "last_seen": "2025-12-30T12:24:02.625809Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "d86aef74cd03": {
@@ -536,7 +536,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-25T16:15:26.285394Z",
-    "last_seen": "2025-12-30T12:24:02.625809Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
     "is_new": false
   },
   "c723b4dd1185": {
@@ -570,5 +570,21 @@
     "first_seen": "2025-12-27T04:25:21.852378Z",
     "last_seen": "2025-12-30T14:14:10.332020Z",
     "is_new": false
+  },
+  "602a6865defa": {
+    "id": "602a6865defa",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21251998",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 350000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-30T18:18:56.049012Z",
+    "last_seen": "2025-12-30T18:18:56.049012Z",
+    "is_new": true
   }
 }
