@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "6d40c70074e1",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/20706665",
+      "title": "Appartement de caractère - 2 chambres - Balcon et Garage",
+      "price": 450000,
+      "surface": 123,
+      "bedrooms": 2,
+      "address": "Rue de Tenbosch 23, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2025-12-31T18:18:15.477675Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
+      "is_new": true
+    },
+    {
       "id": "125b199301d7",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21035185",
@@ -93,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-24T22:13:36.232230Z",
-      "last_seen": "2025-12-31T14:13:49.321681Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
       "is_new": false
     },
     {
@@ -125,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-24T14:13:39.664971Z",
-      "last_seen": "2025-12-31T14:13:49.321681Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
       "is_new": false
     },
     {
@@ -333,7 +349,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-19T00:54:22.157257Z",
-      "last_seen": "2025-12-31T14:13:49.321681Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
       "is_new": false
     },
     {
@@ -413,7 +429,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-31T16:16:04.517455Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
       "is_new": false
     },
     {
@@ -429,7 +445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-31T16:16:04.517455Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
       "is_new": false
     },
     {
@@ -445,7 +461,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2025-12-31T16:16:04.517455Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
       "is_new": false
     },
     {
@@ -477,7 +493,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2025-12-31T16:16:04.517455Z",
+      "last_seen": "2025-12-31T18:18:15.477675Z",
       "is_new": false
     },
     {
@@ -605,7 +621,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2025-12-31T16:16:04.518427Z",
-  "total_count": 37,
-  "new_count": 0
+  "last_updated": "2025-12-31T18:18:15.478691Z",
+  "total_count": 38,
+  "new_count": 1
 }

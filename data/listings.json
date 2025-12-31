@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2025-12-31T16:16:04.517455Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-31T16:16:04.517455Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-31T16:16:04.517455Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2025-12-31T16:16:04.517455Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -312,7 +312,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-19T00:54:22.157257Z",
-    "last_seen": "2025-12-31T14:13:49.321681Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
     "is_new": false
   },
   "cce57f9fb5fa": {
@@ -488,7 +488,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-24T14:13:39.664971Z",
-    "last_seen": "2025-12-31T14:13:49.321681Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
     "is_new": false
   },
   "c85d87bd894c": {
@@ -520,7 +520,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-24T22:13:36.232230Z",
-    "last_seen": "2025-12-31T14:13:49.321681Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
     "is_new": false
   },
   "0b712a85a90f": {
@@ -602,5 +602,21 @@
     "first_seen": "2025-12-31T03:21:39.704195Z",
     "last_seen": "2025-12-31T16:16:04.517455Z",
     "is_new": false
+  },
+  "6d40c70074e1": {
+    "id": "6d40c70074e1",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/20706665",
+    "title": "Appartement de caractère - 2 chambres - Balcon et Garage",
+    "price": 450000,
+    "surface": 123,
+    "bedrooms": 2,
+    "address": "Rue de Tenbosch 23, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2025-12-31T18:18:15.477675Z",
+    "last_seen": "2025-12-31T18:18:15.477675Z",
+    "is_new": true
   }
 }
