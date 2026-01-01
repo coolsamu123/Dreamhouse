@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2026-01-01T16:16:18.430487Z",
+    "last_seen": "2026-01-01T18:18:05.040931Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-01T16:16:18.430487Z",
+    "last_seen": "2026-01-01T18:18:05.040931Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-01T16:16:18.430487Z",
+    "last_seen": "2026-01-01T18:18:05.040931Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-01T16:16:18.430487Z",
+    "last_seen": "2026-01-01T18:18:05.040931Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -232,7 +232,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-01T03:33:01.857345Z",
+    "last_seen": "2026-01-01T18:18:05.040931Z",
     "is_new": false
   },
   "de2c06e09091": {
@@ -584,7 +584,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-30T18:18:56.049012Z",
-    "last_seen": "2026-01-01T10:14:20.896200Z",
+    "last_seen": "2026-01-01T18:18:05.040931Z",
     "is_new": false
   },
   "125b199301d7": {
@@ -633,6 +633,22 @@
     "images": [],
     "first_seen": "2026-01-01T04:41:37.210715Z",
     "last_seen": "2026-01-01T04:41:37.210715Z",
+    "is_new": true
+  },
+  "b6dc71b27a6b": {
+    "id": "b6dc71b27a6b",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21253235",
+    "title": "Appartement",
+    "price": 350000,
+    "surface": 97,
+    "bedrooms": 2,
+    "address": "Dethystraat 39, 1060 SINT-GILLIS",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-01T18:18:05.040931Z",
+    "last_seen": "2026-01-01T18:18:05.040931Z",
     "is_new": true
   }
 }
