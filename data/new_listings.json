@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "51b4b5990da7",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/20988007",
+    "title": "Av Louise | Cave incluse et garage en supplément",
+    "price": 495000,
+    "surface": 165,
+    "bedrooms": 3,
+    "address": "Avenue Louise 226, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-01T04:41:37.210715Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
+    "is_new": true
+  }
+]

@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2026-01-01T03:33:01.857345Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-01T03:33:01.857345Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-01T03:33:01.857345Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-01T03:33:01.857345Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -488,7 +488,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-24T14:13:39.664971Z",
-    "last_seen": "2025-12-31T20:14:07.022902Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
     "is_new": false
   },
   "c85d87bd894c": {
@@ -520,7 +520,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-24T22:13:36.232230Z",
-    "last_seen": "2025-12-31T20:14:07.022902Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
     "is_new": false
   },
   "0b712a85a90f": {
@@ -616,7 +616,23 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-31T18:18:15.477675Z",
-    "last_seen": "2025-12-31T20:14:07.022902Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
     "is_new": false
+  },
+  "51b4b5990da7": {
+    "id": "51b4b5990da7",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/20988007",
+    "title": "Av Louise | Cave incluse et garage en supplément",
+    "price": 495000,
+    "surface": 165,
+    "bedrooms": 3,
+    "address": "Avenue Louise 226, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-01T04:41:37.210715Z",
+    "last_seen": "2026-01-01T04:41:37.210715Z",
+    "is_new": true
   }
 }
