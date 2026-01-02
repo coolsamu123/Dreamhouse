@@ -1,6 +1,54 @@
 {
   "listings": [
     {
+      "id": "63d1e11d7b76",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21253980",
+      "title": "Roosevelt- Spacieux 1 chambre 89m2",
+      "price": 349000,
+      "surface": 89,
+      "bedrooms": 1,
+      "address": "Avenue George Bergmann 35, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-02T14:13:46.406575Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
+      "is_new": true
+    },
+    {
+      "id": "e449dec8f643",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21254056",
+      "title": "IXELLES - Rdc 1ch à rafraichir - Ancien cabinet dentaire",
+      "price": 295000,
+      "surface": 82,
+      "bedrooms": 1,
+      "address": "Place Albert Leemans 13, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-02T14:13:46.406575Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
+      "is_new": true
+    },
+    {
+      "id": "152a9b8e5058",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21253989",
+      "title": "Immeuble entièrement rénové",
+      "price": 445000,
+      "surface": 82,
+      "bedrooms": 1,
+      "address": "Rue de Stassart 50/52, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-02T14:13:46.406575Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
+      "is_new": true
+    },
+    {
       "id": "b6dc71b27a6b",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21253235",
@@ -13,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-01T18:18:05.040931Z",
-      "last_seen": "2026-01-02T10:14:28.952757Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
       "is_new": false
     },
     {
@@ -173,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-24T14:13:39.664971Z",
-      "last_seen": "2026-01-02T10:14:28.952757Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
       "is_new": false
     },
     {
@@ -413,7 +461,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2026-01-02T10:14:28.952757Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
       "is_new": false
     },
     {
@@ -461,7 +509,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-02T12:22:14.468122Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
       "is_new": false
     },
     {
@@ -477,7 +525,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-02T12:22:14.468122Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
       "is_new": false
     },
     {
@@ -493,7 +541,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-02T12:22:14.468122Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
       "is_new": false
     },
     {
@@ -525,7 +573,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2026-01-02T12:22:14.468122Z",
+      "last_seen": "2026-01-02T14:13:46.406575Z",
       "is_new": false
     },
     {
@@ -653,7 +701,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-02T12:22:14.469101Z",
-  "total_count": 40,
-  "new_count": 0
+  "last_updated": "2026-01-02T14:13:46.407584Z",
+  "total_count": 43,
+  "new_count": 3
 }

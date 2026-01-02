@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2026-01-02T12:22:14.468122Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-02T12:22:14.468122Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-02T12:22:14.468122Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-02T12:22:14.468122Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -232,7 +232,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-02T10:14:28.952757Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
     "is_new": false
   },
   "de2c06e09091": {
@@ -488,7 +488,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-24T14:13:39.664971Z",
-    "last_seen": "2026-01-02T10:14:28.952757Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
     "is_new": false
   },
   "c85d87bd894c": {
@@ -648,7 +648,55 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-01T18:18:05.040931Z",
-    "last_seen": "2026-01-02T10:14:28.952757Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
     "is_new": false
+  },
+  "63d1e11d7b76": {
+    "id": "63d1e11d7b76",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21253980",
+    "title": "Roosevelt- Spacieux 1 chambre 89m2",
+    "price": 349000,
+    "surface": 89,
+    "bedrooms": 1,
+    "address": "Avenue George Bergmann 35, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-02T14:13:46.406575Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
+    "is_new": true
+  },
+  "e449dec8f643": {
+    "id": "e449dec8f643",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21254056",
+    "title": "IXELLES - Rdc 1ch à rafraichir - Ancien cabinet dentaire",
+    "price": 295000,
+    "surface": 82,
+    "bedrooms": 1,
+    "address": "Place Albert Leemans 13, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-02T14:13:46.406575Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
+    "is_new": true
+  },
+  "152a9b8e5058": {
+    "id": "152a9b8e5058",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21253989",
+    "title": "Immeuble entièrement rénové",
+    "price": 445000,
+    "surface": 82,
+    "bedrooms": 1,
+    "address": "Rue de Stassart 50/52, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-02T14:13:46.406575Z",
+    "last_seen": "2026-01-02T14:13:46.406575Z",
+    "is_new": true
   }
 }
