@@ -557,7 +557,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-03T16:14:52.728574Z",
+      "last_seen": "2026-01-03T18:17:02.591586Z",
       "is_new": false
     },
     {
@@ -573,7 +573,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-03T16:14:52.728574Z",
+      "last_seen": "2026-01-03T18:17:02.591586Z",
       "is_new": false
     },
     {
@@ -589,7 +589,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-03T16:14:52.728574Z",
+      "last_seen": "2026-01-03T18:17:02.591586Z",
       "is_new": false
     },
     {
@@ -621,7 +621,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2026-01-03T16:14:52.728574Z",
+      "last_seen": "2026-01-03T18:17:02.591586Z",
       "is_new": false
     },
     {
@@ -749,7 +749,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-03T16:14:52.729747Z",
+  "last_updated": "2026-01-03T18:17:02.592710Z",
   "total_count": 46,
-  "new_count": 1
+  "new_count": 0
 }
