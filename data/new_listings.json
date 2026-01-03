@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "ccad74eba8af",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21254811",
+    "title": "Appartement + combles 2 chambres",
+    "price": 219000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 232, 1190 Bruxelles",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-03T10:13:01.962716Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
+    "is_new": true
+  }
+]

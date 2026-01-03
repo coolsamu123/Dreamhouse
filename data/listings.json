@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -584,7 +584,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-30T18:18:56.049012Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "125b199301d7": {
@@ -664,7 +664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "e449dec8f643": {
@@ -680,7 +680,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "152a9b8e5058": {
@@ -696,7 +696,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
   },
   "8dff8dbc2c28": {
@@ -712,7 +712,23 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T00:51:55.792014Z",
-    "last_seen": "2026-01-03T08:16:48.592987Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
     "is_new": false
+  },
+  "ccad74eba8af": {
+    "id": "ccad74eba8af",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21254811",
+    "title": "Appartement + combles 2 chambres",
+    "price": 219000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 232, 1190 Bruxelles",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-03T10:13:01.962716Z",
+    "last_seen": "2026-01-03T10:13:01.962716Z",
+    "is_new": true
   }
 }
