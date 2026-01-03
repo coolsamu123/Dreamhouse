@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "8dff8dbc2c28",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21254389",
+      "title": "Très bel appartement LUMINEUX",
+      "price": 470000,
+      "surface": 115,
+      "bedrooms": 2,
+      "address": "Italie avenue d' 47, 1050 IXELLES",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-03T00:51:55.792014Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
+      "is_new": true
+    },
+    {
       "id": "63d1e11d7b76",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21253980",
@@ -13,8 +29,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-02T14:13:46.406575Z",
-      "last_seen": "2026-01-02T14:13:46.406575Z",
-      "is_new": true
+      "last_seen": "2026-01-03T00:51:55.792014Z",
+      "is_new": false
     },
     {
       "id": "e449dec8f643",
@@ -29,8 +45,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-02T14:13:46.406575Z",
-      "last_seen": "2026-01-02T14:13:46.406575Z",
-      "is_new": true
+      "last_seen": "2026-01-03T00:51:55.792014Z",
+      "is_new": false
     },
     {
       "id": "152a9b8e5058",
@@ -45,8 +61,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-02T14:13:46.406575Z",
-      "last_seen": "2026-01-02T14:13:46.406575Z",
-      "is_new": true
+      "last_seen": "2026-01-03T00:51:55.792014Z",
+      "is_new": false
     },
     {
       "id": "b6dc71b27a6b",
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-31T03:21:39.704195Z",
-      "last_seen": "2026-01-02T18:17:54.014634Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -125,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-30T18:18:56.049012Z",
-      "last_seen": "2026-01-02T22:13:01.554332Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -173,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-25T16:15:26.285394Z",
-      "last_seen": "2026-01-01T03:33:01.857345Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -461,7 +477,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2026-01-02T18:17:54.014634Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -477,7 +493,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2026-01-01T03:33:01.857345Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -509,7 +525,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-02T22:13:01.554332Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -525,7 +541,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-02T22:13:01.554332Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -541,7 +557,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-02T22:13:01.554332Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -573,7 +589,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2026-01-02T22:13:01.554332Z",
+      "last_seen": "2026-01-03T00:51:55.792014Z",
       "is_new": false
     },
     {
@@ -701,7 +717,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-02T22:13:01.555410Z",
-  "total_count": 43,
-  "new_count": 0
+  "last_updated": "2026-01-03T00:51:55.793205Z",
+  "total_count": 44,
+  "new_count": 1
 }
