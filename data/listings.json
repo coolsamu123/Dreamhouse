@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -232,7 +232,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "de2c06e09091": {
@@ -248,7 +248,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "430607d59ed5": {
@@ -536,7 +536,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-25T16:15:26.285394Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "c723b4dd1185": {
@@ -584,7 +584,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-30T18:18:56.049012Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "125b199301d7": {
@@ -600,7 +600,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-31T03:21:39.704195Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "6d40c70074e1": {
@@ -664,7 +664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-04T14:15:11.248303Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "e449dec8f643": {
@@ -680,7 +680,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-04T14:15:11.248303Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "152a9b8e5058": {
@@ -712,7 +712,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T00:51:55.792014Z",
-    "last_seen": "2026-01-04T14:15:11.248303Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "ccad74eba8af": {
@@ -728,7 +728,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T10:13:01.962716Z",
-    "last_seen": "2026-01-04T20:14:20.172106Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
   },
   "854f6fed7231": {
@@ -744,7 +744,23 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T16:14:52.728574Z",
-    "last_seen": "2026-01-04T14:15:11.248303Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
     "is_new": false
+  },
+  "61c36b8337b3": {
+    "id": "61c36b8337b3",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21256286",
+    "title": "À deux pas du bois de la Cambre - Superbe appartement 3ch",
+    "price": 499000,
+    "surface": 130,
+    "bedrooms": 3,
+    "address": "Avenue Louise 499, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-04T22:13:22.710363Z",
+    "last_seen": "2026-01-04T22:13:22.710363Z",
+    "is_new": true
   }
 }
