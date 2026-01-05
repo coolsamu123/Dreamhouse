@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -232,7 +232,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "de2c06e09091": {
@@ -248,7 +248,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "430607d59ed5": {
@@ -664,7 +664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-05T16:17:59.143083Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "e449dec8f643": {
@@ -712,7 +712,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T00:51:55.792014Z",
-    "last_seen": "2026-01-05T16:17:59.143083Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "ccad74eba8af": {
@@ -776,7 +776,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T10:17:11.137696Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "bd1692c76f60": {
@@ -792,7 +792,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T10:17:11.137696Z",
-    "last_seen": "2026-01-05T16:17:59.143083Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "fc45ca0195bf": {
@@ -808,7 +808,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T12:24:52.951679Z",
-    "last_seen": "2026-01-05T16:17:59.143083Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": false
   },
   "f9ea0951e90f": {
@@ -872,8 +872,8 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T20:16:00.942817Z",
-    "last_seen": "2026-01-05T20:16:00.942817Z",
-    "is_new": true
+    "last_seen": "2026-01-05T22:13:40.002205Z",
+    "is_new": false
   },
   "cc15509aa023": {
     "id": "cc15509aa023",
@@ -889,6 +889,22 @@
     "images": [],
     "first_seen": "2026-01-05T20:16:00.942817Z",
     "last_seen": "2026-01-05T20:16:00.942817Z",
+    "is_new": true
+  },
+  "d26c888f2699": {
+    "id": "d26c888f2699",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21259772",
+    "title": "IXELLES, bel APPARTEMENT (2ch/1sdd)",
+    "price": 360000,
+    "surface": 90,
+    "bedrooms": 2,
+    "address": "Avenue de la Couronne 207, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-05T22:13:40.002205Z",
+    "last_seen": "2026-01-05T22:13:40.002205Z",
     "is_new": true
   }
 }
