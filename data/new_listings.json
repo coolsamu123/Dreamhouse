@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "62800d588e37",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21256670",
+    "title": "Magnifique appartement 2 chambres + studio et cour, entièrement rénové",
+    "price": 499000,
+    "surface": 130,
+    "bedrooms": 2,
+    "address": "chaussée de forest 91a, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-05T10:17:11.137696Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
+    "is_new": true
+  },
+  {
+    "id": "bd1692c76f60",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21256777",
+    "title": "BOONDAEL – DUPLEX  PENTHOUSE 3 CH 105 M² + TERRASSE 35 M²",
+    "price": 440000,
+    "surface": 105,
+    "bedrooms": 3,
+    "address": "Avenue Général Dossin de Saint-Georges 9, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-05T10:17:11.137696Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
+    "is_new": true
+  }
+]

@@ -120,7 +120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:20:36.852681Z",
-    "last_seen": "2026-01-05T08:20:34.605541Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "d6a468cd59a1": {
@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-05T08:20:34.605541Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-05T08:20:34.605541Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-05T08:20:34.605541Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -232,7 +232,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-05T08:20:34.605541Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "de2c06e09091": {
@@ -248,7 +248,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T22:13:05.194926Z",
-    "last_seen": "2026-01-05T08:20:34.605541Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "430607d59ed5": {
@@ -536,7 +536,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-25T16:15:26.285394Z",
-    "last_seen": "2026-01-05T08:20:34.605541Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "c723b4dd1185": {
@@ -664,7 +664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-05T04:51:17.901391Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "e449dec8f643": {
@@ -680,7 +680,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-02T14:13:46.406575Z",
-    "last_seen": "2026-01-05T04:51:17.901391Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "152a9b8e5058": {
@@ -744,7 +744,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T16:14:52.728574Z",
-    "last_seen": "2026-01-05T04:51:17.901391Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
   },
   "61c36b8337b3": {
@@ -760,7 +760,39 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-04T22:13:22.710363Z",
-    "last_seen": "2026-01-05T04:51:17.901391Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
     "is_new": false
+  },
+  "62800d588e37": {
+    "id": "62800d588e37",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21256670",
+    "title": "Magnifique appartement 2 chambres + studio et cour, entièrement rénové",
+    "price": 499000,
+    "surface": 130,
+    "bedrooms": 2,
+    "address": "chaussée de forest 91a, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-05T10:17:11.137696Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
+    "is_new": true
+  },
+  "bd1692c76f60": {
+    "id": "bd1692c76f60",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21256777",
+    "title": "BOONDAEL – DUPLEX  PENTHOUSE 3 CH 105 M² + TERRASSE 35 M²",
+    "price": 440000,
+    "surface": 105,
+    "bedrooms": 3,
+    "address": "Avenue Général Dossin de Saint-Georges 9, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-05T10:17:11.137696Z",
+    "last_seen": "2026-01-05T10:17:11.137696Z",
+    "is_new": true
   }
 }
