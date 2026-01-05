@@ -1,6 +1,38 @@
 {
   "listings": [
     {
+      "id": "f0618f39cda5",
+      "source": "Immoweb Saint-Gilles",
+      "source_url": "https://www.immoweb.be/bien/21258441",
+      "title": "Appartement 1 chambre à Saint Gilles !",
+      "price": 315000,
+      "surface": 86,
+      "bedrooms": 1,
+      "address": "Avenue Henri Jaspar 119, 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-05T20:16:00.942817Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
+      "is_new": true
+    },
+    {
+      "id": "cc15509aa023",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21258913",
+      "title": "ALTITUDE 100: CHARMANT APT SEMI RENOVE",
+      "price": 375000,
+      "surface": 91,
+      "bedrooms": 2,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-05T20:16:00.942817Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
+      "is_new": true
+    },
+    {
       "id": "f9ea0951e90f",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21259085",
@@ -13,8 +45,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T16:17:59.143083Z",
-      "last_seen": "2026-01-05T16:17:59.143083Z",
-      "is_new": true
+      "last_seen": "2026-01-05T20:16:00.942817Z",
+      "is_new": false
     },
     {
       "id": "a4b5e05f0c56",
@@ -29,8 +61,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T16:17:59.143083Z",
-      "last_seen": "2026-01-05T16:17:59.143083Z",
-      "is_new": true
+      "last_seen": "2026-01-05T20:16:00.942817Z",
+      "is_new": false
     },
     {
       "id": "597247ac43c9",
@@ -45,8 +77,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T16:17:59.143083Z",
-      "last_seen": "2026-01-05T16:17:59.143083Z",
-      "is_new": true
+      "last_seen": "2026-01-05T20:16:00.942817Z",
+      "is_new": false
     },
     {
       "id": "fc45ca0195bf",
@@ -77,8 +109,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T10:17:11.137696Z",
-      "last_seen": "2026-01-05T10:17:11.137696Z",
-      "is_new": true
+      "last_seen": "2026-01-05T20:16:00.942817Z",
+      "is_new": false
     },
     {
       "id": "bd1692c76f60",
@@ -621,7 +653,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2026-01-05T10:17:11.137696Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
       "is_new": false
     },
     {
@@ -637,7 +669,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2026-01-05T10:17:11.137696Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
       "is_new": false
     },
     {
@@ -669,7 +701,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-05T18:20:21.745894Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
       "is_new": false
     },
     {
@@ -685,7 +717,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-05T18:20:21.745894Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
       "is_new": false
     },
     {
@@ -701,7 +733,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-05T18:20:21.745894Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
       "is_new": false
     },
     {
@@ -733,7 +765,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:20:36.852681Z",
-      "last_seen": "2026-01-05T18:20:21.745894Z",
+      "last_seen": "2026-01-05T20:16:00.942817Z",
       "is_new": false
     },
     {
@@ -861,7 +893,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-05T18:20:21.747108Z",
-  "total_count": 53,
-  "new_count": 0
+  "last_updated": "2026-01-05T20:16:00.944112Z",
+  "total_count": 55,
+  "new_count": 2
 }
