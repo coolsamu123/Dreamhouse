@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "8eb5d8b834f8",
+    "source": "Viabilis",
+    "source_url": "https://www.viabilis.be/fr/detail/7330883/vente/appartement/saint-gilles",
+    "title": "appartement",
+    "price": 285000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Avenue Jean Volders 43 - 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-07T16:19:12.810500Z",
+    "last_seen": "2026-01-07T16:19:12.810500Z",
+    "is_new": true
+  }
+]

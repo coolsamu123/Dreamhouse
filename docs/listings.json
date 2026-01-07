@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "8eb5d8b834f8",
+      "source": "Viabilis",
+      "source_url": "https://www.viabilis.be/fr/detail/7330883/vente/appartement/saint-gilles",
+      "title": "appartement",
+      "price": 285000,
+      "surface": 80,
+      "bedrooms": 2,
+      "address": "Avenue Jean Volders 43 - 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-07T16:19:12.810500Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
+      "is_new": true
+    },
+    {
       "id": "1f6c607b9482",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21264784",
@@ -29,7 +45,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T22:13:40.002205Z",
-      "last_seen": "2026-01-07T10:16:01.632524Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -45,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T20:16:00.942817Z",
-      "last_seen": "2026-01-07T14:17:03.540094Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -125,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T12:24:52.951679Z",
-      "last_seen": "2026-01-07T10:16:01.632524Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -141,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T10:17:11.137696Z",
-      "last_seen": "2026-01-07T14:17:03.540094Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -157,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T10:17:11.137696Z",
-      "last_seen": "2026-01-07T10:16:01.632524Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -173,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-04T22:13:22.710363Z",
-      "last_seen": "2026-01-05T10:17:11.137696Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -221,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-07T10:16:01.632524Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -701,7 +717,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T22:13:05.194926Z",
-      "last_seen": "2026-01-07T14:17:03.540094Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -733,7 +749,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-07T14:17:03.540094Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -749,7 +765,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-07T14:17:03.540094Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -765,7 +781,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-07T14:17:03.540094Z",
+      "last_seen": "2026-01-07T16:19:12.810500Z",
       "is_new": false
     },
     {
@@ -925,7 +941,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-07T14:17:03.541401Z",
-  "total_count": 57,
-  "new_count": 0
+  "last_updated": "2026-01-07T16:19:12.811879Z",
+  "total_count": 58,
+  "new_count": 1
 }
