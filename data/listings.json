@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-07T10:16:01.632524Z",
+    "last_seen": "2026-01-07T12:25:05.147230Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-07T10:16:01.632524Z",
+    "last_seen": "2026-01-07T12:25:05.147230Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-07T10:16:01.632524Z",
+    "last_seen": "2026-01-07T12:25:05.147230Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -824,7 +824,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-07T10:16:01.632524Z",
+    "last_seen": "2026-01-07T12:25:05.147230Z",
     "is_new": false
   },
   "a4b5e05f0c56": {
@@ -840,7 +840,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-07T10:16:01.632524Z",
+    "last_seen": "2026-01-07T12:25:05.147230Z",
     "is_new": false
   },
   "597247ac43c9": {
@@ -856,7 +856,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-07T10:16:01.632524Z",
+    "last_seen": "2026-01-07T12:25:05.147230Z",
     "is_new": false
   },
   "f0618f39cda5": {
@@ -906,5 +906,21 @@
     "first_seen": "2026-01-05T22:13:40.002205Z",
     "last_seen": "2026-01-07T10:16:01.632524Z",
     "is_new": false
+  },
+  "1f6c607b9482": {
+    "id": "1f6c607b9482",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21264784",
+    "title": "BEAU SOUPLEX ATYPIQUE AMENAGÉ 3 CHAMBRES AVEC UN JARDIN + BU",
+    "price": 449000,
+    "surface": 132,
+    "bedrooms": 3,
+    "address": "Avenue d'Uccle 42, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-07T12:25:05.147230Z",
+    "last_seen": "2026-01-07T12:25:05.147230Z",
+    "is_new": true
   }
 }
