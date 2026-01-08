@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "a4e6d3776f0d",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21266355",
+    "title": "Appartement à vendre",
+    "price": 285000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Avenue Jean Volders 43, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-08T08:19:23.248106Z",
+    "last_seen": "2026-01-08T08:19:23.248106Z",
+    "is_new": true
+  }
+]
