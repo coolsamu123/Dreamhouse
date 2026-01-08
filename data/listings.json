@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -776,7 +776,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T10:17:11.137696Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "bd1692c76f60": {
@@ -824,7 +824,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-08T04:32:55.515155Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "a4b5e05f0c56": {
@@ -840,7 +840,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-08T04:32:55.515155Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "597247ac43c9": {
@@ -856,7 +856,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-08T04:32:55.515155Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "f0618f39cda5": {
@@ -872,7 +872,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T20:16:00.942817Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "cc15509aa023": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -952,7 +952,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T08:19:23.248106Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": false
   },
   "1bdb3d99416d": {
@@ -968,8 +968,8 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
-    "is_new": true
+    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "is_new": false
   },
   "d44604d4264a": {
     "id": "d44604d4264a",
@@ -984,7 +984,23 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-01-08T10:16:23.640023Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "is_new": false
+  },
+  "e9eccf0034f4": {
+    "id": "e9eccf0034f4",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21267588",
+    "title": "Grand appartement lumineux à Forest, proche parc Duden",
+    "price": 349000,
+    "surface": 135,
+    "bedrooms": 2,
+    "address": "Boergondiëstraat - Rue de Bourgogne 105, 1190 Vorst",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T12:25:44.838128Z",
     "is_new": true
   }
 }
