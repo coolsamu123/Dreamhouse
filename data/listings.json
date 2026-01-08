@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -712,7 +712,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T00:51:55.792014Z",
-    "last_seen": "2026-01-08T06:20:36.921456Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "ccad74eba8af": {
@@ -760,7 +760,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-04T22:13:22.710363Z",
-    "last_seen": "2026-01-07T16:19:12.810500Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "62800d588e37": {
@@ -776,7 +776,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T10:17:11.137696Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "bd1692c76f60": {
@@ -792,7 +792,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T10:17:11.137696Z",
-    "last_seen": "2026-01-08T06:20:36.921456Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "fc45ca0195bf": {
@@ -824,7 +824,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "a4b5e05f0c56": {
@@ -840,7 +840,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T16:17:59.143083Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "597247ac43c9": {
@@ -872,7 +872,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T20:16:00.942817Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "cc15509aa023": {
@@ -904,7 +904,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-05T22:13:40.002205Z",
-    "last_seen": "2026-01-08T06:20:36.921456Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "1f6c607b9482": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -952,7 +952,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T08:19:23.248106Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "1bdb3d99416d": {
@@ -968,7 +968,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "d44604d4264a": {
@@ -984,7 +984,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-01-08T12:25:44.838128Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": false
   },
   "e9eccf0034f4": {
@@ -1001,6 +1001,70 @@
     "images": [],
     "first_seen": "2026-01-08T12:25:44.838128Z",
     "last_seen": "2026-01-08T12:25:44.838128Z",
+    "is_new": true
+  },
+  "dff740c4fb91": {
+    "id": "dff740c4fb91",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21268598",
+    "title": "Magnifique appartement récent avec cave et parking",
+    "price": 420000,
+    "surface": 126,
+    "bedrooms": 3,
+    "address": "Digue du Canal 115, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-08T14:18:30.166846Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
+    "is_new": true
+  },
+  "13462d6eceec": {
+    "id": "13462d6eceec",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21268349",
+    "title": "Appartement 3 chambres + terrasse - PEB C+ - Magnanerie",
+    "price": 275000,
+    "surface": 115,
+    "bedrooms": 3,
+    "address": "Avenue Minerve 27, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-08T14:18:30.166846Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
+    "is_new": true
+  },
+  "e4d252909ac4": {
+    "id": "e4d252909ac4",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21268325",
+    "title": "Appartement 2 chambres - Bervoets",
+    "price": 329000,
+    "surface": 91,
+    "bedrooms": 2,
+    "address": "Rue Toots Thielemans 52, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-08T14:18:30.166846Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
+    "is_new": true
+  },
+  "848c400cd365": {
+    "id": "848c400cd365",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21268136",
+    "title": "Ixelles-EU District-appartement 2 chambres-cavette-emplaceme",
+    "price": 359000,
+    "surface": 88,
+    "bedrooms": 2,
+    "address": "CLOS DU PARNASSE 1, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-08T14:18:30.166846Z",
+    "last_seen": "2026-01-08T14:18:30.166846Z",
     "is_new": true
   }
 }

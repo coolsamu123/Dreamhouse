@@ -1,6 +1,70 @@
 {
   "listings": [
     {
+      "id": "dff740c4fb91",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21268598",
+      "title": "Magnifique appartement récent avec cave et parking",
+      "price": 420000,
+      "surface": 126,
+      "bedrooms": 3,
+      "address": "Digue du Canal 115, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-08T14:18:30.166846Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
+      "is_new": true
+    },
+    {
+      "id": "13462d6eceec",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21268349",
+      "title": "Appartement 3 chambres + terrasse - PEB C+ - Magnanerie",
+      "price": 275000,
+      "surface": 115,
+      "bedrooms": 3,
+      "address": "Avenue Minerve 27, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-08T14:18:30.166846Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
+      "is_new": true
+    },
+    {
+      "id": "e4d252909ac4",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21268325",
+      "title": "Appartement 2 chambres - Bervoets",
+      "price": 329000,
+      "surface": 91,
+      "bedrooms": 2,
+      "address": "Rue Toots Thielemans 52, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-08T14:18:30.166846Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
+      "is_new": true
+    },
+    {
+      "id": "848c400cd365",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21268136",
+      "title": "Ixelles-EU District-appartement 2 chambres-cavette-emplaceme",
+      "price": 359000,
+      "surface": 88,
+      "bedrooms": 2,
+      "address": "CLOS DU PARNASSE 1, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-08T14:18:30.166846Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
+      "is_new": true
+    },
+    {
       "id": "e9eccf0034f4",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21267588",
@@ -29,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -45,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -61,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T08:19:23.248106Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -77,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -109,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T22:13:40.002205Z",
-      "last_seen": "2026-01-08T06:20:36.921456Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -125,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T20:16:00.942817Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -157,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T16:17:59.143083Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -173,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T16:17:59.143083Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -221,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T10:17:11.137696Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -237,7 +301,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T10:17:11.137696Z",
-      "last_seen": "2026-01-08T06:20:36.921456Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -253,7 +317,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-04T22:13:22.710363Z",
-      "last_seen": "2026-01-07T16:19:12.810500Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -301,7 +365,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-08T06:20:36.921456Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -813,7 +877,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -829,7 +893,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -845,7 +909,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-08T12:25:44.838128Z",
+      "last_seen": "2026-01-08T14:18:30.166846Z",
       "is_new": false
     },
     {
@@ -1005,7 +1069,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-08T12:25:44.839471Z",
-  "total_count": 62,
-  "new_count": 1
+  "last_updated": "2026-01-08T14:18:30.168342Z",
+  "total_count": 66,
+  "new_count": 4
 }
