@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "fbd7f944615c",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21274380",
+      "title": "Ixelles - APPARTEMENT LUMINEUX 2 CHAMBRES",
+      "price": 355000,
+      "surface": 101,
+      "bedrooms": 2,
+      "address": "Avenue de la Couronne 66, 1050 IXELLES",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-11T18:17:26.337781Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
+      "is_new": true
+    },
+    {
       "id": "c7cb5cda1d5b",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21274021",
@@ -29,7 +45,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-09T14:17:01.489916Z",
-      "last_seen": "2026-01-11T12:22:08.745955Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
       "is_new": false
     },
     {
@@ -45,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-09T14:17:01.489916Z",
-      "last_seen": "2026-01-11T12:22:08.745955Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
       "is_new": false
     },
     {
@@ -125,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-11T12:22:08.745955Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
       "is_new": false
     },
     {
@@ -205,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-11T16:14:30.286422Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
       "is_new": false
     },
     {
@@ -429,7 +445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-11T12:22:08.745955Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
       "is_new": false
     },
     {
@@ -941,7 +957,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-11T16:14:30.286422Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
       "is_new": false
     },
     {
@@ -957,7 +973,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-11T16:14:30.286422Z",
+      "last_seen": "2026-01-11T18:17:26.337781Z",
       "is_new": false
     },
     {
@@ -1133,7 +1149,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-11T16:14:30.287876Z",
-  "total_count": 70,
-  "new_count": 0
+  "last_updated": "2026-01-11T18:17:26.339328Z",
+  "total_count": 71,
+  "new_count": 1
 }
