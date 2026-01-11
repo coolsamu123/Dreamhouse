@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "c7cb5cda1d5b",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21274021",
+      "title": "Au cœur de Forest, un village dans la ville !",
+      "price": 348000,
+      "surface": 94,
+      "bedrooms": 2,
+      "address": "Rue Marguerite Bervoets - A633, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-11T03:43:43.429917Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
+      "is_new": true
+    },
+    {
       "id": "969d41160e64",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21271628",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-09T14:17:01.489916Z",
-      "last_seen": "2026-01-10T22:12:46.239665Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -29,7 +45,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-09T14:17:01.489916Z",
-      "last_seen": "2026-01-10T22:12:46.239665Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -61,7 +77,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-10T18:18:02.214462Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -77,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-10T18:18:02.214462Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -93,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-10T18:18:02.214462Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-10T22:12:46.239665Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -189,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-11T01:00:31.237325Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -221,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T22:13:40.002205Z",
-      "last_seen": "2026-01-10T22:12:46.239665Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -269,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T16:17:59.143083Z",
-      "last_seen": "2026-01-10T18:18:02.214462Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -413,7 +429,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-10T22:12:46.239665Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -925,7 +941,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-11T01:00:31.237325Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -941,7 +957,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-11T01:00:31.237325Z",
+      "last_seen": "2026-01-11T03:43:43.429917Z",
       "is_new": false
     },
     {
@@ -1117,7 +1133,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-11T01:00:31.238825Z",
-  "total_count": 69,
-  "new_count": 0
+  "last_updated": "2026-01-11T03:43:43.431448Z",
+  "total_count": 70,
+  "new_count": 1
 }
