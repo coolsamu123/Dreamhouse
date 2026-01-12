@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "9d8ce5e09a56",
+    "source": "Tribel Immo",
+    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12195",
+    "title": "Appartement",
+    "price": 275000,
+    "surface": 142,
+    "bedrooms": 4,
+    "address": "BRUXELLES",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-12T10:17:43.968361Z",
+    "last_seen": "2026-01-12T10:17:43.968361Z",
+    "is_new": true
+  }
+]
