@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "4f6188f1d267",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21275412",
+      "title": "POSSIBILITE TVA 6% + ABATTEMENT !",
+      "price": 348000,
+      "surface": 94,
+      "bedrooms": 2,
+      "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-12T12:25:17.925447Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
+      "is_new": true
+    },
+    {
       "id": "9d8ce5e09a56",
       "source": "Tribel Immo",
       "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12195",
@@ -13,8 +29,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-12T10:17:43.968361Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
-      "is_new": true
+      "last_seen": "2026-01-12T12:25:17.925447Z",
+      "is_new": false
     },
     {
       "id": "fbd7f944615c",
@@ -45,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-11T03:43:43.429917Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
       "is_new": false
     },
     {
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
       "is_new": false
     },
     {
@@ -125,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
       "is_new": false
     },
     {
@@ -237,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
       "is_new": false
     },
     {
@@ -317,7 +333,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T16:17:59.143083Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
       "is_new": false
     },
     {
@@ -973,7 +989,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
       "is_new": false
     },
     {
@@ -989,7 +1005,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-12T10:17:43.968361Z",
+      "last_seen": "2026-01-12T12:25:17.925447Z",
       "is_new": false
     },
     {
@@ -1165,7 +1181,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-12T10:17:43.969824Z",
-  "total_count": 72,
+  "last_updated": "2026-01-12T12:25:17.927049Z",
+  "total_count": 73,
   "new_count": 1
 }
