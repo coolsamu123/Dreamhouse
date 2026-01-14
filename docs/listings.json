@@ -1,6 +1,70 @@
 {
   "listings": [
     {
+      "id": "d83736cbe97d",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21283271",
+      "title": "Superbe duplex lumineux avec parking et balcon",
+      "price": 499000,
+      "surface": 147,
+      "bedrooms": 4,
+      "address": "Chaussée de Neerstalle 27, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-14T18:21:04.091278Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
+      "is_new": true
+    },
+    {
+      "id": "e64c4566ede3",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21283335",
+      "title": "POSSIBILITE TVA 6% + ABATTEMENT !",
+      "price": 337500,
+      "surface": 94,
+      "bedrooms": 2,
+      "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-14T18:21:04.091278Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
+      "is_new": true
+    },
+    {
+      "id": "cd9e30475f6c",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21283369",
+      "title": "Bel apt dans un immeuble style ART DECO!",
+      "price": 390000,
+      "surface": 91,
+      "bedrooms": 1,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-14T18:21:04.091278Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
+      "is_new": true
+    },
+    {
+      "id": "853269d7a2ab",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21283366",
+      "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+      "price": null,
+      "surface": 91,
+      "bedrooms": 1,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-14T18:21:04.091278Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
+      "is_new": true
+    },
+    {
       "id": "4c038a2e4479",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21279181",
@@ -45,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-12T10:17:43.968361Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -61,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-11T18:17:26.337781Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -93,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-09T14:17:01.489916Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -109,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-09T14:17:01.489916Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -189,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T14:18:30.166846Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -269,7 +333,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -493,7 +557,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -1005,7 +1069,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -1021,7 +1085,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-14T16:19:15.010572Z",
+      "last_seen": "2026-01-14T18:21:04.091278Z",
       "is_new": false
     },
     {
@@ -1197,7 +1261,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-14T16:19:15.012254Z",
-  "total_count": 74,
-  "new_count": 0
+  "last_updated": "2026-01-14T18:21:04.092887Z",
+  "total_count": 78,
+  "new_count": 4
 }
