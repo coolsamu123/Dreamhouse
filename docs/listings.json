@@ -1,6 +1,38 @@
 {
   "listings": [
     {
+      "id": "2366d60367df",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21286254",
+      "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+      "price": 370000,
+      "surface": 91,
+      "bedrooms": 1,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-15T20:15:29.809722Z",
+      "last_seen": "2026-01-15T20:15:29.809722Z",
+      "is_new": true
+    },
+    {
+      "id": "fa59d4d0274a",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21286156",
+      "title": "Bel apt dans un immeuble style ART DECO!",
+      "price": 390000,
+      "surface": 91,
+      "bedrooms": 2,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-15T20:15:29.809722Z",
+      "last_seen": "2026-01-15T20:15:29.809722Z",
+      "is_new": true
+    },
+    {
       "id": "b44c04cd0ef7",
       "source": "Tribel Immo",
       "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12290",
@@ -13,8 +45,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-15T18:26:15.886655Z",
-      "is_new": true
+      "last_seen": "2026-01-15T20:15:29.809722Z",
+      "is_new": false
     },
     {
       "id": "ed7ebcfff86b",
@@ -29,8 +61,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T16:23:21.800145Z",
-      "last_seen": "2026-01-15T16:23:21.800145Z",
-      "is_new": true
+      "last_seen": "2026-01-15T20:15:29.809722Z",
+      "is_new": false
     },
     {
       "id": "0fce97ec3993",
@@ -61,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-14T18:21:04.091278Z",
-      "last_seen": "2026-01-15T16:23:21.800145Z",
+      "last_seen": "2026-01-15T20:15:29.809722Z",
       "is_new": false
     },
     {
@@ -381,7 +413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-15T18:26:15.886655Z",
+      "last_seen": "2026-01-15T20:15:29.809722Z",
       "is_new": false
     },
     {
@@ -1117,7 +1149,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-15T18:26:15.886655Z",
+      "last_seen": "2026-01-15T20:15:29.809722Z",
       "is_new": false
     },
     {
@@ -1133,7 +1165,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-15T18:26:15.886655Z",
+      "last_seen": "2026-01-15T20:15:29.809722Z",
       "is_new": false
     },
     {
@@ -1309,7 +1341,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-15T18:26:15.888272Z",
-  "total_count": 81,
-  "new_count": 1
+  "last_updated": "2026-01-15T20:15:29.811369Z",
+  "total_count": 83,
+  "new_count": 2
 }
