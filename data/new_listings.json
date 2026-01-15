@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "0fce97ec3993",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21285175",
+    "title": "CHATELAIN : PENTHOUSE  -  2CH - TERRASSE - PARKING",
+    "price": 495000,
+    "surface": 120,
+    "bedrooms": 2,
+    "address": "Rue Washington 25 bte 52, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-15T14:18:38.187908Z",
+    "last_seen": "2026-01-15T14:18:38.187908Z",
+    "is_new": true
+  }
+]
