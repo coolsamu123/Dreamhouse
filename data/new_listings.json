@@ -1,18 +1,18 @@
 [
   {
-    "id": "ed7ebcfff86b",
-    "source": "Immoweb Forest",
-    "source_url": "https://www.immoweb.be/bien/21284805",
-    "title": "Immeuble de caractère 1935 rénové superbe appartement",
-    "price": 390000,
-    "surface": 88,
-    "bedrooms": 2,
-    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
-    "commune": "Forest",
+    "id": "b44c04cd0ef7",
+    "source": "Tribel Immo",
+    "source_url": "https://www.tribel-immo.be/fr/a-vendre?view=detail&id=12290",
+    "title": "TOP INVESTISSEMENT!!! Si 1er achat, pas de droits d'enregistrement sur les premiers 200.000€ soit une économie de 25.000€!!! FOREST limite UCCLE (quartier Altitude 100), à proximité immédiate de commerces et de transports en communs, au 1er étage d'un immeuble de standing, sublime appartement rénové de 91m² brut (selon PEB), comprenant: hall d'entrée, vestiaire, wc séparé, lumineux living en parquet, g...",
+    "price": 370000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "FOREST",
+    "commune": "Ixelles",
     "description": "",
     "images": [],
-    "first_seen": "2026-01-15T16:23:21.800145Z",
-    "last_seen": "2026-01-15T16:23:21.800145Z",
+    "first_seen": "2026-01-15T18:26:15.886655Z",
+    "last_seen": "2026-01-15T18:26:15.886655Z",
     "is_new": true
   }
 ]
