@@ -1,18 +1,18 @@
 [
   {
-    "id": "0fce97ec3993",
-    "source": "Immoweb Ixelles",
-    "source_url": "https://www.immoweb.be/bien/21285175",
-    "title": "CHATELAIN : PENTHOUSE  -  2CH - TERRASSE - PARKING",
-    "price": 495000,
-    "surface": 120,
+    "id": "ed7ebcfff86b",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21284805",
+    "title": "Immeuble de caractère 1935 rénové superbe appartement",
+    "price": 390000,
+    "surface": 88,
     "bedrooms": 2,
-    "address": "Rue Washington 25 bte 52, 1050 Ixelles",
-    "commune": "Ixelles",
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
     "description": "",
     "images": [],
-    "first_seen": "2026-01-15T14:18:38.187908Z",
-    "last_seen": "2026-01-15T14:18:38.187908Z",
+    "first_seen": "2026-01-15T16:23:21.800145Z",
+    "last_seen": "2026-01-15T16:23:21.800145Z",
     "is_new": true
   }
 ]
