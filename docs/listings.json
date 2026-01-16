@@ -1,6 +1,38 @@
 {
   "listings": [
     {
+      "id": "0b35ebb3fdd5",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21287486",
+      "title": "ALTITUDE 100: CHARMANT APT A RENOVER",
+      "price": 345000,
+      "surface": 91,
+      "bedrooms": 2,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-16T16:17:41.037983Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
+      "is_new": true
+    },
+    {
+      "id": "d430b7106e0f",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21287763",
+      "title": "ALTITUDE 100: CHARMANT APT RENOVE",
+      "price": null,
+      "surface": 91,
+      "bedrooms": 2,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-16T16:17:41.037983Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
+      "is_new": true
+    },
+    {
       "id": "7b18d70de21d",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21286405",
@@ -29,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T20:15:29.809722Z",
-      "last_seen": "2026-01-16T08:18:45.370845Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -45,7 +77,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T20:15:29.809722Z",
-      "last_seen": "2026-01-16T08:18:45.370845Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -61,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -381,7 +413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -397,7 +429,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -413,7 +445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T08:19:23.248106Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -429,7 +461,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -573,7 +605,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T10:17:11.137696Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -1165,7 +1197,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -1181,7 +1213,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-16T14:16:53.977550Z",
+      "last_seen": "2026-01-16T16:17:41.037983Z",
       "is_new": false
     },
     {
@@ -1357,7 +1389,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-16T14:16:53.979283Z",
-  "total_count": 84,
-  "new_count": 0
+  "last_updated": "2026-01-16T16:17:41.039755Z",
+  "total_count": 86,
+  "new_count": 2
 }

@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "0b35ebb3fdd5",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21287486",
+    "title": "ALTITUDE 100: CHARMANT APT A RENOVER",
+    "price": 345000,
+    "surface": 91,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-16T16:17:41.037983Z",
+    "last_seen": "2026-01-16T16:17:41.037983Z",
+    "is_new": true
+  },
+  {
+    "id": "d430b7106e0f",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21287763",
+    "title": "ALTITUDE 100: CHARMANT APT RENOVE",
+    "price": null,
+    "surface": 91,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-16T16:17:41.037983Z",
+    "last_seen": "2026-01-16T16:17:41.037983Z",
+    "is_new": true
+  }
+]
