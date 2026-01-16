@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "9c609baac064",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21287761",
+      "title": "ALTITUDE 100: CHARMANT APT RENOVE",
+      "price": 390000,
+      "surface": 91,
+      "bedrooms": 2,
+      "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-16T20:14:37.689937Z",
+      "last_seen": "2026-01-16T20:14:37.689937Z",
+      "is_new": true
+    },
+    {
       "id": "0b35ebb3fdd5",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21287486",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-16T16:17:41.037983Z",
-      "last_seen": "2026-01-16T18:20:19.133136Z",
+      "last_seen": "2026-01-16T20:14:37.689937Z",
       "is_new": false
     },
     {
@@ -29,7 +45,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-16T16:17:41.037983Z",
-      "last_seen": "2026-01-16T18:20:19.133136Z",
+      "last_seen": "2026-01-16T20:14:37.689937Z",
       "is_new": false
     },
     {
@@ -93,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-16T18:20:19.133136Z",
+      "last_seen": "2026-01-16T20:14:37.689937Z",
       "is_new": false
     },
     {
@@ -461,7 +477,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-16T18:20:19.133136Z",
+      "last_seen": "2026-01-16T20:14:37.689937Z",
       "is_new": false
     },
     {
@@ -1197,7 +1213,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-16T18:20:19.133136Z",
+      "last_seen": "2026-01-16T20:14:37.689937Z",
       "is_new": false
     },
     {
@@ -1213,7 +1229,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-16T18:20:19.133136Z",
+      "last_seen": "2026-01-16T20:14:37.689937Z",
       "is_new": false
     },
     {
@@ -1389,7 +1405,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-16T18:20:19.134783Z",
-  "total_count": 86,
-  "new_count": 0
+  "last_updated": "2026-01-16T20:14:37.691705Z",
+  "total_count": 87,
+  "new_count": 1
 }

@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-16T18:20:19.133136Z",
+    "last_seen": "2026-01-16T20:14:37.689937Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-16T18:20:19.133136Z",
+    "last_seen": "2026-01-16T20:14:37.689937Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-01-16T18:20:19.133136Z",
+    "last_seen": "2026-01-16T20:14:37.689937Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-01-16T18:20:19.133136Z",
+    "last_seen": "2026-01-16T20:14:37.689937Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -1368,7 +1368,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-16T16:17:41.037983Z",
-    "last_seen": "2026-01-16T18:20:19.133136Z",
+    "last_seen": "2026-01-16T20:14:37.689937Z",
     "is_new": false
   },
   "d430b7106e0f": {
@@ -1384,7 +1384,23 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-16T16:17:41.037983Z",
-    "last_seen": "2026-01-16T18:20:19.133136Z",
+    "last_seen": "2026-01-16T20:14:37.689937Z",
     "is_new": false
+  },
+  "9c609baac064": {
+    "id": "9c609baac064",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21287761",
+    "title": "ALTITUDE 100: CHARMANT APT RENOVE",
+    "price": 390000,
+    "surface": 91,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-16T20:14:37.689937Z",
+    "last_seen": "2026-01-16T20:14:37.689937Z",
+    "is_new": true
   }
 }
