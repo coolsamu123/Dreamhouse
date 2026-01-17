@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "0a8049261237",
+      "source": "Immoweb Saint-Gilles",
+      "source_url": "https://www.immoweb.be/bien/21289999",
+      "title": "Superbe duplex - quartier prisé de Saint-Gilles",
+      "price": 349000,
+      "surface": 117,
+      "bedrooms": 2,
+      "address": "Rue d'Ecosse 67, 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-17T08:16:25.304033Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
+      "is_new": true
+    },
+    {
       "id": "9c609baac064",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21287761",
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-17T06:18:48.775487Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
       "is_new": false
     },
     {
@@ -429,7 +445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-17T00:53:45.682499Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
       "is_new": false
     },
     {
@@ -445,7 +461,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-17T00:53:45.682499Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
       "is_new": false
     },
     {
@@ -477,7 +493,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-17T06:18:48.775487Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
       "is_new": false
     },
     {
@@ -621,7 +637,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-05T10:17:11.137696Z",
-      "last_seen": "2026-01-17T00:53:45.682499Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
       "is_new": false
     },
     {
@@ -1213,7 +1229,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-17T06:18:48.775487Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
       "is_new": false
     },
     {
@@ -1229,7 +1245,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-17T06:18:48.775487Z",
+      "last_seen": "2026-01-17T08:16:25.304033Z",
       "is_new": false
     },
     {
@@ -1405,7 +1421,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-17T06:18:48.777143Z",
-  "total_count": 87,
-  "new_count": 0
+  "last_updated": "2026-01-17T08:16:25.305727Z",
+  "total_count": 88,
+  "new_count": 1
 }
