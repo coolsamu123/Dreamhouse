@@ -152,7 +152,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-19T12:26:23.971831Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "0a4bd9dcca93": {
@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-19T12:26:23.971831Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -712,7 +712,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T00:51:55.792014Z",
-    "last_seen": "2026-01-19T08:21:45.511525Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "ccad74eba8af": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-01-19T12:26:23.971831Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1064,7 +1064,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T14:18:30.166846Z",
-    "last_seen": "2026-01-19T08:21:45.511525Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "79c8082ee221": {
@@ -1272,7 +1272,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T14:18:38.187908Z",
-    "last_seen": "2026-01-19T08:21:45.511525Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "ed7ebcfff86b": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-01-19T12:26:23.971831Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -1352,7 +1352,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T22:14:17.544895Z",
-    "last_seen": "2026-01-19T08:21:45.511525Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "0b35ebb3fdd5": {
@@ -1368,7 +1368,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-16T16:17:41.037983Z",
-    "last_seen": "2026-01-19T10:19:52.205664Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "d430b7106e0f": {
@@ -1384,7 +1384,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-16T16:17:41.037983Z",
-    "last_seen": "2026-01-19T12:26:23.971831Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": false
   },
   "9c609baac064": {
@@ -1480,7 +1480,39 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-19T12:26:23.971831Z",
-    "last_seen": "2026-01-19T12:26:23.971831Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
+    "is_new": false
+  },
+  "4eab46c5a632": {
+    "id": "4eab46c5a632",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21292802",
+    "title": "Van Volxem - Superbe appartement 2 chambres avec terrasses !",
+    "price": 280000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Avenue Van Volxem 174, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-19T14:20:40.473011Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
+    "is_new": true
+  },
+  "6e37b135a89d": {
+    "id": "6e37b135a89d",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21292142",
+    "title": "Seniorie - appartement sud-est avec terrasse + parking",
+    "price": 349000,
+    "surface": 105,
+    "bedrooms": 2,
+    "address": "Chaussée de Boitsfort 15, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-19T14:20:40.473011Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": true
   }
 }

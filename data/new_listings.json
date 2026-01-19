@@ -1,18 +1,34 @@
 [
   {
-    "id": "4fa972212703",
+    "id": "4eab46c5a632",
     "source": "Immoweb Forest",
-    "source_url": "https://www.immoweb.be/bien/21288528",
-    "title": "Au cœur de Forest, un village dans la ville !",
-    "price": null,
-    "surface": 94,
+    "source_url": "https://www.immoweb.be/bien/21292802",
+    "title": "Van Volxem - Superbe appartement 2 chambres avec terrasses !",
+    "price": 280000,
+    "surface": 80,
     "bedrooms": 2,
-    "address": "Rue des Carburants -, 1190 Forest",
+    "address": "Avenue Van Volxem 174, 1190 Forest",
     "commune": "Forest",
     "description": "",
     "images": [],
-    "first_seen": "2026-01-19T12:26:23.971831Z",
-    "last_seen": "2026-01-19T12:26:23.971831Z",
+    "first_seen": "2026-01-19T14:20:40.473011Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
+    "is_new": true
+  },
+  {
+    "id": "6e37b135a89d",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21292142",
+    "title": "Seniorie - appartement sud-est avec terrasse + parking",
+    "price": 349000,
+    "surface": 105,
+    "bedrooms": 2,
+    "address": "Chaussée de Boitsfort 15, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-19T14:20:40.473011Z",
+    "last_seen": "2026-01-19T14:20:40.473011Z",
     "is_new": true
   }
 ]
