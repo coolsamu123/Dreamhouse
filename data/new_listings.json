@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "80fce246d1b0",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21297363",
+    "title": "Confort et élégance à votre portée !",
+    "price": 465000,
+    "surface": 86,
+    "bedrooms": 2,
+    "address": "Avenue Antoine Depage 37, 1050 Bruxelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-20T22:14:58.656249Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
+    "is_new": true
+  }
+]

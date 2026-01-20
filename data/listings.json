@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-20T20:39:40.914052Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-20T20:39:40.914052Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -712,7 +712,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-03T00:51:55.792014Z",
-    "last_seen": "2026-01-20T16:23:28.897141Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "ccad74eba8af": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-01-20T20:39:40.914052Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-01-20T20:39:40.914052Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -1352,7 +1352,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T22:14:17.544895Z",
-    "last_seen": "2026-01-20T16:23:28.897141Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "0b35ebb3fdd5": {
@@ -1496,7 +1496,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-19T14:20:40.473011Z",
-    "last_seen": "2026-01-20T18:22:39.198083Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "6e37b135a89d": {
@@ -1512,7 +1512,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-19T14:20:40.473011Z",
-    "last_seen": "2026-01-20T16:23:28.897141Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "9edefb65d6e8": {
@@ -1544,7 +1544,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-19T18:19:29.233662Z",
-    "last_seen": "2026-01-20T18:22:39.198083Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "357cc2ac41a9": {
@@ -1560,7 +1560,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-19T18:19:29.233662Z",
-    "last_seen": "2026-01-20T18:22:39.198083Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
     "is_new": false
   },
   "18d8550524b3": {
@@ -1610,5 +1610,21 @@
     "first_seen": "2026-01-20T12:26:30.276554Z",
     "last_seen": "2026-01-20T16:23:28.897141Z",
     "is_new": false
+  },
+  "80fce246d1b0": {
+    "id": "80fce246d1b0",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21297363",
+    "title": "Confort et élégance à votre portée !",
+    "price": 465000,
+    "surface": 86,
+    "bedrooms": 2,
+    "address": "Avenue Antoine Depage 37, 1050 Bruxelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-20T22:14:58.656249Z",
+    "last_seen": "2026-01-20T22:14:58.656249Z",
+    "is_new": true
   }
 }
