@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "91b1dcefe122",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21305416",
+      "title": "Uccle : 2 ch. à rénover avec terrasse et vue parc",
+      "price": 259000,
+      "surface": 81,
+      "bedrooms": 2,
+      "address": "Rue du Merlo 6B, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-23T20:16:17.882273Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
+      "is_new": true
+    },
+    {
       "id": "946f69caea03",
       "source": "Modifa",
       "source_url": "https://www.modifa.be/fr/bien/a-vendre/maison/1070-anderlecht/7344797",
@@ -13,8 +29,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T16:18:42.912648Z",
-      "last_seen": "2026-01-23T16:18:42.912648Z",
-      "is_new": true
+      "last_seen": "2026-01-23T20:16:17.882273Z",
+      "is_new": false
     },
     {
       "id": "b09cff323235",
@@ -141,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T16:18:21.233810Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -157,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T14:20:40.473011Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -253,7 +269,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-17T08:16:25.304033Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -365,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -685,7 +701,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -701,7 +717,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -733,7 +749,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -1485,7 +1501,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -1501,7 +1517,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-23T18:20:46.249053Z",
+      "last_seen": "2026-01-23T20:16:17.882273Z",
       "is_new": false
     },
     {
@@ -1661,7 +1677,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-23T18:20:46.251002Z",
-  "total_count": 103,
-  "new_count": 0
+  "last_updated": "2026-01-23T20:16:17.884007Z",
+  "total_count": 104,
+  "new_count": 1
 }
