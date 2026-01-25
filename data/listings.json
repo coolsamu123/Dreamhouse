@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-25T04:45:27.505844Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-25T04:45:27.505844Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-01-25T04:45:27.505844Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -968,7 +968,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-01-24T20:13:27.122680Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": false
   },
   "d44604d4264a": {
@@ -984,7 +984,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-01-24T20:13:27.122680Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": false
   },
   "e9eccf0034f4": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-01-25T04:45:27.505844Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -1416,7 +1416,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-17T08:16:25.304033Z",
-    "last_seen": "2026-01-24T20:13:27.122680Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": false
   },
   "bae5fee34977": {
@@ -1721,6 +1721,54 @@
     "images": [],
     "first_seen": "2026-01-25T03:47:00.615634Z",
     "last_seen": "2026-01-25T03:47:00.615634Z",
+    "is_new": true
+  },
+  "9936774b90ad": {
+    "id": "9936774b90ad",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1060-saint-gilles/7543677",
+    "title": "Appartement - à vendre - 1060 Saint-Gilles",
+    "price": 450000,
+    "surface": 85,
+    "bedrooms": 3,
+    "address": "1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-25T06:19:34.906867Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
+    "is_new": true
+  },
+  "008e1f425a64": {
+    "id": "008e1f425a64",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7544035",
+    "title": "Appartement - à vendre - 1190 Forest",
+    "price": 375000,
+    "surface": 90,
+    "bedrooms": 2,
+    "address": "1190 Forest",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-25T06:19:34.906867Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
+    "is_new": true
+  },
+  "9fce0728b98e": {
+    "id": "9fce0728b98e",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1050-ixelles/7344797",
+    "title": "Appartement - à vendre - 1050 Ixelles",
+    "price": 495000,
+    "surface": 82,
+    "bedrooms": 3,
+    "address": "1050 Ixelles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-25T06:19:34.906867Z",
+    "last_seen": "2026-01-25T06:19:34.906867Z",
     "is_new": true
   }
 }
