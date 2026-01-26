@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "8a262c085ec9",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21308236",
+    "title": "PARC DUDEN - APT NEUFS 1/2 CH AVEC TERRASSE",
+    "price": 333853,
+    "surface": 94,
+    "bedrooms": 2,
+    "address": "Avenue des Tropiques 48, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-26T12:25:58.065440Z",
+    "last_seen": "2026-01-26T12:25:58.065440Z",
+    "is_new": true
+  }
+]

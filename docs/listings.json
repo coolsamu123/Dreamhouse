@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "8a262c085ec9",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21308236",
+      "title": "PARC DUDEN - APT NEUFS 1/2 CH AVEC TERRASSE",
+      "price": 333853,
+      "surface": 94,
+      "bedrooms": 2,
+      "address": "Avenue des Tropiques 48, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-26T12:25:58.065440Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
+      "is_new": true
+    },
+    {
       "id": "5dbfebce3d3f",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21307039",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T03:51:20.160967Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -29,7 +45,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T01:00:54.707361Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -157,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T16:18:42.912648Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -285,7 +301,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T16:18:21.233810Z",
-      "last_seen": "2026-01-26T08:20:53.556376Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -397,7 +413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-17T08:16:25.304033Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -509,7 +525,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -829,7 +845,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -845,7 +861,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -877,7 +893,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -1629,7 +1645,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -1645,7 +1661,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-26T10:19:13.892981Z",
+      "last_seen": "2026-01-26T12:25:58.065440Z",
       "is_new": false
     },
     {
@@ -1805,7 +1821,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-26T10:19:13.894992Z",
-  "total_count": 112,
-  "new_count": 0
+  "last_updated": "2026-01-26T12:25:58.067561Z",
+  "total_count": 113,
+  "new_count": 1
 }
