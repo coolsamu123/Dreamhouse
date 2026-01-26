@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "5dbfebce3d3f",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21307039",
+      "title": "Forest - Appartement 2 chambres avec terasse",
+      "price": 380000,
+      "surface": 88,
+      "bedrooms": 2,
+      "address": "Cervantes 60, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-26T03:51:20.160967Z",
+      "last_seen": "2026-01-26T03:51:20.160967Z",
+      "is_new": true
+    },
+    {
       "id": "86d3709e005f",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21307042",
@@ -125,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T20:16:17.882273Z",
-      "last_seen": "2026-01-25T14:12:33.310552Z",
+      "last_seen": "2026-01-26T03:51:20.160967Z",
       "is_new": false
     },
     {
@@ -141,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T16:18:42.912648Z",
-      "last_seen": "2026-01-26T01:00:54.707361Z",
+      "last_seen": "2026-01-26T03:51:20.160967Z",
       "is_new": false
     },
     {
@@ -285,7 +301,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T14:20:40.473011Z",
-      "last_seen": "2026-01-25T14:12:33.310552Z",
+      "last_seen": "2026-01-26T03:51:20.160967Z",
       "is_new": false
     },
     {
@@ -861,7 +877,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-26T01:00:54.707361Z",
+      "last_seen": "2026-01-26T03:51:20.160967Z",
       "is_new": false
     },
     {
@@ -1613,7 +1629,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-26T01:00:54.707361Z",
+      "last_seen": "2026-01-26T03:51:20.160967Z",
       "is_new": false
     },
     {
@@ -1629,7 +1645,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-26T01:00:54.707361Z",
+      "last_seen": "2026-01-26T03:51:20.160967Z",
       "is_new": false
     },
     {
@@ -1789,7 +1805,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-26T01:00:54.709312Z",
-  "total_count": 111,
+  "last_updated": "2026-01-26T03:51:20.162977Z",
+  "total_count": 112,
   "new_count": 1
 }
