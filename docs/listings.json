@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "0f972cbeee0b",
+      "source": "Modifa",
+      "source_url": "https://www.modifa.be/fr/bien/a-vendre/terrain/1390-grez-doiceau/7353346",
+      "title": "Terrain - à vendre - 1390 Grez-Doiceau",
+      "price": 125000,
+      "surface": 1263,
+      "bedrooms": null,
+      "address": "Grez-Doiceau",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-27T18:24:47.756260Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
+      "is_new": true
+    },
+    {
       "id": "c11a9459b3a5",
       "source": "Modifa",
       "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1060-saint-gilles/7547485",
@@ -61,7 +77,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T10:18:48.731781Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T01:00:54.707361Z",
-      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -237,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T16:18:42.912648Z",
-      "last_seen": "2026-01-27T12:25:33.017012Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -397,7 +413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T14:20:40.473011Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -477,7 +493,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-17T08:16:25.304033Z",
-      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -541,7 +557,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T22:14:17.544895Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -589,7 +605,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -909,7 +925,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -925,7 +941,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -957,7 +973,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -1181,7 +1197,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -1709,7 +1725,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -1725,7 +1741,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-27T16:19:46.790934Z",
+      "last_seen": "2026-01-27T18:24:47.756260Z",
       "is_new": false
     },
     {
@@ -1885,7 +1901,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-27T16:19:46.793018Z",
-  "total_count": 117,
-  "new_count": 0
+  "last_updated": "2026-01-27T18:24:47.758322Z",
+  "total_count": 118,
+  "new_count": 1
 }
