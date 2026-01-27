@@ -1,6 +1,54 @@
 {
   "listings": [
     {
+      "id": "c11a9459b3a5",
+      "source": "Modifa",
+      "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1060-saint-gilles/7547485",
+      "title": "Appartement - à vendre - 1060 Saint-Gilles",
+      "price": 450000,
+      "surface": 95,
+      "bedrooms": 3,
+      "address": "1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-27T14:23:33.404169Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "is_new": true
+    },
+    {
+      "id": "c5f813c40d36",
+      "source": "Modifa",
+      "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7544051",
+      "title": "Appartement - à vendre - 1190 Forest",
+      "price": 385000,
+      "surface": 82,
+      "bedrooms": 2,
+      "address": "1190 Forest",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-27T14:23:33.404169Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "is_new": true
+    },
+    {
+      "id": "1743e4fe3aa8",
+      "source": "Modifa",
+      "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1050-ixelles/7544036",
+      "title": "Appartement - à vendre - 1050 Ixelles",
+      "price": 495000,
+      "surface": 88,
+      "bedrooms": 3,
+      "address": "1050 Ixelles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-27T14:23:33.404169Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "is_new": true
+    },
+    {
       "id": "a2522cefe928",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21310563",
@@ -13,8 +61,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T10:18:48.731781Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
-      "is_new": true
+      "last_seen": "2026-01-27T14:23:33.404169Z",
+      "is_new": false
     },
     {
       "id": "8a262c085ec9",
@@ -29,7 +77,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T12:25:58.065440Z",
-      "last_seen": "2026-01-27T12:25:33.017012Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -45,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T03:51:20.160967Z",
-      "last_seen": "2026-01-27T12:25:33.017012Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -61,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T01:00:54.707361Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -349,7 +397,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T14:20:40.473011Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -429,7 +477,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-17T08:16:25.304033Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -493,7 +541,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T22:14:17.544895Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -541,7 +589,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-27T12:25:33.017012Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -861,7 +909,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -877,7 +925,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -909,7 +957,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-27T12:25:33.017012Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -1133,7 +1181,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-27T10:18:48.731781Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -1661,7 +1709,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-27T12:25:33.017012Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -1677,7 +1725,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-27T12:25:33.017012Z",
+      "last_seen": "2026-01-27T14:23:33.404169Z",
       "is_new": false
     },
     {
@@ -1837,7 +1885,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-27T12:25:33.018999Z",
-  "total_count": 114,
-  "new_count": 0
+  "last_updated": "2026-01-27T14:23:33.406220Z",
+  "total_count": 117,
+  "new_count": 3
 }
