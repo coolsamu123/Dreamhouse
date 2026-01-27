@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "a2522cefe928",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21310563",
+    "title": "Architecture Contemporaine au cœur du Cimetière d'Ixelles",
+    "price": 460000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Rue de l'Eté 192 A5, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-27T10:18:48.731781Z",
+    "last_seen": "2026-01-27T10:18:48.731781Z",
+    "is_new": true
+  }
+]
