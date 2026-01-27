@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-27T20:15:32.354098Z",
+    "last_seen": "2026-01-27T22:14:58.591281Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-01-27T20:15:32.354098Z",
+    "last_seen": "2026-01-27T22:14:58.591281Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-01-27T20:15:32.354098Z",
+    "last_seen": "2026-01-27T22:14:58.591281Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-01-27T20:15:32.354098Z",
+    "last_seen": "2026-01-27T22:14:58.591281Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -1897,6 +1897,54 @@
     "images": [],
     "first_seen": "2026-01-27T18:24:47.756260Z",
     "last_seen": "2026-01-27T18:24:47.756260Z",
+    "is_new": true
+  },
+  "858bbe03b69f": {
+    "id": "858bbe03b69f",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1060-saint-gilles/7541234",
+    "title": "Appartement - à vendre - 1060 Saint-Gilles",
+    "price": 450000,
+    "surface": 95,
+    "bedrooms": 3,
+    "address": "1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-27T22:14:58.591281Z",
+    "last_seen": "2026-01-27T22:14:58.591281Z",
+    "is_new": true
+  },
+  "af18db74f6db": {
+    "id": "af18db74f6db",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7545678",
+    "title": "Appartement - à vendre - 1190 Forest",
+    "price": 385000,
+    "surface": 82,
+    "bedrooms": 2,
+    "address": "1190 Forest",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-27T22:14:58.591281Z",
+    "last_seen": "2026-01-27T22:14:58.591281Z",
+    "is_new": true
+  },
+  "211776b3c26f": {
+    "id": "211776b3c26f",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1050-ixelles/7548912",
+    "title": "Appartement - à vendre - 1050 Ixelles",
+    "price": 495000,
+    "surface": 88,
+    "bedrooms": 3,
+    "address": "1050 Ixelles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-27T22:14:58.591281Z",
+    "last_seen": "2026-01-27T22:14:58.591281Z",
     "is_new": true
   }
 }
