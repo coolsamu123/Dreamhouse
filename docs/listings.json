@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "5754362b5869",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21313098",
+      "title": "Altitude 100 - Appartement 2 chambres + terrasses + garage",
+      "price": 320000,
+      "surface": 95,
+      "bedrooms": 2,
+      "address": "Avenue du Domaine 169, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-28T22:18:59.778682Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
+      "is_new": true
+    },
+    {
       "id": "0897dd65eda0",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21313027",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-28T08:20:01.364372Z",
-      "last_seen": "2026-01-28T10:19:56.135600Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -157,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T18:24:47.756260Z",
-      "last_seen": "2026-01-28T20:20:16.189872Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -221,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T10:18:48.731781Z",
-      "last_seen": "2026-01-28T10:19:56.135600Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -237,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T12:25:58.065440Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -253,7 +269,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T03:51:20.160967Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -397,7 +413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T16:18:42.912648Z",
-      "last_seen": "2026-01-28T20:20:16.189872Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -557,7 +573,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T14:20:40.473011Z",
-      "last_seen": "2026-01-28T10:19:56.135600Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -749,7 +765,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-28T20:20:16.189872Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -1117,7 +1133,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-28T20:20:16.189872Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -1341,7 +1357,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-28T10:19:56.135600Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -1869,7 +1885,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-28T20:20:16.189872Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -1885,7 +1901,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-28T20:20:16.189872Z",
+      "last_seen": "2026-01-28T22:18:59.778682Z",
       "is_new": false
     },
     {
@@ -2045,7 +2061,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-28T20:20:16.192070Z",
-  "total_count": 127,
-  "new_count": 0
+  "last_updated": "2026-01-28T22:18:59.781035Z",
+  "total_count": 128,
+  "new_count": 1
 }
