@@ -1,18 +1,18 @@
 [
   {
-    "id": "12b183952f02",
-    "source": "Modifa",
-    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1050-ixelles/7538456",
-    "title": "Appartement - à vendre - 1050 Ixelles",
-    "price": 495000,
-    "surface": 88,
-    "bedrooms": 3,
-    "address": "1050 Ixelles",
-    "commune": "Saint-Gilles",
+    "id": "0897dd65eda0",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21313027",
+    "title": "Cimetière d'Ixelles : appartement neuf de 2 chambres",
+    "price": 460000,
+    "surface": 81,
+    "bedrooms": 2,
+    "address": "Rue de l'Eté 192 0, 1050 Ixelles",
+    "commune": "Ixelles",
     "description": "",
     "images": [],
-    "first_seen": "2026-01-28T06:23:09.653734Z",
-    "last_seen": "2026-01-28T06:23:09.653734Z",
+    "first_seen": "2026-01-28T08:20:01.364372Z",
+    "last_seen": "2026-01-28T08:20:01.364372Z",
     "is_new": true
   }
 ]

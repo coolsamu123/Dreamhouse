@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "0897dd65eda0",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21313027",
+      "title": "Cimetière d'Ixelles : appartement neuf de 2 chambres",
+      "price": 460000,
+      "surface": 81,
+      "bedrooms": 2,
+      "address": "Rue de l'Eté 192 0, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-28T08:20:01.364372Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
+      "is_new": true
+    },
+    {
       "id": "12b183952f02",
       "source": "Modifa",
       "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1050-ixelles/7538456",
@@ -205,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T10:18:48.731781Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -381,7 +397,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T16:18:42.912648Z",
-      "last_seen": "2026-01-27T18:24:47.756260Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -509,7 +525,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T16:18:21.233810Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -541,7 +557,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-19T14:20:40.473011Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -621,7 +637,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-17T08:16:25.304033Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -733,7 +749,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -1053,7 +1069,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -1069,7 +1085,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -1101,7 +1117,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -1325,7 +1341,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -1853,7 +1869,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -1869,7 +1885,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-28T06:23:09.653734Z",
+      "last_seen": "2026-01-28T08:20:01.364372Z",
       "is_new": false
     },
     {
@@ -2029,7 +2045,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-28T06:23:09.656119Z",
-  "total_count": 126,
+  "last_updated": "2026-01-28T08:20:01.366420Z",
+  "total_count": 127,
   "new_count": 1
 }
