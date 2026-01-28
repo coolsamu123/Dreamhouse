@@ -1,24 +1,24 @@
 [
   {
-    "id": "49276e604964",
+    "id": "9198a62d0e70",
     "source": "Modifa",
-    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7534567",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7539876",
     "title": "Appartement - à vendre - 1190 Forest",
-    "price": 375000,
+    "price": 385000,
     "surface": 82,
     "bedrooms": 2,
     "address": "1190 Forest",
     "commune": "Saint-Gilles",
     "description": "",
     "images": [],
-    "first_seen": "2026-01-28T00:56:48.551077Z",
-    "last_seen": "2026-01-28T00:56:48.551077Z",
+    "first_seen": "2026-01-28T03:29:51.263449Z",
+    "last_seen": "2026-01-28T03:29:51.263449Z",
     "is_new": true
   },
   {
-    "id": "3be880454544",
+    "id": "a502278c09e9",
     "source": "Modifa",
-    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1050-ixelles/7528912",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1050-ixelles/7534567",
     "title": "Appartement - à vendre - 1050 Ixelles",
     "price": 495000,
     "surface": 88,
@@ -27,8 +27,8 @@
     "commune": "Saint-Gilles",
     "description": "",
     "images": [],
-    "first_seen": "2026-01-28T00:56:48.551077Z",
-    "last_seen": "2026-01-28T00:56:48.551077Z",
+    "first_seen": "2026-01-28T03:29:51.263449Z",
+    "last_seen": "2026-01-28T03:29:51.263449Z",
     "is_new": true
   }
 ]
