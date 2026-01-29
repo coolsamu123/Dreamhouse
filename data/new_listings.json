@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "9f2d295818a2",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21316043",
+    "title": "BEL APPARTEMENT 2CH (87m²) - PEB C - ETANGS D'IXELLES",
+    "price": 369000,
+    "surface": 85,
+    "bedrooms": 2,
+    "address": "Rue Lannoy 15, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-29T10:28:05.209076Z",
+    "last_seen": "2026-01-29T10:28:05.209076Z",
+    "is_new": true
+  }
+]

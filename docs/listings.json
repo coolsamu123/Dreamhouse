@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "9f2d295818a2",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21316043",
+      "title": "BEL APPARTEMENT 2CH (87m²) - PEB C - ETANGS D'IXELLES",
+      "price": 369000,
+      "surface": 85,
+      "bedrooms": 2,
+      "address": "Rue Lannoy 15, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-29T10:28:05.209076Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
+      "is_new": true
+    },
+    {
       "id": "5754362b5869",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/bien/21313098",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-28T22:18:59.778682Z",
-      "last_seen": "2026-01-29T05:07:36.172869Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -29,7 +45,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-28T08:20:01.364372Z",
-      "last_seen": "2026-01-29T05:07:36.172869Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -173,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T18:24:47.756260Z",
-      "last_seen": "2026-01-28T22:18:59.778682Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -237,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T10:18:48.731781Z",
-      "last_seen": "2026-01-29T05:07:36.172869Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -253,7 +269,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T12:25:58.065440Z",
-      "last_seen": "2026-01-29T05:07:36.172869Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -269,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-26T03:51:20.160967Z",
-      "last_seen": "2026-01-29T05:07:36.172869Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -413,7 +429,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-23T16:18:42.912648Z",
-      "last_seen": "2026-01-28T22:18:59.778682Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -765,7 +781,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-01-29T08:27:53.998893Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -1133,7 +1149,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-29T08:27:53.998893Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -1357,7 +1373,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-03T00:51:55.792014Z",
-      "last_seen": "2026-01-29T05:07:36.172869Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -1885,7 +1901,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-29T08:27:53.998893Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -1901,7 +1917,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-29T08:27:53.998893Z",
+      "last_seen": "2026-01-29T10:28:05.209076Z",
       "is_new": false
     },
     {
@@ -2061,7 +2077,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-29T08:27:54.001018Z",
-  "total_count": 128,
-  "new_count": 0
+  "last_updated": "2026-01-29T10:28:05.211356Z",
+  "total_count": 129,
+  "new_count": 1
 }
