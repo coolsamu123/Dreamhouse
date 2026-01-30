@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "c88f51e32344",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21319205",
+    "title": "Très bel appartement LUMINEUX",
+    "price": 470000,
+    "surface": 115,
+    "bedrooms": 2,
+    "address": "Italie avenue d' 45, 1050 IXELLES",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-01-30T16:28:32.325719Z",
+    "last_seen": "2026-01-30T16:28:32.325719Z",
+    "is_new": true
+  }
+]

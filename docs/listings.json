@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "c88f51e32344",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21319205",
+      "title": "Très bel appartement LUMINEUX",
+      "price": 470000,
+      "surface": 115,
+      "bedrooms": 2,
+      "address": "Italie avenue d' 45, 1050 IXELLES",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-01-30T16:28:32.325719Z",
+      "last_seen": "2026-01-30T16:28:32.325719Z",
+      "is_new": true
+    },
+    {
       "id": "9f2d295818a2",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21316043",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-29T10:28:05.209076Z",
-      "last_seen": "2026-01-30T08:26:58.322513Z",
+      "last_seen": "2026-01-30T16:28:32.325719Z",
       "is_new": false
     },
     {
@@ -45,7 +61,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-28T08:20:01.364372Z",
-      "last_seen": "2026-01-30T08:26:58.322513Z",
+      "last_seen": "2026-01-30T16:28:32.325719Z",
       "is_new": false
     },
     {
@@ -253,7 +269,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-27T10:18:48.731781Z",
-      "last_seen": "2026-01-30T08:26:58.322513Z",
+      "last_seen": "2026-01-30T16:28:32.325719Z",
       "is_new": false
     },
     {
@@ -1149,7 +1165,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-01-30T14:28:54.321212Z",
+      "last_seen": "2026-01-30T16:28:32.325719Z",
       "is_new": false
     },
     {
@@ -1901,7 +1917,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-30T14:28:54.321212Z",
+      "last_seen": "2026-01-30T16:28:32.325719Z",
       "is_new": false
     },
     {
@@ -1917,7 +1933,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-01-30T14:28:54.321212Z",
+      "last_seen": "2026-01-30T16:28:32.325719Z",
       "is_new": false
     },
     {
@@ -2077,7 +2093,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-01-30T14:28:54.323403Z",
-  "total_count": 129,
-  "new_count": 0
+  "last_updated": "2026-01-30T16:28:32.327955Z",
+  "total_count": 130,
+  "new_count": 1
 }
