@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "85ffe9a6cde1",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21326951",
+    "title": "App. lumineux 2ch. avec terrasses, garage et feu ouvert",
+    "price": 430000,
+    "surface": 92,
+    "bedrooms": 2,
+    "address": "Avenue Ernestine 7/10, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-03T18:42:37.987465Z",
+    "last_seen": "2026-02-03T18:42:37.987465Z",
+    "is_new": true
+  }
+]
