@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-03T08:27:29.177543Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-03T08:27:29.177543Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-03T08:27:29.177543Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -968,7 +968,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-02-03T08:27:29.177543Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "d44604d4264a": {
@@ -984,7 +984,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-08T10:16:23.640023Z",
-    "last_seen": "2026-02-03T08:27:29.177543Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "e9eccf0034f4": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-03T08:27:29.177543Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -1528,7 +1528,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-19T16:18:21.233810Z",
-    "last_seen": "2026-02-03T08:27:29.177543Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "4d40c68f94d6": {
@@ -1816,7 +1816,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-26T12:25:58.065440Z",
-    "last_seen": "2026-02-02T12:35:22.787709Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "a2522cefe928": {
@@ -2056,7 +2056,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-28T22:18:59.778682Z",
-    "last_seen": "2026-02-02T16:26:11.527133Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "9f2d295818a2": {
@@ -2120,7 +2120,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-30T20:19:34.195897Z",
-    "last_seen": "2026-02-02T16:26:11.527133Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
     "is_new": false
   },
   "017d254cfc43": {
@@ -2138,5 +2138,21 @@
     "first_seen": "2026-01-30T20:19:34.195897Z",
     "last_seen": "2026-02-02T16:26:11.527133Z",
     "is_new": false
+  },
+  "b22a139a25ba": {
+    "id": "b22a139a25ba",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21326590",
+    "title": "Bel appartement 5 chambres à rénover!",
+    "price": 279000,
+    "surface": 170,
+    "bedrooms": 5,
+    "address": "Crickxstraat 38, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-03T10:30:49.716839Z",
+    "last_seen": "2026-02-03T10:30:49.716839Z",
+    "is_new": true
   }
 }
