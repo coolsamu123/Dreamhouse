@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "c02036829558",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21331865",
+      "title": "À vendre : appt 2 ch avec terrasse – vue Abbaye de Forest",
+      "price": 295000,
+      "surface": 87,
+      "bedrooms": 2,
+      "address": "Luikstraat 47, 1190 Vorst",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-04T20:23:16.428068Z",
+      "last_seen": "2026-02-04T20:23:16.428068Z",
+      "is_new": true
+    },
+    {
       "id": "17f9af08531e",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21330643",
@@ -141,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-28T22:18:59.778682Z",
-      "last_seen": "2026-02-04T08:29:42.780874Z",
+      "last_seen": "2026-02-04T20:23:16.428068Z",
       "is_new": false
     },
     {
@@ -893,7 +909,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-04T18:35:39.612563Z",
+      "last_seen": "2026-02-04T20:23:16.428068Z",
       "is_new": false
     },
     {
@@ -1261,7 +1277,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-04T18:35:39.612563Z",
+      "last_seen": "2026-02-04T20:23:16.428068Z",
       "is_new": false
     },
     {
@@ -2013,7 +2029,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-04T18:35:39.612563Z",
+      "last_seen": "2026-02-04T20:23:16.428068Z",
       "is_new": false
     },
     {
@@ -2029,7 +2045,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-04T18:35:39.612563Z",
+      "last_seen": "2026-02-04T20:23:16.428068Z",
       "is_new": false
     },
     {
@@ -2189,7 +2205,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-04T18:35:39.614861Z",
-  "total_count": 136,
-  "new_count": 0
+  "last_updated": "2026-02-04T20:23:16.430384Z",
+  "total_count": 137,
+  "new_count": 1
 }

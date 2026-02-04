@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-04T18:35:39.612563Z",
+    "last_seen": "2026-02-04T20:23:16.428068Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-04T18:35:39.612563Z",
+    "last_seen": "2026-02-04T20:23:16.428068Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-04T18:35:39.612563Z",
+    "last_seen": "2026-02-04T20:23:16.428068Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-04T18:35:39.612563Z",
+    "last_seen": "2026-02-04T20:23:16.428068Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2056,7 +2056,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-28T22:18:59.778682Z",
-    "last_seen": "2026-02-04T08:29:42.780874Z",
+    "last_seen": "2026-02-04T20:23:16.428068Z",
     "is_new": false
   },
   "9f2d295818a2": {
@@ -2186,5 +2186,21 @@
     "first_seen": "2026-02-04T12:34:58.276697Z",
     "last_seen": "2026-02-04T18:35:39.612563Z",
     "is_new": false
+  },
+  "c02036829558": {
+    "id": "c02036829558",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21331865",
+    "title": "À vendre : appt 2 ch avec terrasse – vue Abbaye de Forest",
+    "price": 295000,
+    "surface": 87,
+    "bedrooms": 2,
+    "address": "Luikstraat 47, 1190 Vorst",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-04T20:23:16.428068Z",
+    "last_seen": "2026-02-04T20:23:16.428068Z",
+    "is_new": true
   }
 }

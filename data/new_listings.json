@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "c02036829558",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21331865",
+    "title": "À vendre : appt 2 ch avec terrasse – vue Abbaye de Forest",
+    "price": 295000,
+    "surface": 87,
+    "bedrooms": 2,
+    "address": "Luikstraat 47, 1190 Vorst",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-04T20:23:16.428068Z",
+    "last_seen": "2026-02-04T20:23:16.428068Z",
+    "is_new": true
+  }
+]
