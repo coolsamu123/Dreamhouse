@@ -1,18 +1,18 @@
 [
   {
-    "id": "eeda4dab45b2",
-    "source": "Immoweb Saint-Gilles",
-    "source_url": "https://www.immoweb.be/bien/21333644",
-    "title": "PARVIS ST-GILLES : spacieux appartement de 100m² - 2CH - cou",
-    "price": 349000,
-    "surface": 104,
+    "id": "70fa2a3c7301",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21334063",
+    "title": "Appartement 2 CH + parking et terrasse",
+    "price": 330000,
+    "surface": 101,
     "bedrooms": 2,
-    "address": "Rue de Rome 3, 1060 SAINT-GILLES",
-    "commune": "Saint-Gilles",
+    "address": "Rue de Hal 112, 1190 Forest",
+    "commune": "Forest",
     "description": "",
     "images": [],
-    "first_seen": "2026-02-05T14:39:18.569251Z",
-    "last_seen": "2026-02-05T14:39:18.569251Z",
+    "first_seen": "2026-02-05T16:34:56.422554Z",
+    "last_seen": "2026-02-05T16:34:56.422554Z",
     "is_new": true
   }
 ]
