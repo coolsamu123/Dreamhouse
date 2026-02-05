@@ -1,18 +1,18 @@
 [
   {
-    "id": "d4c3d984f880",
-    "source": "Modifa",
-    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7521411",
-    "title": "Appartement - à vendre - 1190 Forest",
-    "price": 255000,
-    "surface": 80,
+    "id": "1c062c7acf59",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21332462",
+    "title": "Place Stéphanie - Appartement 2 chambres + parking",
+    "price": 380000,
+    "surface": 90,
     "bedrooms": 2,
-    "address": "Forest",
+    "address": "jean stas 31, 1060 Saint-Gilles",
     "commune": "Saint-Gilles",
     "description": "",
     "images": [],
-    "first_seen": "2026-02-05T10:32:32.055774Z",
-    "last_seen": "2026-02-05T10:32:32.055774Z",
+    "first_seen": "2026-02-05T12:35:39.160526Z",
+    "last_seen": "2026-02-05T12:35:39.160526Z",
     "is_new": true
   }
 ]

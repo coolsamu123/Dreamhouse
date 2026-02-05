@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "1c062c7acf59",
+      "source": "Immoweb Saint-Gilles",
+      "source_url": "https://www.immoweb.be/bien/21332462",
+      "title": "Place Stéphanie - Appartement 2 chambres + parking",
+      "price": 380000,
+      "surface": 90,
+      "bedrooms": 2,
+      "address": "jean stas 31, 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-05T12:35:39.160526Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
+      "is_new": true
+    },
+    {
       "id": "d4c3d984f880",
       "source": "Modifa",
       "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7521411",
@@ -13,8 +29,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T10:32:32.055774Z",
-      "last_seen": "2026-02-05T10:32:32.055774Z",
-      "is_new": true
+      "last_seen": "2026-02-05T12:35:39.160526Z",
+      "is_new": false
     },
     {
       "id": "71b3f662023c",
@@ -93,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-03T10:30:49.716839Z",
-      "last_seen": "2026-02-05T06:45:14.016557Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
       "is_new": false
     },
     {
@@ -941,7 +957,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-05T10:32:32.055774Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
       "is_new": false
     },
     {
@@ -1261,7 +1277,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-02-05T06:45:14.016557Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
       "is_new": false
     },
     {
@@ -1277,7 +1293,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-08T10:16:23.640023Z",
-      "last_seen": "2026-02-05T06:45:14.016557Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
       "is_new": false
     },
     {
@@ -1309,7 +1325,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-05T10:32:32.055774Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
       "is_new": false
     },
     {
@@ -2061,7 +2077,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-05T10:32:32.055774Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
       "is_new": false
     },
     {
@@ -2077,7 +2093,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-05T10:32:32.055774Z",
+      "last_seen": "2026-02-05T12:35:39.160526Z",
       "is_new": false
     },
     {
@@ -2237,7 +2253,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-05T10:32:32.058077Z",
-  "total_count": 139,
+  "last_updated": "2026-02-05T12:35:39.162967Z",
+  "total_count": 140,
   "new_count": 1
 }
