@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-05T08:31:31.321481Z",
+    "last_seen": "2026-02-05T10:32:32.055774Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-05T08:31:31.321481Z",
+    "last_seen": "2026-02-05T10:32:32.055774Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-05T08:31:31.321481Z",
+    "last_seen": "2026-02-05T10:32:32.055774Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-05T08:31:31.321481Z",
+    "last_seen": "2026-02-05T10:32:32.055774Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2056,7 +2056,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-28T22:18:59.778682Z",
-    "last_seen": "2026-02-05T01:05:41.686236Z",
+    "last_seen": "2026-02-05T10:32:32.055774Z",
     "is_new": false
   },
   "9f2d295818a2": {
@@ -2200,7 +2200,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-04T20:23:16.428068Z",
-    "last_seen": "2026-02-05T01:05:41.686236Z",
+    "last_seen": "2026-02-05T10:32:32.055774Z",
     "is_new": false
   },
   "71b3f662023c": {
@@ -2218,5 +2218,21 @@
     "first_seen": "2026-02-05T04:06:10.589805Z",
     "last_seen": "2026-02-05T06:45:14.016557Z",
     "is_new": false
+  },
+  "d4c3d984f880": {
+    "id": "d4c3d984f880",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/appartement/1190-forest/7521411",
+    "title": "Appartement - à vendre - 1190 Forest",
+    "price": 255000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Forest",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-05T10:32:32.055774Z",
+    "last_seen": "2026-02-05T10:32:32.055774Z",
+    "is_new": true
   }
 }
