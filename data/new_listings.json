@@ -1,18 +1,18 @@
 [
   {
-    "id": "1c062c7acf59",
+    "id": "eeda4dab45b2",
     "source": "Immoweb Saint-Gilles",
-    "source_url": "https://www.immoweb.be/bien/21332462",
-    "title": "Place Stéphanie - Appartement 2 chambres + parking",
-    "price": 380000,
-    "surface": 90,
+    "source_url": "https://www.immoweb.be/bien/21333644",
+    "title": "PARVIS ST-GILLES : spacieux appartement de 100m² - 2CH - cou",
+    "price": 349000,
+    "surface": 104,
     "bedrooms": 2,
-    "address": "jean stas 31, 1060 Saint-Gilles",
+    "address": "Rue de Rome 3, 1060 SAINT-GILLES",
     "commune": "Saint-Gilles",
     "description": "",
     "images": [],
-    "first_seen": "2026-02-05T12:35:39.160526Z",
-    "last_seen": "2026-02-05T12:35:39.160526Z",
+    "first_seen": "2026-02-05T14:39:18.569251Z",
+    "last_seen": "2026-02-05T14:39:18.569251Z",
     "is_new": true
   }
 ]
