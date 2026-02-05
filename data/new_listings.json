@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "71b3f662023c",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21332216",
+    "title": "Triplex 2 chambres à vendre à Saint Gilles",
+    "price": null,
+    "surface": 128,
+    "bedrooms": 1,
+    "address": "Rue de Lombardie 59, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-05T04:06:10.589805Z",
+    "last_seen": "2026-02-05T04:06:10.589805Z",
+    "is_new": true
+  }
+]
