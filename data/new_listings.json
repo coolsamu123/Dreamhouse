@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "0f9949c62079",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21335169",
+    "title": "Appartement duplex 3 chambres à vendre à Saint-Gilles",
+    "price": 399000,
+    "surface": 117,
+    "bedrooms": 3,
+    "address": "Rue de Danemark 70/2, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-06T01:03:57.036198Z",
+    "last_seen": "2026-02-06T01:03:57.036198Z",
+    "is_new": true
+  },
+  {
+    "id": "1622ac2e834f",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21334893",
+    "title": "Altitude 100 - PEB C - Cave",
+    "price": 295000,
+    "surface": 92,
+    "bedrooms": 2,
+    "address": "Avenue des Sept Bonniers 107, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-06T01:03:57.036198Z",
+    "last_seen": "2026-02-06T01:03:57.036198Z",
+    "is_new": true
+  }
+]
