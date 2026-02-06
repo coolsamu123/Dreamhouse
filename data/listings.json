@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-06T12:34:19.250713Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-06T12:34:19.250713Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-06T12:34:19.250713Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-06T12:34:19.250713Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2088,7 +2088,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-30T16:28:32.325719Z",
-    "last_seen": "2026-02-06T12:34:19.250713Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "475df11ba186": {
@@ -2184,7 +2184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-04T12:34:58.276697Z",
-    "last_seen": "2026-02-06T12:34:19.250713Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "c02036829558": {
@@ -2200,7 +2200,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-04T20:23:16.428068Z",
-    "last_seen": "2026-02-06T04:06:33.487677Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "71b3f662023c": {
@@ -2232,7 +2232,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-05T10:32:32.055774Z",
-    "last_seen": "2026-02-06T12:34:19.250713Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "1c062c7acf59": {
@@ -2248,7 +2248,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-05T12:35:39.160526Z",
-    "last_seen": "2026-02-06T10:31:02.842117Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "eeda4dab45b2": {
@@ -2264,7 +2264,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-05T14:39:18.569251Z",
-    "last_seen": "2026-02-06T10:31:02.842117Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "70fa2a3c7301": {
@@ -2280,7 +2280,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-05T16:34:56.422554Z",
-    "last_seen": "2026-02-06T04:06:33.487677Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
   },
   "0f9949c62079": {
@@ -2312,7 +2312,23 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-06T01:03:57.036198Z",
-    "last_seen": "2026-02-06T04:06:33.487677Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
     "is_new": false
+  },
+  "db405066e949": {
+    "id": "db405066e949",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21336591",
+    "title": "Rez-de-chaussée 2 chambres avec jardin et garage",
+    "price": 360000,
+    "surface": 109,
+    "bedrooms": 2,
+    "address": "Boulevard Guillaume Van Haelen 46, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-06T14:36:27.037882Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
+    "is_new": true
   }
 }

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "db405066e949",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21336591",
+    "title": "Rez-de-chaussée 2 chambres avec jardin et garage",
+    "price": 360000,
+    "surface": 109,
+    "bedrooms": 2,
+    "address": "Boulevard Guillaume Van Haelen 46, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-06T14:36:27.037882Z",
+    "last_seen": "2026-02-06T14:36:27.037882Z",
+    "is_new": true
+  }
+]
