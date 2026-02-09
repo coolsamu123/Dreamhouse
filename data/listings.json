@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-09T10:47:46.196291Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-09T10:47:46.196291Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-09T10:47:46.196291Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-09T12:42:20.358222Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2248,7 +2248,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-05T12:35:39.160526Z",
-    "last_seen": "2026-02-09T12:42:20.358222Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "eeda4dab45b2": {
@@ -2264,7 +2264,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-05T14:39:18.569251Z",
-    "last_seen": "2026-02-09T12:42:20.358222Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "70fa2a3c7301": {
@@ -2312,7 +2312,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-06T01:03:57.036198Z",
-    "last_seen": "2026-02-09T10:47:46.196291Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "db405066e949": {
@@ -2328,7 +2328,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-06T14:36:27.037882Z",
-    "last_seen": "2026-02-09T10:47:46.196291Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "68d756f2d737": {
@@ -2344,7 +2344,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-08T06:38:45.991268Z",
-    "last_seen": "2026-02-09T12:42:20.358222Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": false
   },
   "7991d29d9782": {
@@ -2360,7 +2360,23 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-09T12:42:20.358222Z",
-    "last_seen": "2026-02-09T12:42:20.358222Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
+    "is_new": false
+  },
+  "ce02dab7908b": {
+    "id": "ce02dab7908b",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21341984",
+    "title": "Magnifique appartement 2 chambres + studio et cour, entièrement rénové",
+    "price": 499000,
+    "surface": 130,
+    "bedrooms": 2,
+    "address": "chaussée de forest 91a, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-09T14:47:03.454999Z",
+    "last_seen": "2026-02-09T14:47:03.454999Z",
     "is_new": true
   }
 }
