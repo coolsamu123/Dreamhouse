@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "7991d29d9782",
+      "source": "Immoweb Saint-Gilles",
+      "source_url": "https://www.immoweb.be/bien/21340252",
+      "title": "Vivre Saint-Gilles dans une avenue calme et verdoyante",
+      "price": 365000,
+      "surface": 102,
+      "bedrooms": 2,
+      "address": "Avenue Jef Lambeaux 22, 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-09T12:42:20.358222Z",
+      "last_seen": "2026-02-09T12:42:20.358222Z",
+      "is_new": true
+    },
+    {
       "id": "68d756f2d737",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21335765",
@@ -13,8 +29,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-08T06:38:45.991268Z",
-      "last_seen": "2026-02-08T06:38:45.991268Z",
-      "is_new": true
+      "last_seen": "2026-02-09T12:42:20.358222Z",
+      "is_new": false
     },
     {
       "id": "db405066e949",
@@ -93,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T14:39:18.569251Z",
-      "last_seen": "2026-02-09T06:55:22.990825Z",
+      "last_seen": "2026-02-09T12:42:20.358222Z",
       "is_new": false
     },
     {
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T12:35:39.160526Z",
-      "last_seen": "2026-02-09T06:55:22.990825Z",
+      "last_seen": "2026-02-09T12:42:20.358222Z",
       "is_new": false
     },
     {
@@ -125,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T10:32:32.055774Z",
-      "last_seen": "2026-02-09T10:47:46.196291Z",
+      "last_seen": "2026-02-09T12:42:20.358222Z",
       "is_new": false
     },
     {
@@ -1053,7 +1069,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-09T10:47:46.196291Z",
+      "last_seen": "2026-02-09T12:42:20.358222Z",
       "is_new": false
     },
     {
@@ -2349,7 +2365,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-09T10:47:46.198536Z",
-  "total_count": 146,
-  "new_count": 0
+  "last_updated": "2026-02-09T12:42:20.360699Z",
+  "total_count": 147,
+  "new_count": 1
 }
