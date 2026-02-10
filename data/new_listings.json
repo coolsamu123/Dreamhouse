@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "16270f704c67",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/classified/21336591",
+    "title": "Rez-de-chaussée 2 chambres avec jardin et garage",
+    "price": 360000,
+    "surface": 109,
+    "bedrooms": 2,
+    "address": "Boulevard Guillaume Van Haelen 46, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-10T04:25:06.685530Z",
+    "last_seen": "2026-02-10T04:25:06.685530Z",
+    "is_new": true
+  },
+  {
+    "id": "04ac1887fc93",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/classified/21334893",
+    "title": "Altitude 100 - PEB C - Cave",
+    "price": 295000,
+    "surface": 92,
+    "bedrooms": 2,
+    "address": "Avenue des Sept Bonniers 107, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-10T04:25:06.685530Z",
+    "last_seen": "2026-02-10T04:25:06.685530Z",
+    "is_new": true
+  },
+  {
+    "id": "6403fe070859",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/classified/21331865",
+    "title": "À vendre : appt 2 ch avec terrasse – vue Abbaye de Forest",
+    "price": null,
+    "surface": null,
+    "bedrooms": 2,
+    "address": "Luikstraat 47, 1190 Vorst",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-10T04:25:06.685530Z",
+    "last_seen": "2026-02-10T04:25:06.685530Z",
+    "is_new": true
+  }
+]
