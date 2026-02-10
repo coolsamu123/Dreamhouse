@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "82c2f0422695",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21343575",
+      "title": "Rue de Livourne, Quartier CHATELAIN- Appartement meublé 1 ch",
+      "price": 350000,
+      "surface": 81,
+      "bedrooms": 1,
+      "address": "Rue de Livourne 0, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-10T10:45:06.239296Z",
+      "last_seen": "2026-02-10T10:45:06.239296Z",
+      "is_new": true
+    },
+    {
       "id": "5498a083bbef",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21342858",
@@ -365,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-30T16:28:32.325719Z",
-      "last_seen": "2026-02-10T04:25:06.685530Z",
+      "last_seen": "2026-02-10T10:45:06.239296Z",
       "is_new": false
     },
     {
@@ -1149,7 +1165,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-10T08:40:03.254584Z",
+      "last_seen": "2026-02-10T10:45:06.239296Z",
       "is_new": false
     },
     {
@@ -1517,7 +1533,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-10T08:40:03.254584Z",
+      "last_seen": "2026-02-10T10:45:06.239296Z",
       "is_new": false
     },
     {
@@ -2269,7 +2285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-10T08:40:03.254584Z",
+      "last_seen": "2026-02-10T10:45:06.239296Z",
       "is_new": false
     },
     {
@@ -2285,7 +2301,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-10T08:40:03.254584Z",
+      "last_seen": "2026-02-10T10:45:06.239296Z",
       "is_new": false
     },
     {
@@ -2445,7 +2461,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-10T08:40:03.257029Z",
-  "total_count": 152,
-  "new_count": 0
+  "last_updated": "2026-02-10T10:45:06.241857Z",
+  "total_count": 153,
+  "new_count": 1
 }
