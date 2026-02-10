@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "5498a083bbef",
+      "source": "Immoweb Saint-Gilles",
+      "source_url": "https://www.immoweb.be/bien/21342858",
+      "title": "Vue dégagée & rénovation au cœur de la Toison",
+      "price": 400000,
+      "surface": 135,
+      "bedrooms": 2,
+      "address": "Avenue de la Toison d'Or 74, 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-10T06:55:30.514083Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
+      "is_new": true
+    },
+    {
       "id": "16270f704c67",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/classified/21336591",
@@ -61,8 +77,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-09T14:47:03.454999Z",
-      "last_seen": "2026-02-09T14:47:03.454999Z",
-      "is_new": true
+      "last_seen": "2026-02-10T06:55:30.514083Z",
+      "is_new": false
     },
     {
       "id": "7991d29d9782",
@@ -77,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-09T12:42:20.358222Z",
-      "last_seen": "2026-02-09T14:47:03.454999Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -93,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-08T06:38:45.991268Z",
-      "last_seen": "2026-02-09T14:47:03.454999Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-06T14:36:27.037882Z",
-      "last_seen": "2026-02-10T01:18:02.423994Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -141,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-06T01:03:57.036198Z",
-      "last_seen": "2026-02-10T01:18:02.423994Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -189,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T12:35:39.160526Z",
-      "last_seen": "2026-02-09T14:47:03.454999Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -237,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-04T20:23:16.428068Z",
-      "last_seen": "2026-02-10T01:18:02.423994Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -1133,7 +1149,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-10T04:25:06.685530Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -1501,7 +1517,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-10T04:25:06.685530Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -2253,7 +2269,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-10T04:25:06.685530Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -2269,7 +2285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-10T04:25:06.685530Z",
+      "last_seen": "2026-02-10T06:55:30.514083Z",
       "is_new": false
     },
     {
@@ -2429,7 +2445,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-10T04:25:06.688052Z",
-  "total_count": 151,
-  "new_count": 3
+  "last_updated": "2026-02-10T06:55:30.516348Z",
+  "total_count": 152,
+  "new_count": 1
 }
