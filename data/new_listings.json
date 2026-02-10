@@ -1,18 +1,18 @@
 [
   {
-    "id": "82c2f0422695",
-    "source": "Immoweb Ixelles",
-    "source_url": "https://www.immoweb.be/bien/21343575",
-    "title": "Rue de Livourne, Quartier CHATELAIN- Appartement meublé 1 ch",
-    "price": 350000,
-    "surface": 81,
-    "bedrooms": 1,
-    "address": "Rue de Livourne 0, 1050 Ixelles",
-    "commune": "Ixelles",
+    "id": "fe735560f9c4",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21344614",
+    "title": "Altitude 100 - Appartement 2 chambres vue sur le Parc Duden",
+    "price": 365000,
+    "surface": 84,
+    "bedrooms": 2,
+    "address": "avenue victor rousseau 100, 1190 Forest",
+    "commune": "Forest",
     "description": "",
     "images": [],
-    "first_seen": "2026-02-10T10:45:06.239296Z",
-    "last_seen": "2026-02-10T10:45:06.239296Z",
+    "first_seen": "2026-02-10T12:46:52.073200Z",
+    "last_seen": "2026-02-10T12:46:52.073200Z",
     "is_new": true
   }
 ]
