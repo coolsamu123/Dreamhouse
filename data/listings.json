@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-11T12:42:13.085652Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-11T12:42:13.085652Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-11T12:42:13.085652Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-11T12:42:13.085652Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2248,7 +2248,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-05T12:35:39.160526Z",
-    "last_seen": "2026-02-11T10:40:34.688131Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "eeda4dab45b2": {
@@ -2344,7 +2344,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-08T06:38:45.991268Z",
-    "last_seen": "2026-02-11T10:40:34.688131Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "7991d29d9782": {
@@ -2376,7 +2376,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-09T14:47:03.454999Z",
-    "last_seen": "2026-02-11T10:40:34.688131Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "16270f704c67": {
@@ -2440,7 +2440,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-10T06:55:30.514083Z",
-    "last_seen": "2026-02-11T10:40:34.688131Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
     "is_new": false
   },
   "82c2f0422695": {
@@ -2474,5 +2474,21 @@
     "first_seen": "2026-02-10T12:46:52.073200Z",
     "last_seen": "2026-02-11T12:42:13.085652Z",
     "is_new": false
+  },
+  "8be28a5f0aa9": {
+    "id": "8be28a5f0aa9",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21351012",
+    "title": "L’adresse maligne entre Louise et Châtelain",
+    "price": 269000,
+    "surface": 82,
+    "bedrooms": 1,
+    "address": "Rue de Suisse 39, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-11T14:47:51.602869Z",
+    "last_seen": "2026-02-11T14:47:51.602869Z",
+    "is_new": true
   }
 }
