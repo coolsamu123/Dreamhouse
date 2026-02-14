@@ -1,6 +1,70 @@
 {
   "listings": [
     {
+      "id": "b787ecbe7b27",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21319205",
+      "title": "Très bel appartement LUMINEUX",
+      "price": 470000,
+      "surface": 115,
+      "bedrooms": 2,
+      "address": "Italie avenue d' 45, 1050 IXELLES",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-14T10:17:29.926693Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
+      "is_new": true
+    },
+    {
+      "id": "3f03d41bc862",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21355434",
+      "title": "Ixelles-EU District-appartement 2 chambres-cavette-emplaceme",
+      "price": 359000,
+      "surface": 88,
+      "bedrooms": 2,
+      "address": "CLOS DU PARNASSE 1, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-14T10:17:29.926693Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
+      "is_new": true
+    },
+    {
+      "id": "70ff8457e009",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21357508",
+      "title": "Appartement style Art déco avec terrasse",
+      "price": 430000,
+      "surface": 117,
+      "bedrooms": 2,
+      "address": "Avenue Emile de Beco 102, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-14T10:17:29.926693Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
+      "is_new": true
+    },
+    {
+      "id": "c3dc88cffec2",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21343575",
+      "title": "Rue de Livourne, Quartier CHATELAIN- Appartement meublé 1 ch",
+      "price": null,
+      "surface": 81,
+      "bedrooms": 1,
+      "address": "Rue de Livourne 0, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-14T10:17:29.926693Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
+      "is_new": true
+    },
+    {
       "id": "dcc463d1cfd8",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21355434",
@@ -45,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-10T12:46:52.073200Z",
-      "last_seen": "2026-02-14T08:20:11.885241Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -77,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-10T06:55:30.514083Z",
-      "last_seen": "2026-02-14T06:32:43.536082Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -141,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-09T14:47:03.454999Z",
-      "last_seen": "2026-02-14T06:32:43.536082Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -157,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-09T12:42:20.358222Z",
-      "last_seen": "2026-02-14T06:32:43.536082Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -173,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-08T06:38:45.991268Z",
-      "last_seen": "2026-02-14T06:32:43.536082Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -189,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-06T14:36:27.037882Z",
-      "last_seen": "2026-02-14T08:20:11.885241Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -269,7 +333,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T12:35:39.160526Z",
-      "last_seen": "2026-02-14T06:32:43.536082Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -1213,7 +1277,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-14T08:20:11.885241Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -1581,7 +1645,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-14T08:20:11.885241Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -2333,7 +2397,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-14T08:20:11.885241Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -2349,7 +2413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-14T08:20:11.885241Z",
+      "last_seen": "2026-02-14T10:17:29.926693Z",
       "is_new": false
     },
     {
@@ -2509,7 +2573,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-14T08:20:11.887750Z",
-  "total_count": 156,
-  "new_count": 0
+  "last_updated": "2026-02-14T10:17:29.929477Z",
+  "total_count": 160,
+  "new_count": 4
 }
