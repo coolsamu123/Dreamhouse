@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "a797f4d4247c",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21363100",
+    "title": "RDC 2 chambres + Terrasse - Monte Carlo",
+    "price": 240000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Avenue de Monte Carlo 104/8, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-17T14:40:45.034734Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
+    "is_new": true
+  },
+  {
+    "id": "7c05f9ae267c",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21363882",
+    "title": "POSSIBILITE TVA 6% + ABATTEMENT !",
+    "price": 339500,
+    "surface": 94,
+    "bedrooms": 2,
+    "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-17T14:40:45.034734Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
+    "is_new": true
+  }
+]

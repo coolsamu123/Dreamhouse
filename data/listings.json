@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-17T12:37:13.451083Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -184,7 +184,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-17T12:37:13.451083Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
     "is_new": false
   },
   "d8240e2bbfbc": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-17T12:37:13.451083Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-17T12:37:13.451083Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2472,7 +2472,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-10T12:46:52.073200Z",
-    "last_seen": "2026-02-17T06:45:55.776929Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
     "is_new": false
   },
   "8be28a5f0aa9": {
@@ -2618,5 +2618,37 @@
     "first_seen": "2026-02-17T08:34:30.630744Z",
     "last_seen": "2026-02-17T12:37:13.451083Z",
     "is_new": false
+  },
+  "a797f4d4247c": {
+    "id": "a797f4d4247c",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21363100",
+    "title": "RDC 2 chambres + Terrasse - Monte Carlo",
+    "price": 240000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Avenue de Monte Carlo 104/8, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-17T14:40:45.034734Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
+    "is_new": true
+  },
+  "7c05f9ae267c": {
+    "id": "7c05f9ae267c",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21363882",
+    "title": "POSSIBILITE TVA 6% + ABATTEMENT !",
+    "price": 339500,
+    "surface": 94,
+    "bedrooms": 2,
+    "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-17T14:40:45.034734Z",
+    "last_seen": "2026-02-17T14:40:45.034734Z",
+    "is_new": true
   }
 }
