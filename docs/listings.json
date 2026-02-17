@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "6a2c8891b7ba",
+      "source": "Immoweb Saint-Gilles",
+      "source_url": "https://www.immoweb.be/bien/21362482",
+      "title": "Duplex à rénover avec cour",
+      "price": 270000,
+      "surface": 125,
+      "bedrooms": 2,
+      "address": "Rue du Monténégro 48, 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-17T08:34:30.630744Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
+      "is_new": true
+    },
+    {
       "id": "54c60b5284eb",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21360247",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-16T16:32:18.909442Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -173,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-10T06:55:30.514083Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -269,7 +285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-08T06:38:45.991268Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -365,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T12:35:39.160526Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -1309,7 +1325,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -1677,7 +1693,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -2429,7 +2445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -2445,7 +2461,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-17T06:45:55.776929Z",
+      "last_seen": "2026-02-17T08:34:30.630744Z",
       "is_new": false
     },
     {
@@ -2605,7 +2621,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-17T06:45:55.779576Z",
-  "total_count": 162,
-  "new_count": 0
+  "last_updated": "2026-02-17T08:34:30.633354Z",
+  "total_count": 163,
+  "new_count": 1
 }
