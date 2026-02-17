@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "b27a76eab151",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21363603",
+      "title": "Ixelles. Boendael Lumineux appt 113m²",
+      "price": 395000,
+      "surface": 113,
+      "bedrooms": 1,
+      "address": "Avenue Armand Huysmans 209, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-17T18:43:16.138066Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
+      "is_new": true
+    },
+    {
       "id": "ecb1225501aa",
       "source": "Viabilis",
       "source_url": "https://www.viabilis.be/fr/detail/4001298/vente/appartement/saint-gilles",
@@ -13,8 +29,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
-      "is_new": true
+      "last_seen": "2026-02-17T18:43:16.138066Z",
+      "is_new": false
     },
     {
       "id": "a797f4d4247c",
@@ -61,7 +77,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T08:34:30.630744Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -77,7 +93,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-16T16:32:18.909442Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -93,7 +109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-14T14:19:10.488354Z",
-      "last_seen": "2026-02-17T10:36:20.279754Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -173,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-13T12:34:00.492517Z",
-      "last_seen": "2026-02-17T10:36:20.279754Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -237,7 +253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-10T06:55:30.514083Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -333,7 +349,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-08T06:38:45.991268Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -429,7 +445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-05T12:35:39.160526Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -589,7 +605,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-30T16:28:32.325719Z",
-      "last_seen": "2026-02-17T10:36:20.279754Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -1373,7 +1389,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -1741,7 +1757,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -2493,7 +2509,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-17T16:45:43.054236Z",
+      "last_seen": "2026-02-17T18:43:16.138066Z",
       "is_new": false
     },
     {
@@ -2669,7 +2685,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-17T16:45:43.056907Z",
-  "total_count": 166,
+  "last_updated": "2026-02-17T18:43:16.140765Z",
+  "total_count": 167,
   "new_count": 1
 }
