@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "f28ccda7f78e",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21362560",
+      "title": "Altitude 100 - Appartement 2 chambres + terrasses + garage",
+      "price": 320000,
+      "surface": 95,
+      "bedrooms": 3,
+      "address": "Avenue du Domaine 169, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-18T10:34:59.635761Z",
+      "last_seen": "2026-02-18T10:34:59.635761Z",
+      "is_new": true
+    },
+    {
       "id": "b27a76eab151",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21363603",
@@ -29,7 +45,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-02-18T08:34:33.112404Z",
+      "last_seen": "2026-02-18T10:34:59.635761Z",
       "is_new": false
     },
     {
@@ -45,8 +61,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T14:40:45.034734Z",
-      "last_seen": "2026-02-17T14:40:45.034734Z",
-      "is_new": true
+      "last_seen": "2026-02-18T10:34:59.635761Z",
+      "is_new": false
     },
     {
       "id": "7c05f9ae267c",
@@ -61,8 +77,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T14:40:45.034734Z",
-      "last_seen": "2026-02-17T14:40:45.034734Z",
-      "is_new": true
+      "last_seen": "2026-02-18T10:34:59.635761Z",
+      "is_new": false
     },
     {
       "id": "6a2c8891b7ba",
@@ -1389,7 +1405,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-18T08:34:33.112404Z",
+      "last_seen": "2026-02-18T10:34:59.635761Z",
       "is_new": false
     },
     {
@@ -1757,7 +1773,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-18T08:34:33.112404Z",
+      "last_seen": "2026-02-18T10:34:59.635761Z",
       "is_new": false
     },
     {
@@ -2509,7 +2525,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-18T08:34:33.112404Z",
+      "last_seen": "2026-02-18T10:34:59.635761Z",
       "is_new": false
     },
     {
@@ -2685,7 +2701,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-18T08:34:33.114988Z",
-  "total_count": 167,
-  "new_count": 0
+  "last_updated": "2026-02-18T10:34:59.638391Z",
+  "total_count": 168,
+  "new_count": 1
 }

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "f28ccda7f78e",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21362560",
+    "title": "Altitude 100 - Appartement 2 chambres + terrasses + garage",
+    "price": 320000,
+    "surface": 95,
+    "bedrooms": 3,
+    "address": "Avenue du Domaine 169, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-18T10:34:59.635761Z",
+    "last_seen": "2026-02-18T10:34:59.635761Z",
+    "is_new": true
+  }
+]
