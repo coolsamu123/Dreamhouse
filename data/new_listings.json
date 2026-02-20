@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "df5527215840",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21370790",
+    "title": "LOUISE - DUPLEX 100m²",
+    "price": 299000,
+    "surface": 100,
+    "bedrooms": 1,
+    "address": "Rue Capouillet 35, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-20T10:28:39.869216Z",
+    "last_seen": "2026-02-20T10:28:39.869216Z",
+    "is_new": true
+  },
+  {
+    "id": "2ed04ad7e6b0",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21370738",
+    "title": "LOUISE - DUPLEX de 100m²",
+    "price": 325000,
+    "surface": 100,
+    "bedrooms": 2,
+    "address": "Rue Capouillet 35, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-20T10:28:39.869216Z",
+    "last_seen": "2026-02-20T10:28:39.869216Z",
+    "is_new": true
+  },
+  {
+    "id": "0522ceb8dd9d",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21370978",
+    "title": "SAINT-GILLES - BARRIERE - APPARTEMENT 2 CHAMBRES AVEC EXTERI",
+    "price": 285000,
+    "surface": 85,
+    "bedrooms": 2,
+    "address": "Rue Alfred Cluysenaar 74-76, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-20T10:28:39.869216Z",
+    "last_seen": "2026-02-20T10:28:39.869216Z",
+    "is_new": true
+  }
+]
