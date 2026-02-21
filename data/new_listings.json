@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "9636ce4882f1",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21373507",
+    "title": "Uccle : 2 ch. à rénover avec terrasse et vue parc",
+    "price": 249000,
+    "surface": 81,
+    "bedrooms": 2,
+    "address": "Rue du Merlo 6B, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-21T16:17:06.981030Z",
+    "last_seen": "2026-02-21T16:17:06.981030Z",
+    "is_new": true
+  }
+]
