@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-23T12:38:14.972966Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-23T12:38:14.972966Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-23T12:38:14.972966Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2504,7 +2504,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-13T12:34:00.492517Z",
-    "last_seen": "2026-02-23T12:38:14.972966Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "b787ecbe7b27": {
@@ -2632,7 +2632,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T14:40:45.034734Z",
-    "last_seen": "2026-02-23T01:07:47.931438Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "7c05f9ae267c": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-02-23T12:38:14.972966Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -2680,7 +2680,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T18:43:16.138066Z",
-    "last_seen": "2026-02-23T12:38:14.972966Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "f28ccda7f78e": {
@@ -2712,7 +2712,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-18T14:40:35.311914Z",
-    "last_seen": "2026-02-23T12:38:14.972966Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
     "is_new": false
   },
   "aca933ed2425": {
@@ -2810,5 +2810,53 @@
     "first_seen": "2026-02-22T12:25:35.433008Z",
     "last_seen": "2026-02-23T01:07:47.931438Z",
     "is_new": false
+  },
+  "a74780e25b5f": {
+    "id": "a74780e25b5f",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21375311",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 370000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 FOREST",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-23T14:41:41.507355Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
+    "is_new": true
+  },
+  "2aeae8d54de9": {
+    "id": "2aeae8d54de9",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21375307",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 345000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 FOREST",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-23T14:41:41.507355Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
+    "is_new": true
+  },
+  "c5064100cf54": {
+    "id": "c5064100cf54",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21376501",
+    "title": "Très bel appartement LUMINEUX",
+    "price": 470000,
+    "surface": 115,
+    "bedrooms": 2,
+    "address": "Italie avenue d' 45, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-23T14:41:41.507355Z",
+    "last_seen": "2026-02-23T14:41:41.507355Z",
+    "is_new": true
   }
 }
