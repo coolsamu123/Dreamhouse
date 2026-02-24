@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "35f182685f8f",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21377305",
+    "title": "Super projet d'investissement à Saint-Gilles",
+    "price": 495000,
+    "surface": 128,
+    "bedrooms": 1,
+    "address": "Rue de Savoie 82, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-24T18:46:58.851163Z",
+    "last_seen": "2026-02-24T18:46:58.851163Z",
+    "is_new": true
+  }
+]
