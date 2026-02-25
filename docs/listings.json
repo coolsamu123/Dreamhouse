@@ -1,6 +1,102 @@
 {
   "listings": [
     {
+      "id": "2de3e4cb83e1",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21380434",
+      "title": "Penthouse (2020) avec terrasse & parking - PEB : B",
+      "price": 325000,
+      "surface": 85,
+      "bedrooms": 1,
+      "address": "Avenue Van Volxem 40/7, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "is_new": true
+    },
+    {
+      "id": "e481c8e0e530",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21376501",
+      "title": "Très bel appartement LUMINEUX",
+      "price": 470000,
+      "surface": 115,
+      "bedrooms": 2,
+      "address": "Italie avenue d' 45, 1050 IXELLES",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "is_new": true
+    },
+    {
+      "id": "57920a3b7c56",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21381461",
+      "title": "Superbe apt de 2ch + terrasse et jardin!!!",
+      "price": 475000,
+      "surface": 84,
+      "bedrooms": 2,
+      "address": "Rue Mercelis 40, 1050 IXELLES",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "is_new": true
+    },
+    {
+      "id": "e11fb3c02eb8",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21380979",
+      "title": "BOONDAEL – DUPLEX  PENTHOUSE 3 CH 105 M² + TERRASSE 35 M²",
+      "price": 440000,
+      "surface": 105,
+      "bedrooms": 3,
+      "address": "Avenue Général Dossin de Saint-Georges 9, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "is_new": true
+    },
+    {
+      "id": "49e1f1ac01ab",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21363603",
+      "title": "Ixelles. Boendael Lumineux appt 113m²",
+      "price": 395000,
+      "surface": 113,
+      "bedrooms": 1,
+      "address": "Avenue Armand Huysmans 209, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "is_new": true
+    },
+    {
+      "id": "aa9dfd537650",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/classified/21366756",
+      "title": "Duplex – immeuble 2 unités seulement",
+      "price": null,
+      "surface": 93,
+      "bedrooms": 1,
+      "address": "Rue du Président 40, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "is_new": true
+    },
+    {
       "id": "35f182685f8f",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21377305",
@@ -29,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-02-25T01:12:00.830885Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
       "is_new": false
     },
     {
@@ -45,7 +141,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-02-25T01:12:00.830885Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
       "is_new": false
     },
     {
@@ -77,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-22T12:25:35.433008Z",
-      "last_seen": "2026-02-24T01:06:21.929459Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
       "is_new": false
     },
     {
@@ -221,7 +317,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-02-25T10:41:12.947192Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
       "is_new": false
     },
     {
@@ -1581,7 +1677,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-25T10:41:12.947192Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
       "is_new": false
     },
     {
@@ -1949,7 +2045,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-25T10:41:12.947192Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
       "is_new": false
     },
     {
@@ -2701,7 +2797,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-25T10:41:12.947192Z",
+      "last_seen": "2026-02-25T12:38:09.238937Z",
       "is_new": false
     },
     {
@@ -2877,7 +2973,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-25T10:41:12.950005Z",
-  "total_count": 179,
-  "new_count": 0
+  "last_updated": "2026-02-25T12:38:09.241977Z",
+  "total_count": 185,
+  "new_count": 6
 }
