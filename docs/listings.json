@@ -1,6 +1,54 @@
 {
   "listings": [
     {
+      "id": "1a1d1efb0147",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21381461",
+      "title": "Superbe apt de 2ch + terrasse et jardin!!!",
+      "price": 475000,
+      "surface": 84,
+      "bedrooms": 2,
+      "address": "Rue Mercelis 40, 1050 IXELLES",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T16:58:59.190484Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
+      "is_new": true
+    },
+    {
+      "id": "a169cb905f0a",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21380979",
+      "title": "BOONDAEL – DUPLEX  PENTHOUSE 3 CH 105 M² + TERRASSE 35 M²",
+      "price": 440000,
+      "surface": 105,
+      "bedrooms": 3,
+      "address": "Avenue Général Dossin de Saint-Georges 9, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T16:58:59.190484Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
+      "is_new": true
+    },
+    {
+      "id": "7a13d8f9d6d1",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21382265",
+      "title": "Appartement à Ixelles Avenue Louise Châtelain",
+      "price": 485000,
+      "surface": 112,
+      "bedrooms": 2,
+      "address": "Rue Du Magistrat - Wethoudersstraat 9, 1050 Elsene",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-25T16:58:59.190484Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
+      "is_new": true
+    },
+    {
       "id": "8d796e50634e",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21381685",
@@ -29,8 +77,8 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-25T12:38:09.238937Z",
-      "last_seen": "2026-02-25T12:38:09.238937Z",
-      "is_new": true
+      "last_seen": "2026-02-25T16:58:59.190484Z",
+      "is_new": false
     },
     {
       "id": "e481c8e0e530",
@@ -141,7 +189,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -157,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-02-25T12:38:09.238937Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -173,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-02-25T06:51:38.169943Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -317,7 +365,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T18:43:16.138066Z",
-      "last_seen": "2026-02-25T06:51:38.169943Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -333,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-02-25T14:44:35.293575Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -1693,7 +1741,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-25T14:44:35.293575Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -2061,7 +2109,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-25T14:44:35.293575Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -2813,7 +2861,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-25T14:44:35.293575Z",
+      "last_seen": "2026-02-25T16:58:59.190484Z",
       "is_new": false
     },
     {
@@ -2989,7 +3037,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-25T14:44:35.296529Z",
-  "total_count": 186,
-  "new_count": 1
+  "last_updated": "2026-02-25T16:58:59.193495Z",
+  "total_count": 189,
+  "new_count": 3
 }
