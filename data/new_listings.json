@@ -1,18 +1,18 @@
 [
   {
-    "id": "b582d6b579ff",
-    "source": "Immoweb Forest",
-    "source_url": "https://www.immoweb.be/bien/21373922",
-    "title": "Triplex lumineux de ±142 m² – grande terrasse (24m²)",
-    "price": 395000,
-    "surface": 142,
-    "bedrooms": 3,
-    "address": "Rue du Monténégro 112, 1190 Forest",
-    "commune": "Forest",
+    "id": "1a74d42b8b6a",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21385077",
+    "title": "Ixelles – 2 ch Art Déco avec cachet",
+    "price": 345000,
+    "surface": 126,
+    "bedrooms": 2,
+    "address": "Chaussée de Wavre 52/2, 1050 Ixelles",
+    "commune": "Ixelles",
     "description": "",
     "images": [],
-    "first_seen": "2026-02-26T20:26:02.574950Z",
-    "last_seen": "2026-02-26T20:26:02.574950Z",
+    "first_seen": "2026-02-26T22:26:56.363371Z",
+    "last_seen": "2026-02-26T22:26:56.363371Z",
     "is_new": true
   }
 ]
