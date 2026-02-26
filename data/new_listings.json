@@ -1,18 +1,18 @@
 [
   {
-    "id": "325a0ef1d0da",
-    "source": "Immoweb Ixelles",
-    "source_url": "https://www.immoweb.be/bien/21384379",
-    "title": "Cimetière d'Ixelles : appartement neuf de 2 chambres",
-    "price": 460000,
-    "surface": 81,
-    "bedrooms": 2,
-    "address": "Rue de l'Eté 192, 1050 Ixelles",
-    "commune": "Ixelles",
+    "id": "b582d6b579ff",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21373922",
+    "title": "Triplex lumineux de ±142 m² – grande terrasse (24m²)",
+    "price": 395000,
+    "surface": 142,
+    "bedrooms": 3,
+    "address": "Rue du Monténégro 112, 1190 Forest",
+    "commune": "Forest",
     "description": "",
     "images": [],
-    "first_seen": "2026-02-26T18:38:53.461730Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "first_seen": "2026-02-26T20:26:02.574950Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": true
   }
 ]

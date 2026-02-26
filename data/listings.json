@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -2824,7 +2824,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "2aeae8d54de9": {
@@ -2840,7 +2840,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "c5064100cf54": {
@@ -2856,7 +2856,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "35f182685f8f": {
@@ -3000,7 +3000,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-25T16:58:59.190484Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "a169cb905f0a": {
@@ -3016,7 +3016,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-25T16:58:59.190484Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "7a13d8f9d6d1": {
@@ -3032,7 +3032,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-25T16:58:59.190484Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "7011b0690aa4": {
@@ -3048,7 +3048,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T06:47:11.659894Z",
-    "last_seen": "2026-02-26T16:46:14.568826Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": false
   },
   "325a0ef1d0da": {
@@ -3064,7 +3064,23 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T18:38:53.461730Z",
-    "last_seen": "2026-02-26T18:38:53.461730Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
+    "is_new": false
+  },
+  "b582d6b579ff": {
+    "id": "b582d6b579ff",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21373922",
+    "title": "Triplex lumineux de ±142 m² – grande terrasse (24m²)",
+    "price": 395000,
+    "surface": 142,
+    "bedrooms": 3,
+    "address": "Rue du Monténégro 112, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-26T20:26:02.574950Z",
+    "last_seen": "2026-02-26T20:26:02.574950Z",
     "is_new": true
   }
 }
