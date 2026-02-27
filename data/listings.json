@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-27T08:31:32.559832Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-27T08:31:32.559832Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-27T08:31:32.559832Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-02-27T08:31:32.559832Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -3048,7 +3048,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T06:47:11.659894Z",
-    "last_seen": "2026-02-27T04:04:22.832771Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
     "is_new": false
   },
   "325a0ef1d0da": {
@@ -3097,6 +3097,54 @@
     "images": [],
     "first_seen": "2026-02-26T22:26:56.363371Z",
     "last_seen": "2026-02-26T22:26:56.363371Z",
+    "is_new": true
+  },
+  "296223c6bc3c": {
+    "id": "296223c6bc3c",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/classified/21375311",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 370000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 FOREST",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-27T10:28:59.071930Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
+    "is_new": true
+  },
+  "1ae01f007902": {
+    "id": "1ae01f007902",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/classified/21375307",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 345000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 FOREST",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-27T10:28:59.071930Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
+    "is_new": true
+  },
+  "d5de96908ff4": {
+    "id": "d5de96908ff4",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/classified/21380434",
+    "title": "Penthouse (2020) avec terrasse & parking - PEB : B",
+    "price": 325000,
+    "surface": 85,
+    "bedrooms": 1,
+    "address": "Avenue Van Volxem 40/7, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-27T10:28:59.071930Z",
+    "last_seen": "2026-02-27T10:28:59.071930Z",
     "is_new": true
   }
 }
