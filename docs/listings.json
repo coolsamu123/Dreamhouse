@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "5fb004192b79",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21387513",
+      "title": "Altitude 100 - Appartement 2 chambres vue sur le Parc Duden",
+      "price": 350000,
+      "surface": 85,
+      "bedrooms": 2,
+      "address": "avenue victor rousseau 100, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-02-27T18:27:45.370585Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
+      "is_new": true
+    },
+    {
       "id": "1447b0867e75",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21386094",
@@ -205,7 +221,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-25T12:38:09.238937Z",
-      "last_seen": "2026-02-27T14:34:28.814284Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
       "is_new": false
     },
     {
@@ -317,7 +333,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-02-27T14:34:28.814284Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
       "is_new": false
     },
     {
@@ -333,7 +349,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-02-27T14:34:28.814284Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
       "is_new": false
     },
     {
@@ -509,7 +525,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-02-27T16:29:52.635077Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
       "is_new": false
     },
     {
@@ -1869,7 +1885,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-02-27T16:29:52.635077Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
       "is_new": false
     },
     {
@@ -2237,7 +2253,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-02-27T16:29:52.635077Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
       "is_new": false
     },
     {
@@ -2989,7 +3005,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-02-27T16:29:52.635077Z",
+      "last_seen": "2026-02-27T18:27:45.370585Z",
       "is_new": false
     },
     {
@@ -3165,7 +3181,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-02-27T16:29:52.638076Z",
-  "total_count": 197,
-  "new_count": 0
+  "last_updated": "2026-02-27T18:27:45.373793Z",
+  "total_count": 198,
+  "new_count": 1
 }
