@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -2744,7 +2744,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-20T10:28:39.869216Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "2ed04ad7e6b0": {
@@ -2760,7 +2760,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-20T10:28:39.869216Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "0522ceb8dd9d": {
@@ -2776,7 +2776,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-20T10:28:39.869216Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "9636ce4882f1": {
@@ -2824,7 +2824,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "2aeae8d54de9": {
@@ -2840,7 +2840,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "c5064100cf54": {
@@ -2856,7 +2856,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-02-26T22:26:56.363371Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "35f182685f8f": {
@@ -2888,7 +2888,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-25T12:38:09.238937Z",
-    "last_seen": "2026-02-27T12:34:04.440728Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "e481c8e0e530": {
@@ -3000,7 +3000,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-25T16:58:59.190484Z",
-    "last_seen": "2026-02-26T22:26:56.363371Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "a169cb905f0a": {
@@ -3064,7 +3064,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T18:38:53.461730Z",
-    "last_seen": "2026-02-26T22:26:56.363371Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": false
   },
   "b582d6b579ff": {
@@ -3096,8 +3096,8 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T22:26:56.363371Z",
-    "last_seen": "2026-02-26T22:26:56.363371Z",
-    "is_new": true
+    "last_seen": "2026-02-27T14:34:28.814284Z",
+    "is_new": false
   },
   "296223c6bc3c": {
     "id": "296223c6bc3c",
@@ -3145,6 +3145,22 @@
     "images": [],
     "first_seen": "2026-02-27T10:28:59.071930Z",
     "last_seen": "2026-02-27T10:28:59.071930Z",
+    "is_new": true
+  },
+  "1447b0867e75": {
+    "id": "1447b0867e75",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21386094",
+    "title": "BEAU DUPLEX 2 CHAMBRES DE 80M2",
+    "price": 349000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Rue d'Edimbourg 44, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-27T14:34:28.814284Z",
+    "last_seen": "2026-02-27T14:34:28.814284Z",
     "is_new": true
   }
 }
