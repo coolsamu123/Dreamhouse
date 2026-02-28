@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "921e3b5b0a55",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21388996",
+    "title": "Lumineux Duplex 2 CHB de 110m2 quartier PARVIS de ST GILLES",
+    "price": 385000,
+    "surface": 110,
+    "bedrooms": 2,
+    "address": "Avenue Jean Volders 27/5, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-02-28T16:16:33.539508Z",
+    "last_seen": "2026-02-28T16:16:33.539508Z",
+    "is_new": true
+  }
+]
