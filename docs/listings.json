@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "db8014f29c2b",
+      "source": "Immoweb Saint-Gilles",
+      "source_url": "https://www.immoweb.be/bien/21389782",
+      "title": "SAINT-GILLES - GRAND DUPLEX  LUMINEUX 150m² A RENOVER",
+      "price": 295000,
+      "surface": 150,
+      "bedrooms": 3,
+      "address": "Rue de Lisbonne 6A, 1060 Saint-Gilles",
+      "commune": "Saint-Gilles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-03-01T18:20:23.809471Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
+      "is_new": true
+    },
+    {
       "id": "921e3b5b0a55",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21388996",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-28T16:16:33.539508Z",
-      "last_seen": "2026-03-01T14:17:21.343863Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -157,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-26T06:47:11.659894Z",
-      "last_seen": "2026-03-01T16:17:15.153913Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -221,7 +237,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-25T14:44:35.293575Z",
-      "last_seen": "2026-03-01T14:17:21.343863Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -429,7 +445,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-20T10:28:39.869216Z",
-      "last_seen": "2026-03-01T14:17:21.343863Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -445,7 +461,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-20T10:28:39.869216Z",
-      "last_seen": "2026-03-01T14:17:21.343863Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -541,7 +557,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-03-01T16:17:15.153913Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -1901,7 +1917,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-03-01T16:17:15.153913Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -2269,7 +2285,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-03-01T16:17:15.153913Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -3021,7 +3037,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-03-01T16:17:15.153913Z",
+      "last_seen": "2026-03-01T18:20:23.809471Z",
       "is_new": false
     },
     {
@@ -3197,7 +3213,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-03-01T16:17:15.156975Z",
-  "total_count": 199,
-  "new_count": 0
+  "last_updated": "2026-03-01T18:20:23.812767Z",
+  "total_count": 200,
+  "new_count": 1
 }
