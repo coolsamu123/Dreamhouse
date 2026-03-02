@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-03-02T14:37:41.543779Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-03-02T14:37:41.543779Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-03-02T14:37:41.543779Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-03-02T14:37:41.543779Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -2856,7 +2856,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-03-02T12:34:23.360824Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "35f182685f8f": {
@@ -3048,7 +3048,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T06:47:11.659894Z",
-    "last_seen": "2026-03-02T14:37:41.543779Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "325a0ef1d0da": {
@@ -3160,7 +3160,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-27T14:34:28.814284Z",
-    "last_seen": "2026-03-02T12:34:23.360824Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "5fb004192b79": {
@@ -3176,7 +3176,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-27T18:27:45.370585Z",
-    "last_seen": "2026-03-02T14:37:41.543779Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": false
   },
   "921e3b5b0a55": {
@@ -3224,8 +3224,8 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-02T12:34:23.360824Z",
-    "last_seen": "2026-03-02T12:34:23.360824Z",
-    "is_new": true
+    "last_seen": "2026-03-02T16:32:41.714003Z",
+    "is_new": false
   },
   "15095259f007": {
     "id": "15095259f007",
@@ -3240,7 +3240,55 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-02T12:34:23.360824Z",
-    "last_seen": "2026-03-02T12:34:23.360824Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
+    "is_new": false
+  },
+  "cb009e90bd74": {
+    "id": "cb009e90bd74",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21391970",
+    "title": "ALTITUDE 100: CHARMANT APT A RENOVER",
+    "price": 345000,
+    "surface": 91,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-02T16:32:41.714003Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
+    "is_new": true
+  },
+  "eb5414940b5f": {
+    "id": "eb5414940b5f",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21391971",
+    "title": "ALTITUDE 100: CHARMANT APT RENOVE",
+    "price": 370000,
+    "surface": 91,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-02T16:32:41.714003Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
+    "is_new": true
+  },
+  "4fda19f2ef36": {
+    "id": "4fda19f2ef36",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21391739",
+    "title": "MAGNIFIQUE APPARTEMENT 2 CHAMBRES AVEC TERRASSE ET GARAGE",
+    "price": 499000,
+    "surface": 113,
+    "bedrooms": 2,
+    "address": "Avenue Louise 112/7, 1050 Bruxelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-02T16:32:41.714003Z",
+    "last_seen": "2026-03-02T16:32:41.714003Z",
     "is_new": true
   }
 }
