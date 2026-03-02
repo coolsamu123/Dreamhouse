@@ -168,7 +168,7 @@
     "description": "",
     "images": [],
     "first_seen": "2025-12-18T21:39:27.536713Z",
-    "last_seen": "2026-03-02T10:36:15.944965Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "6d517c019741": {
@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-03-02T10:36:15.944965Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-03-02T10:36:15.944965Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-03-02T10:36:15.944965Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -2824,7 +2824,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-03-02T08:34:17.655830Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "2aeae8d54de9": {
@@ -2856,7 +2856,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-23T14:41:41.507355Z",
-    "last_seen": "2026-03-02T08:34:17.655830Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "35f182685f8f": {
@@ -3048,7 +3048,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T06:47:11.659894Z",
-    "last_seen": "2026-03-02T10:36:15.944965Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "325a0ef1d0da": {
@@ -3080,7 +3080,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T20:26:02.574950Z",
-    "last_seen": "2026-03-01T04:14:20.831238Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "1a74d42b8b6a": {
@@ -3096,7 +3096,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T22:26:56.363371Z",
-    "last_seen": "2026-03-02T08:34:17.655830Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "296223c6bc3c": {
@@ -3160,7 +3160,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-27T14:34:28.814284Z",
-    "last_seen": "2026-03-02T08:34:17.655830Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "5fb004192b79": {
@@ -3176,7 +3176,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-27T18:27:45.370585Z",
-    "last_seen": "2026-03-02T08:34:17.655830Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
     "is_new": false
   },
   "921e3b5b0a55": {
@@ -3210,5 +3210,37 @@
     "first_seen": "2026-03-01T18:20:23.809471Z",
     "last_seen": "2026-03-02T08:34:17.655830Z",
     "is_new": false
+  },
+  "d26b726f25a1": {
+    "id": "d26b726f25a1",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21390680",
+    "title": "Ixelles-EU District-appartement 2 chambres-cavette-emplaceme",
+    "price": 359000,
+    "surface": 88,
+    "bedrooms": 2,
+    "address": "CLOS DU PARNASSE 1, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-02T12:34:23.360824Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
+    "is_new": true
+  },
+  "15095259f007": {
+    "id": "15095259f007",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21390542",
+    "title": "Appartement contemporain avec terrasse, cave et parking",
+    "price": 460000,
+    "surface": 85,
+    "bedrooms": 2,
+    "address": "Rue de Stassart 36, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-02T12:34:23.360824Z",
+    "last_seen": "2026-03-02T12:34:23.360824Z",
+    "is_new": true
   }
 }
