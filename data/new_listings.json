@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "6602e15b0cbb",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21393248",
+    "title": "Duplex 3 chambres et balcon + bureau/dressing - Wiels",
+    "price": 299000,
+    "surface": 126,
+    "bedrooms": 3,
+    "address": "Avenue du Pont de Luttre 199, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-03T08:30:20.421614Z",
+    "last_seen": "2026-03-03T08:30:20.421614Z",
+    "is_new": true
+  }
+]
