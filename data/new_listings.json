@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "573684e65f5a",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21396137",
+    "title": "FOREST - Apt 2 chambres, terrasse et 2 parkings +/- 91m2",
+    "price": 375000,
+    "surface": 91,
+    "bedrooms": 2,
+    "address": "Rue du Delta 67, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-04T01:04:43.482835Z",
+    "last_seen": "2026-03-04T01:04:43.482835Z",
+    "is_new": true
+  },
+  {
+    "id": "095352e72adf",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21396159",
+    "title": "Appartement + combles 2 chambres",
+    "price": 235000,
+    "surface": 80,
+    "bedrooms": 2,
+    "address": "Chaussée d'Alsemberg 232, 1190 Bruxelles",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-04T01:04:43.482835Z",
+    "last_seen": "2026-03-04T01:04:43.482835Z",
+    "is_new": true
+  }
+]
