@@ -1,18 +1,18 @@
 [
   {
-    "id": "08716d448e1f",
-    "source": "Immoweb Ixelles",
-    "source_url": "https://www.immoweb.be/bien/21396866",
-    "title": "Ixelles-EU District-appartement 2 chambres-cavette-emplaceme",
-    "price": 349000,
-    "surface": 88,
+    "id": "3925c6fabe49",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21398764",
+    "title": "Magnifique appartement 2 chambres + studio et cour, entièrem",
+    "price": 499000,
+    "surface": 130,
     "bedrooms": 2,
-    "address": "CLOS DU PARNASSE 1, 1050 Ixelles",
-    "commune": "Ixelles",
+    "address": "chaussée de forest 91a, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
     "description": "",
     "images": [],
-    "first_seen": "2026-03-04T14:34:03.600626Z",
-    "last_seen": "2026-03-04T14:34:03.600626Z",
+    "first_seen": "2026-03-04T16:32:34.785510Z",
+    "last_seen": "2026-03-04T16:32:34.785510Z",
     "is_new": true
   }
 ]
