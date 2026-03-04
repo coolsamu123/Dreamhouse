@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "08716d448e1f",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21396866",
+    "title": "Ixelles-EU District-appartement 2 chambres-cavette-emplaceme",
+    "price": 349000,
+    "surface": 88,
+    "bedrooms": 2,
+    "address": "CLOS DU PARNASSE 1, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-04T14:34:03.600626Z",
+    "last_seen": "2026-03-04T14:34:03.600626Z",
+    "is_new": true
+  }
+]
