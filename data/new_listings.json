@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "c1eebeb501cf",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21401291",
+    "title": "Superbe appartement 3 chambres + terrasse + parking",
+    "price": 465000,
+    "surface": 127,
+    "bedrooms": 3,
+    "address": "Avenue d'Italie 43, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-05T14:41:09.941695Z",
+    "last_seen": "2026-03-05T14:41:09.941695Z",
+    "is_new": true
+  }
+]
