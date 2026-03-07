@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "f9a2af73912f",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21405805",
+      "title": "Ixelles - Louise/Cambre | Lumineux Appartement 2 chambres !",
+      "price": null,
+      "surface": 100,
+      "bedrooms": 2,
+      "address": "Avenue Louise 409, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-03-07T12:24:26.407666Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
+      "is_new": true
+    },
+    {
       "id": "c1eebeb501cf",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21401291",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-05T14:41:09.941695Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -61,7 +77,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-04T14:34:03.600626Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -157,7 +173,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-02T16:32:41.714003Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -365,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-26T06:47:11.659894Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -589,7 +605,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-23T14:41:41.507355Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -749,7 +765,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -2109,7 +2125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -2477,7 +2493,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -3229,7 +3245,7 @@
       "description": "",
       "images": [],
       "first_seen": "2025-12-18T21:39:27.536713Z",
-      "last_seen": "2026-03-07T10:15:03.593105Z",
+      "last_seen": "2026-03-07T12:24:26.407666Z",
       "is_new": false
     },
     {
@@ -3405,7 +3421,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-03-07T10:15:03.596819Z",
-  "total_count": 212,
-  "new_count": 0
+  "last_updated": "2026-03-07T12:24:26.410934Z",
+  "total_count": 213,
+  "new_count": 1
 }
