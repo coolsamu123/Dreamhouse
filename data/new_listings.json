@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "a250f7f5a6d7",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/maison/1370-jodoigne/7574115",
+    "title": "Villa à vendre",
+    "price": 399000,
+    "surface": 240,
+    "bedrooms": 5,
+    "address": "Jodoigne",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "is_new": true
+  },
+  {
+    "id": "b927523c4f63",
+    "source": "Modifa",
+    "source_url": "https://www.modifa.be/fr/bien/a-vendre/terrain/1390-grez-doiceau/7566501",
+    "title": "Terrain à vendre",
+    "price": 125000,
+    "surface": 1263,
+    "bedrooms": 0,
+    "address": "Grez-Doiceau",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "is_new": true
+  }
+]
