@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-03-09T12:36:04.955582Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-03-09T12:36:04.955582Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-03-09T12:36:04.955582Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -3048,7 +3048,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T06:47:11.659894Z",
-    "last_seen": "2026-03-09T12:36:04.955582Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "325a0ef1d0da": {
@@ -3176,7 +3176,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-27T18:27:45.370585Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "921e3b5b0a55": {
@@ -3256,7 +3256,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-02T16:32:41.714003Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "eb5414940b5f": {
@@ -3272,7 +3272,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-02T16:32:41.714003Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "4fda19f2ef36": {
@@ -3320,7 +3320,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-04T01:04:43.482835Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "095352e72adf": {
@@ -3336,7 +3336,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-04T01:04:43.482835Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "08716d448e1f": {
@@ -3352,7 +3352,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-04T14:34:03.600626Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "3925c6fabe49": {
@@ -3384,7 +3384,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-04T20:24:15.407359Z",
-    "last_seen": "2026-03-08T22:14:39.892725Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "c1eebeb501cf": {
@@ -3400,7 +3400,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-05T14:41:09.941695Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "f9a2af73912f": {
@@ -3416,7 +3416,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-07T12:24:26.407666Z",
-    "last_seen": "2026-03-09T10:37:56.494359Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": false
   },
   "a250f7f5a6d7": {
@@ -3449,6 +3449,22 @@
     "images": [],
     "first_seen": "2026-03-09T10:37:56.494359Z",
     "last_seen": "2026-03-09T10:37:56.494359Z",
+    "is_new": true
+  },
+  "771b17a7385f": {
+    "id": "771b17a7385f",
+    "source": "Viabilis",
+    "source_url": "https://www.viabilis.be/fr/detail/7600849/vente/appartement/saint-gilles",
+    "title": "appartement",
+    "price": 215000,
+    "surface": 80,
+    "bedrooms": 1,
+    "address": "Avenue Fonsny 126 - 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-09T14:43:55.840158Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
     "is_new": true
   }
 }

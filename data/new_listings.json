@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "771b17a7385f",
+    "source": "Viabilis",
+    "source_url": "https://www.viabilis.be/fr/detail/7600849/vente/appartement/saint-gilles",
+    "title": "appartement",
+    "price": 215000,
+    "surface": 80,
+    "bedrooms": 1,
+    "address": "Avenue Fonsny 126 - 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-09T14:43:55.840158Z",
+    "last_seen": "2026-03-09T14:43:55.840158Z",
+    "is_new": true
+  }
+]
