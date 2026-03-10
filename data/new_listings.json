@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "65c86a291e11",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21411846",
+    "title": "Appartement 2 CH avec terrasse Sud-Ouest",
+    "price": null,
+    "surface": 90,
+    "bedrooms": 2,
+    "address": "Rue de Livourne 67, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-10T12:35:54.642520Z",
+    "last_seen": "2026-03-10T12:35:54.642520Z",
+    "is_new": true
+  }
+]
