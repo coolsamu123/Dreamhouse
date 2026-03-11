@@ -936,7 +936,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-07T16:19:12.810500Z",
-    "last_seen": "2026-03-11T14:41:18.458990Z",
+    "last_seen": "2026-03-11T16:40:42.076910Z",
     "is_new": false
   },
   "a4e6d3776f0d": {
@@ -1304,7 +1304,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-01-15T18:26:15.886655Z",
-    "last_seen": "2026-03-11T14:41:18.458990Z",
+    "last_seen": "2026-03-11T16:40:42.076910Z",
     "is_new": false
   },
   "2366d60367df": {
@@ -2664,7 +2664,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-17T16:45:43.054236Z",
-    "last_seen": "2026-03-11T14:41:18.458990Z",
+    "last_seen": "2026-03-11T16:40:42.076910Z",
     "is_new": false
   },
   "b27a76eab151": {
@@ -3048,7 +3048,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-26T06:47:11.659894Z",
-    "last_seen": "2026-03-11T14:41:18.458990Z",
+    "last_seen": "2026-03-11T16:40:42.076910Z",
     "is_new": false
   },
   "325a0ef1d0da": {
@@ -3192,7 +3192,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-02-28T16:16:33.539508Z",
-    "last_seen": "2026-03-11T10:30:01.730635Z",
+    "last_seen": "2026-03-11T16:40:42.076910Z",
     "is_new": false
   },
   "db8014f29c2b": {
@@ -3464,7 +3464,7 @@
     "description": "",
     "images": [],
     "first_seen": "2026-03-09T14:43:55.840158Z",
-    "last_seen": "2026-03-11T14:41:18.458990Z",
+    "last_seen": "2026-03-11T16:40:42.076910Z",
     "is_new": false
   },
   "65c86a291e11": {
@@ -3482,5 +3482,21 @@
     "first_seen": "2026-03-10T12:35:54.642520Z",
     "last_seen": "2026-03-11T10:30:01.730635Z",
     "is_new": false
+  },
+  "7f5219b2a36c": {
+    "id": "7f5219b2a36c",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21415367",
+    "title": "Votre cocon clé en main",
+    "price": 325000,
+    "surface": 82,
+    "bedrooms": 1,
+    "address": "Rue du Monténégro 166, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-11T16:40:42.076910Z",
+    "last_seen": "2026-03-11T16:40:42.076910Z",
+    "is_new": true
   }
 }
