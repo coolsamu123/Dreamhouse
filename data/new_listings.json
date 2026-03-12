@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "63ef3f9906ae",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21418802",
+    "title": "Appartement moderne 2 ch./2 sdb! près de l'ULB Campus de la",
+    "price": 460000,
+    "surface": 92,
+    "bedrooms": 2,
+    "address": "Roger LallemandLaan 3/9, 1050 Elsene",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-12T18:40:07.985945Z",
+    "last_seen": "2026-03-12T18:40:07.985945Z",
+    "is_new": true
+  }
+]
