@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "064e0ea868a8",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21421578",
+    "title": "Vivre Saint-Gilles dans une avenue calme et verdoyante",
+    "price": 340000,
+    "surface": 102,
+    "bedrooms": 2,
+    "address": "Avenue Jef Lambeaux 22, 1060 Saint-Gilles",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-13T16:29:19.757885Z",
+    "last_seen": "2026-03-13T16:29:19.757885Z",
+    "is_new": true
+  },
+  {
+    "id": "097da5c87c80",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/classified/21415781",
+    "title": "Bel apt 1ch dans un immeuble style ART DECO!",
+    "price": 370000,
+    "surface": 91,
+    "bedrooms": 1,
+    "address": "Chaussée d'Alsemberg 365, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-13T16:29:19.757885Z",
+    "last_seen": "2026-03-13T16:29:19.757885Z",
+    "is_new": true
+  },
+  {
+    "id": "9355862809b5",
+    "source": "Immoweb Ixelles",
+    "source_url": "https://www.immoweb.be/bien/21421206",
+    "title": "Appartement lumineux avec terrasse et jardin",
+    "price": 375000,
+    "surface": 84,
+    "bedrooms": 2,
+    "address": "Avenue Jeanne 24, 1050 Ixelles",
+    "commune": "Ixelles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-13T16:29:19.757885Z",
+    "last_seen": "2026-03-13T16:29:19.757885Z",
+    "is_new": true
+  }
+]
