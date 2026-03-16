@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "fbd70517bf47",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21426144",
+      "title": "PORTES OUVERTES SAMEDI 21/03 DE 10H A 12H",
+      "price": 339500,
+      "surface": 94,
+      "bedrooms": 2,
+      "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-03-16T14:55:50.426966Z",
+      "last_seen": "2026-03-16T14:55:50.426966Z",
+      "is_new": true
+    },
+    {
       "id": "44224e70099a",
       "source": "Immoweb Forest",
       "source_url": "https://www.immoweb.be/classified/21422256",
@@ -189,7 +205,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-12T12:34:38.194214Z",
-      "last_seen": "2026-03-15T16:20:37.172786Z",
+      "last_seen": "2026-03-16T14:55:50.426966Z",
       "is_new": false
     },
     {
@@ -285,7 +301,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-09T14:43:55.840158Z",
-      "last_seen": "2026-03-16T12:44:28.348320Z",
+      "last_seen": "2026-03-16T14:55:50.426966Z",
       "is_new": false
     },
     {
@@ -701,7 +717,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-26T06:47:11.659894Z",
-      "last_seen": "2026-03-16T12:44:28.348320Z",
+      "last_seen": "2026-03-16T14:55:50.426966Z",
       "is_new": false
     },
     {
@@ -1085,7 +1101,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-03-16T12:44:28.348320Z",
+      "last_seen": "2026-03-16T14:55:50.426966Z",
       "is_new": false
     },
     {
@@ -2445,7 +2461,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-03-16T12:44:28.348320Z",
+      "last_seen": "2026-03-16T14:55:50.426966Z",
       "is_new": false
     },
     {
@@ -2813,7 +2829,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-03-16T12:44:28.348320Z",
+      "last_seen": "2026-03-16T14:55:50.426966Z",
       "is_new": false
     },
     {
@@ -3741,7 +3757,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-03-16T12:44:28.351823Z",
-  "total_count": 233,
-  "new_count": 0
+  "last_updated": "2026-03-16T14:55:50.430476Z",
+  "total_count": 234,
+  "new_count": 1
 }
