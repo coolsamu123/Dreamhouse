@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "e85069a4882d",
+      "source": "Immoweb Forest",
+      "source_url": "https://www.immoweb.be/bien/21429907",
+      "title": "PORTES OUVERTES SAMEDI 21/03 DE 10H A 12H",
+      "price": 345000,
+      "surface": 85,
+      "bedrooms": 2,
+      "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+      "commune": "Forest",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-03-17T18:47:10.461817Z",
+      "last_seen": "2026-03-17T18:47:10.461817Z",
+      "is_new": true
+    },
+    {
       "id": "cde0171f67a3",
       "source": "Immoweb Ixelles",
       "source_url": "https://www.immoweb.be/bien/21427655",
@@ -333,7 +349,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-09T14:43:55.840158Z",
-      "last_seen": "2026-03-17T16:55:45.151690Z",
+      "last_seen": "2026-03-17T18:47:10.461817Z",
       "is_new": false
     },
     {
@@ -749,7 +765,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-26T06:47:11.659894Z",
-      "last_seen": "2026-03-17T16:55:45.151690Z",
+      "last_seen": "2026-03-17T18:47:10.461817Z",
       "is_new": false
     },
     {
@@ -1133,7 +1149,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-03-17T16:55:45.151690Z",
+      "last_seen": "2026-03-17T18:47:10.461817Z",
       "is_new": false
     },
     {
@@ -2493,7 +2509,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-03-17T16:55:45.151690Z",
+      "last_seen": "2026-03-17T18:47:10.461817Z",
       "is_new": false
     },
     {
@@ -2861,7 +2877,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-03-17T16:55:45.151690Z",
+      "last_seen": "2026-03-17T18:47:10.461817Z",
       "is_new": false
     },
     {
@@ -3789,7 +3805,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-03-17T16:55:45.155205Z",
-  "total_count": 236,
-  "new_count": 0
+  "last_updated": "2026-03-17T18:47:10.465262Z",
+  "total_count": 237,
+  "new_count": 1
 }

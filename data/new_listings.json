@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "e85069a4882d",
+    "source": "Immoweb Forest",
+    "source_url": "https://www.immoweb.be/bien/21429907",
+    "title": "PORTES OUVERTES SAMEDI 21/03 DE 10H A 12H",
+    "price": 345000,
+    "surface": 85,
+    "bedrooms": 2,
+    "address": "Rue Marguerite Bervoets 50, 1190 Forest",
+    "commune": "Forest",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-17T18:47:10.461817Z",
+    "last_seen": "2026-03-17T18:47:10.461817Z",
+    "is_new": true
+  }
+]
