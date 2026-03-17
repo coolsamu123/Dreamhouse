@@ -1,6 +1,22 @@
 {
   "listings": [
     {
+      "id": "cde0171f67a3",
+      "source": "Immoweb Ixelles",
+      "source_url": "https://www.immoweb.be/bien/21427655",
+      "title": "Ixelles-EU District-appartement 2 chambres-cavette-emplaceme",
+      "price": 325000,
+      "surface": 88,
+      "bedrooms": 2,
+      "address": "CLOS DU PARNASSE 1, 1050 Ixelles",
+      "commune": "Ixelles",
+      "description": "",
+      "images": [],
+      "first_seen": "2026-03-17T10:41:10.051363Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
+      "is_new": true
+    },
+    {
       "id": "d1c6ecb40440",
       "source": "Immoweb Saint-Gilles",
       "source_url": "https://www.immoweb.be/bien/21426705",
@@ -13,7 +29,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-16T18:46:58.036422Z",
-      "last_seen": "2026-03-17T08:40:09.886053Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -61,7 +77,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-13T22:21:02.017278Z",
-      "last_seen": "2026-03-17T06:52:36.610331Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -109,7 +125,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-13T16:29:19.757885Z",
-      "last_seen": "2026-03-17T08:40:09.886053Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -141,7 +157,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-13T16:29:19.757885Z",
-      "last_seen": "2026-03-17T06:52:36.610331Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -317,7 +333,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-09T14:43:55.840158Z",
-      "last_seen": "2026-03-17T08:40:09.886053Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -365,7 +381,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-07T12:24:26.407666Z",
-      "last_seen": "2026-03-17T06:52:36.610331Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -397,7 +413,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-03-04T20:24:15.407359Z",
-      "last_seen": "2026-03-16T22:24:29.524468Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -733,7 +749,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-26T06:47:11.659894Z",
-      "last_seen": "2026-03-17T08:40:09.886053Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -1117,7 +1133,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-02-17T16:45:43.054236Z",
-      "last_seen": "2026-03-17T08:40:09.886053Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -2477,7 +2493,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-15T18:26:15.886655Z",
-      "last_seen": "2026-03-17T08:40:09.886053Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -2845,7 +2861,7 @@
       "description": "",
       "images": [],
       "first_seen": "2026-01-07T16:19:12.810500Z",
-      "last_seen": "2026-03-17T08:40:09.886053Z",
+      "last_seen": "2026-03-17T10:41:10.051363Z",
       "is_new": false
     },
     {
@@ -3773,7 +3789,7 @@
       "is_new": true
     }
   ],
-  "last_updated": "2026-03-17T08:40:09.889608Z",
-  "total_count": 235,
-  "new_count": 0
+  "last_updated": "2026-03-17T10:41:10.055041Z",
+  "total_count": 236,
+  "new_count": 1
 }
