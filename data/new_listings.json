@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "46a90921d97c",
+    "source": "Immoweb Saint-Gilles",
+    "source_url": "https://www.immoweb.be/bien/21438813",
+    "title": "SAINT GILLES - DUPLEX (2CH/2SDD) PARVIS",
+    "price": 300000,
+    "surface": 85,
+    "bedrooms": 2,
+    "address": "Place Louis Morichar 45, 1060 SAINT-GILLES",
+    "commune": "Saint-Gilles",
+    "description": "",
+    "images": [],
+    "first_seen": "2026-03-21T08:21:33.456596Z",
+    "last_seen": "2026-03-21T08:21:33.456596Z",
+    "is_new": true
+  }
+]
